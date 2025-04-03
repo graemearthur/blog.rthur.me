@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MATE Desktop on Arthur’s Almanac</title><link>https://blog.rthur.me/tags/mate-desktop/</link><description>Recent content in MATE Desktop on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/tags/mate-desktop/rss.xml" rel="self" type="application/rss+xml"/><item><title>Debian</title><link>https://blog.rthur.me/projects/debian/</link><pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/debian/</guid><description>&lt;p>Debian is a Unix-like computer operating system and a Linux distribution that is
-composed entirely of free and open-source software, most of which is under the
-GNU General Public License, and packaged by a group of individuals known as the
-Debian Project.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://debian.org">Debian Project&lt;/a>&lt;/li>
-&lt;li>Date: October 2014 - date&lt;/li>
-&lt;li>Role: Package maintainer&lt;/li>
-&lt;/ul></description><summary>Package maintainer for (mostly) MATE Desktop in Debian and Ubuntu</summary></item><item><title>MATE Desktop on Debian Wheezy</title><link>https://blog.rthur.me/posts/mate-desktop-on-debian-wheezy/</link><pubDate>Thu, 19 Jun 2014 22:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mate-desktop-on-debian-wheezy/</guid><description>&lt;p>I&amp;rsquo;m a member of the &lt;a href="http://mate-desktop.org">MATE Desktop&lt;/a> team and until
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MATE Desktop on Arthur’s Almanac</title><link>https://blog.rthur.me/tags/mate-desktop/</link><description>Recent content in MATE Desktop on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Thu, 19 Jun 2014 22:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/tags/mate-desktop/rss.xml" rel="self" type="application/rss+xml"/><item><title>MATE Desktop on Debian Wheezy</title><link>https://blog.rthur.me/posts/mate-desktop-on-debian-wheezy/</link><pubDate>Thu, 19 Jun 2014 22:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mate-desktop-on-debian-wheezy/</guid><description>&lt;p>I&amp;rsquo;m a member of the &lt;a href="http://mate-desktop.org">MATE Desktop&lt;/a> team and until
 recently the majority of my involvement has been focused around &lt;a href="http://www.archlinux.org">Arch Linux&lt;/a>.&lt;/p>
 &lt;p>However, I&amp;rsquo;m working on a MATE project that is based on a &lt;a href="http://www.debian.org">Debian&lt;/a>
 derivative. MATE has recently been accepted into the &lt;a href="backports.debian.org/">Debian Backports&lt;/a>
@@ -82,16 +74,7 @@ login credentials.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://wiki.mate-desktop.org/download?s%5B%5D=debian">http://wiki.mate-desktop.org/download?s[]=debian&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://wiki.debian.org/InstallingDebianOn/HP/HP2133">https://wiki.debian.org/InstallingDebianOn/HP/HP2133&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Setting up MATE Desktop on Debian Wheezy</summary></item><item><title>Ubuntu MATE</title><link>https://blog.rthur.me/projects/ubuntu-mate/</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/ubuntu-mate/</guid><description>&lt;p>A community developed Ubuntu based operating system that beautifully integrates
-the &lt;a href="https://mate-desktop.org">MATE desktop&lt;/a>. Ubuntu MATE is a stable,
-easy-to-use operating system with a configurable desktop environment and is
-suitable for modern workstations, laptops, single board computers and older
-hardware alike.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://ubuntu-mate.org">Ubuntu MATE Project&lt;/a>&lt;/li>
-&lt;li>Date: June 2014 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Ubuntu MATE is a Linux distribution I made for my friends and family</summary></item><item><title>Memory consumption of Linux desktop environments</title><link>https://blog.rthur.me/posts/memory-consumption-of-linux-desktop-environments/</link><pubDate>Sun, 23 Mar 2014 13:30:27 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/memory-consumption-of-linux-desktop-environments/</guid><description>&lt;div class="alert alert-info">
+&lt;/ul></description><summary>Setting up MATE Desktop on Debian Wheezy</summary></item><item><title>Memory consumption of Linux desktop environments</title><link>https://blog.rthur.me/posts/memory-consumption-of-linux-desktop-environments/</link><pubDate>Sun, 23 Mar 2014 13:30:27 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/memory-consumption-of-linux-desktop-environments/</guid><description>&lt;div class="alert alert-info">
 &lt;strong>Note&lt;/strong> Updated on June 3rd 2014 and now includes LXQt and Unity.
 &lt;/div>
 &lt;p>For the last 9 months or so I&amp;rsquo;ve spent my spare time working with the
@@ -698,23 +681,7 @@ RAM (for me at least).&lt;/p>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="final-thoughts">Final thoughts&lt;/h2>
 &lt;p>On Arch Linux at least, Xfce has lower resource requirements than MATE.
 When I said different in the past I was wrong, unless you use openSUSE
-in which case I was probably right, maybe.&lt;/p></description><summary>Comparing desktop environment memory usage with ps_mem</summary></item><item><title>openSUSE</title><link>https://blog.rthur.me/projects/opensuse/</link><pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/opensuse/</guid><description>&lt;p>Mentored three students for the &lt;a href="https://www.google-melange.com/gsoc/org2/google/gsoc2014/opensuse">openSUSE 2014 Google Summer of Code&lt;/a>.
-All three students successfully completed their projects for the
-&lt;a href="https://mate-desktop.org">MATE Desktop&lt;/a>.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="http://www.opensuse.org">openSUSE&lt;/a>&lt;/li>
-&lt;li>Date: February 2014 - August 2014&lt;/li>
-&lt;li>Role: Student mentor&lt;/li>
-&lt;/ul></description><summary>Student mentor for Google Summer of Code 2014</summary></item><item><title>Arch Linux</title><link>https://blog.rthur.me/projects/arch-linux/</link><pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/arch-linux/</guid><description>&lt;p>&lt;a href="https://archlinux.org">Arch Linux &lt;/a> is a Linux distribution that uses a rolling
-release model, such that a regular system update is all that is needed to obtain
-all the latest software. The design approach follows the KISS principle
-(&lt;i>&amp;ldquo;keep it simple, stupid&amp;rdquo;&lt;/i>) and focuses on elegance, code correctness,
-minimalism and simplicity.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://archlinux.org">Arch Linux &lt;/a>&lt;/li>
-&lt;li>Date: December 2013 - December 2016&lt;/li>
-&lt;li>Role: Trusted user &amp;amp; Package maintainer&lt;/li>
-&lt;/ul></description><summary>Arch Linux Trusted User &amp;amp; Package maintainer</summary></item><item><title>Linux Mint LMDE on Hybrid Disk Laptop</title><link>https://blog.rthur.me/posts/linux-mint-lmde-on-hybrid-disk-laptop/</link><pubDate>Wed, 28 Aug 2013 20:10:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/linux-mint-lmde-on-hybrid-disk-laptop/</guid><description>&lt;p>I have an old Thinkpad T43p that I am trying to extend the life of. So I recently
+in which case I was probably right, maybe.&lt;/p></description><summary>Comparing desktop environment memory usage with ps_mem</summary></item><item><title>Linux Mint LMDE on Hybrid Disk Laptop</title><link>https://blog.rthur.me/posts/linux-mint-lmde-on-hybrid-disk-laptop/</link><pubDate>Wed, 28 Aug 2013 20:10:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/linux-mint-lmde-on-hybrid-disk-laptop/</guid><description>&lt;p>I have an old Thinkpad T43p that I am trying to extend the life of. So I recently
 fitted a cheap 60GB IDE Solid State Drive (SSD) and put a 320GB SATA Hard Disk
 Drive (HDD) in the Ultrabay. This is not a true hybrid disk, but the principles
 are similar. The root partition will go on the SDD (for performance) and the

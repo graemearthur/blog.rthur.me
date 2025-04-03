@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bash on Arthur’s Almanac</title><link>https://blog.rthur.me/tags/bash/</link><description>Recent content in Bash on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/tags/bash/rss.xml" rel="self" type="application/rss+xml"/><item><title>machinespawn</title><link>https://blog.rthur.me/projects/machinespawn/</link><pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/machinespawn/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a> is a wrapper for
-&lt;code>machinectl&lt;/code> and &lt;code>systemd-nspawn&lt;/code> to creating and managing containers; primarily
-focused at local development environment and CI/CD with a heavy emphasis on
-caching.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a>&lt;/li>
-&lt;li>Date: October 2022 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Quickly stand up systemd-nspawn containers for development or CI/CD</summary></item><item><title>deb-get</title><link>https://blog.rthur.me/projects/deb-get/</link><pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/deb-get/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a> makes it easy to install and
-update .debs published in 3rd party apt repositories or made available via
-direct download on websites or GitHub release pages.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a>&lt;/li>
-&lt;li>Date: April 2022 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>apt-get functionality for .debs published in GitHub release or 3rd party repositories</summary></item><item><title>Retro Home</title><link>https://blog.rthur.me/projects/retro-home/</link><pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/retro-home/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a> is custom Raspberry Pi
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bash on Arthur’s Almanac</title><link>https://blog.rthur.me/tags/bash/</link><description>Recent content in Bash on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/tags/bash/rss.xml" rel="self" type="application/rss+xml"/><item><title>Retro Home</title><link>https://blog.rthur.me/projects/retro-home/</link><pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/retro-home/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a> is custom Raspberry Pi
 operating system purpose built for retro gaming. Built with
 &lt;a href="https://ubuntu.com/">Ubuntu&lt;/a> and using the minimalist emulator frontend
 &lt;a href="https://ludo.libretro.com/">Ludo&lt;/a> it supports most classic consoles from Atari,
@@ -25,15 +10,7 @@ are supported (with more in the works) using bespoke GPIO drivers.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a>&lt;/li>
 &lt;li>Date: July 2020 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>A retro-gaming operating system for Raspberry Pi built with Ubuntu and Ludo</summary></item><item><title>Rolling Rhino</title><link>https://blog.rthur.me/projects/rolling-rhino/</link><pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/rolling-rhino/</guid><description>&lt;p>Simple shell script to convert Ubuntu into a &lt;em>&amp;ldquo;rolling release&amp;rdquo;&lt;/em> that tracks the
-&lt;code>devel&lt;/code> series; &lt;strong>for the toughest of Ubuntu users&lt;/strong>.&lt;/p>
-&lt;p>This project has served its purpose. It inspired another group of developers to
-create a &lt;a href="https://rollingrhino.org/">fully fledged Ubuntu Rolling Rhino distro&lt;/a>.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/rolling-rhino">Rolling Rhino&lt;/a>&lt;/li>
-&lt;li>Date: March 2020 - November 2022&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Convert Ubuntu into a rolling release</summary></item><item><title>Quickemu</title><link>https://blog.rthur.me/projects/quickemu/</link><pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/quickemu/</guid><description>&lt;p>Quickly create and run highly optimised desktop virtual machines for Linux,
+&lt;/ul></description><summary>A retro-gaming operating system for Raspberry Pi built with Ubuntu and Ludo</summary></item><item><title>Quickemu</title><link>https://blog.rthur.me/projects/quickemu/</link><pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/quickemu/</guid><description>&lt;p>Quickly create and run highly optimised desktop virtual machines for Linux,
 macOS and Windows; with just two commands. You decide what operating system you
 want to run and &lt;a href="https://github.com/quickemu-project/quickemu">Quickemu&lt;/a> will figure out the best way to do it for you&lt;/p>
 &lt;ul>

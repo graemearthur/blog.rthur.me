@@ -531,31 +531,7 @@ So, if you want to get a head start with Nix on the Steam Deck then you can do t
 &lt;li>Organisation: &lt;a href="https://linuxmatters.sh">Linux Matters&lt;/a>&lt;/li>
 &lt;li>Date: April 2023 - date&lt;/li>
 &lt;li>Role: Writer &amp;amp; Presenter&lt;/li>
-&lt;/ul></description><summary>Three experienced Open Source professionals discuss the impact Linux has in their daily lives</summary></item><item><title>machinespawn</title><link>https://blog.rthur.me/projects/machinespawn/</link><pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/machinespawn/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a> is a wrapper for
-&lt;code>machinectl&lt;/code> and &lt;code>systemd-nspawn&lt;/code> to creating and managing containers; primarily
-focused at local development environment and CI/CD with a heavy emphasis on
-caching.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a>&lt;/li>
-&lt;li>Date: October 2022 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Quickly stand up systemd-nspawn containers for development or CI/CD</summary></item><item><title>Linux Downtime</title><link>https://blog.rthur.me/projects/linux-downtime/</link><pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/linux-downtime/</guid><description>&lt;p>Open source professionals &lt;a href="https://wimpress.com">Martin Wimpress&lt;/a>,
-&lt;a href="https://linktr.ee/haydenbarnes">Hayden Barnes&lt;/a>, &lt;a href="https://reaperworld.com/">Gary Kramlich&lt;/a>,
-and &lt;a href="https://popey.com/">Alan Pope&lt;/a> join &lt;a href="https://joeress.com/">Joe Ressington&lt;/a>
-for relaxed discussions in their downtime. From working in the industry and
-progressing your career, to managing a project&amp;rsquo;s community, and beyond.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://linuxdowntime.com">Linux Downtime&lt;/a>&lt;/li>
-&lt;li>Date: April 2022 - April 2023&lt;/li>
-&lt;li>Role: Co-presenter &amp;amp; Producer&lt;/li>
-&lt;/ul></description><summary>Open source professionals having relaxed discussions in their downtime</summary></item><item><title>deb-get</title><link>https://blog.rthur.me/projects/deb-get/</link><pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/deb-get/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a> makes it easy to install and
-update .debs published in 3rd party apt repositories or made available via
-direct download on websites or GitHub release pages.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a>&lt;/li>
-&lt;li>Date: April 2022 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>apt-get functionality for .debs published in GitHub release or 3rd party repositories</summary></item><item><title>Creating Production-Ready Containers - Advanced Techniques</title><link>https://blog.rthur.me/posts/creating-production-ready-containers-advanced-techniques/</link><pubDate>Fri, 18 Jun 2021 12:18:15 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/creating-production-ready-containers-advanced-techniques/</guid><description>&lt;p>Creating production-ready containers for use in commercial-grade apps can be a far cry from the &amp;ldquo;get started with Node.js and Docker&amp;rdquo;-type of tutorials that are common around the Internet. Those guides are great for introducing all the advantages of Docker containers in modern cloud-native development, but creating a container that passes muster in a large-scale application in production is a different story.&lt;/p>
+&lt;/ul></description><summary>Three experienced Open Source professionals discuss the impact Linux has in their daily lives</summary></item><item><title>Creating Production-Ready Containers - Advanced Techniques</title><link>https://blog.rthur.me/posts/creating-production-ready-containers-advanced-techniques/</link><pubDate>Fri, 18 Jun 2021 12:18:15 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/creating-production-ready-containers-advanced-techniques/</guid><description>&lt;p>Creating production-ready containers for use in commercial-grade apps can be a far cry from the &amp;ldquo;get started with Node.js and Docker&amp;rdquo;-type of tutorials that are common around the Internet. Those guides are great for introducing all the advantages of Docker containers in modern cloud-native development, but creating a container that passes muster in a large-scale application in production is a different story.&lt;/p>
 &lt;p>For production-ready containers, there are three key things you want to optimise for when creating a container:&lt;/p>
 &lt;ol>
 &lt;li>Image Size 📦&lt;/li>
@@ -743,15 +719,7 @@ are supported (with more in the works) using bespoke GPIO drivers.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a>&lt;/li>
 &lt;li>Date: July 2020 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>A retro-gaming operating system for Raspberry Pi built with Ubuntu and Ludo</summary></item><item><title>Rolling Rhino</title><link>https://blog.rthur.me/projects/rolling-rhino/</link><pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/rolling-rhino/</guid><description>&lt;p>Simple shell script to convert Ubuntu into a &lt;em>&amp;ldquo;rolling release&amp;rdquo;&lt;/em> that tracks the
-&lt;code>devel&lt;/code> series; &lt;strong>for the toughest of Ubuntu users&lt;/strong>.&lt;/p>
-&lt;p>This project has served its purpose. It inspired another group of developers to
-create a &lt;a href="https://rollingrhino.org/">fully fledged Ubuntu Rolling Rhino distro&lt;/a>.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/rolling-rhino">Rolling Rhino&lt;/a>&lt;/li>
-&lt;li>Date: March 2020 - November 2022&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Convert Ubuntu into a rolling release</summary></item><item><title>Quickemu</title><link>https://blog.rthur.me/projects/quickemu/</link><pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/quickemu/</guid><description>&lt;p>Quickly create and run highly optimised desktop virtual machines for Linux,
+&lt;/ul></description><summary>A retro-gaming operating system for Raspberry Pi built with Ubuntu and Ludo</summary></item><item><title>Quickemu</title><link>https://blog.rthur.me/projects/quickemu/</link><pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/quickemu/</guid><description>&lt;p>Quickly create and run highly optimised desktop virtual machines for Linux,
 macOS and Windows; with just two commands. You decide what operating system you
 want to run and &lt;a href="https://github.com/quickemu-project/quickemu">Quickemu&lt;/a> will figure out the best way to do it for you&lt;/p>
 &lt;ul>
@@ -1268,15 +1236,7 @@ and &lt;a href="https://fosstalk.com/">FOSS Talk Live&lt;/a>.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://ubuntupodcast.org">Ubuntu Podcast&lt;/a>&lt;/li>
 &lt;li>Date: February 2015 - September 2021&lt;/li>
 &lt;li>Role: Co-presenter &amp;amp; Producer&lt;/li>
-&lt;/ul></description><summary>A weekly family-friendly audio magazine for the Ubuntu community</summary></item><item><title>Debian</title><link>https://blog.rthur.me/projects/debian/</link><pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/debian/</guid><description>&lt;p>Debian is a Unix-like computer operating system and a Linux distribution that is
-composed entirely of free and open-source software, most of which is under the
-GNU General Public License, and packaged by a group of individuals known as the
-Debian Project.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://debian.org">Debian Project&lt;/a>&lt;/li>
-&lt;li>Date: October 2014 - date&lt;/li>
-&lt;li>Role: Package maintainer&lt;/li>
-&lt;/ul></description><summary>Package maintainer for (mostly) MATE Desktop in Debian and Ubuntu</summary></item><item><title>Installing Willie IRC Bot on Debian</title><link>https://blog.rthur.me/posts/installing-willie-irc-bot-on-debian/</link><pubDate>Sat, 09 Aug 2014 11:11:11 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/installing-willie-irc-bot-on-debian/</guid><description>&lt;p>&lt;a href="http://willie.dftba.net/">Willie&lt;/a> is an IRC bot written in &lt;a href="http://www.python.org">Python&lt;/a>
+&lt;/ul></description><summary>A weekly family-friendly audio magazine for the Ubuntu community</summary></item><item><title>Installing Willie IRC Bot on Debian</title><link>https://blog.rthur.me/posts/installing-willie-irc-bot-on-debian/</link><pubDate>Sat, 09 Aug 2014 11:11:11 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/installing-willie-irc-bot-on-debian/</guid><description>&lt;p>&lt;a href="http://willie.dftba.net/">Willie&lt;/a> is an IRC bot written in &lt;a href="http://www.python.org">Python&lt;/a>
 that I&amp;rsquo;ve recently started using. This blog post describes how to install Willie
 on Debian and as usual I will be using &lt;code>virtualenv&lt;/code> to isolate this Python
 application from the rest of the system.&lt;/p>
@@ -2292,16 +2252,7 @@ login credentials.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://wiki.mate-desktop.org/download?s%5B%5D=debian">http://wiki.mate-desktop.org/download?s[]=debian&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://wiki.debian.org/InstallingDebianOn/HP/HP2133">https://wiki.debian.org/InstallingDebianOn/HP/HP2133&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Setting up MATE Desktop on Debian Wheezy</summary></item><item><title>Ubuntu MATE</title><link>https://blog.rthur.me/projects/ubuntu-mate/</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/ubuntu-mate/</guid><description>&lt;p>A community developed Ubuntu based operating system that beautifully integrates
-the &lt;a href="https://mate-desktop.org">MATE desktop&lt;/a>. Ubuntu MATE is a stable,
-easy-to-use operating system with a configurable desktop environment and is
-suitable for modern workstations, laptops, single board computers and older
-hardware alike.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://ubuntu-mate.org">Ubuntu MATE Project&lt;/a>&lt;/li>
-&lt;li>Date: June 2014 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Ubuntu MATE is a Linux distribution I made for my friends and family</summary></item><item><title>BIP IRC proxy</title><link>https://blog.rthur.me/posts/bip-irc-proxy/</link><pubDate>Wed, 16 Apr 2014 07:07:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/bip-irc-proxy/</guid><description>&lt;p>&lt;strong>I switched from BIP to &lt;a href="http://wiki.znc.in/ZNC">ZNC&lt;/a>, and &lt;a href="https://blog.rthur.me/posts/znc-irc-proxy/">recommend you use ZNC instead&lt;/a>!&lt;/strong>&lt;/p>
+&lt;/ul></description><summary>Setting up MATE Desktop on Debian Wheezy</summary></item><item><title>BIP IRC proxy</title><link>https://blog.rthur.me/posts/bip-irc-proxy/</link><pubDate>Wed, 16 Apr 2014 07:07:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/bip-irc-proxy/</guid><description>&lt;p>&lt;strong>I switched from BIP to &lt;a href="http://wiki.znc.in/ZNC">ZNC&lt;/a>, and &lt;a href="https://blog.rthur.me/posts/znc-irc-proxy/">recommend you use ZNC instead&lt;/a>!&lt;/strong>&lt;/p>
 &lt;p>&lt;a href="http://bip.milkypond.org/">BIP&lt;/a> is an IRC proxy that maintains a persistent
 connection(s) to a list of IRC channels. You can then point your IRC client to
 BIP each time you log in and playback the conversations that took place while
@@ -3303,31 +3254,7 @@ RAM (for me at least).&lt;/p>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="final-thoughts">Final thoughts&lt;/h2>
 &lt;p>On Arch Linux at least, Xfce has lower resource requirements than MATE.
 When I said different in the past I was wrong, unless you use openSUSE
-in which case I was probably right, maybe.&lt;/p></description><summary>Comparing desktop environment memory usage with ps_mem</summary></item><item><title>openSUSE</title><link>https://blog.rthur.me/projects/opensuse/</link><pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/opensuse/</guid><description>&lt;p>Mentored three students for the &lt;a href="https://www.google-melange.com/gsoc/org2/google/gsoc2014/opensuse">openSUSE 2014 Google Summer of Code&lt;/a>.
-All three students successfully completed their projects for the
-&lt;a href="https://mate-desktop.org">MATE Desktop&lt;/a>.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="http://www.opensuse.org">openSUSE&lt;/a>&lt;/li>
-&lt;li>Date: February 2014 - August 2014&lt;/li>
-&lt;li>Role: Student mentor&lt;/li>
-&lt;/ul></description><summary>Student mentor for Google Summer of Code 2014</summary></item><item><title>LINUX Unplugged</title><link>https://blog.rthur.me/projects/linux-unplugged/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/linux-unplugged/</guid><description>&lt;p>&lt;a href="https://linuxunplugged.com/">LINUX Unplugged&lt;/a> is
-a weekly show, by &lt;a href="https://www.jupiterbroadcasting.com/">Jupiter Broadcasting&lt;/a>,
-that debates and discusses developments and goings on in the Linux community. I
-joined as a regular contributor in January 2014.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://www.jupiterbroadcasting.com/">Jupiter Broadcasting&lt;/a>&lt;/li>
-&lt;li>Date: January 2014 - February 2021&lt;/li>
-&lt;li>Role: Talking Head&lt;/li>
-&lt;/ul></description><summary>Weekly Linux talk show with no script, no limits and tons of opinion</summary></item><item><title>Arch Linux</title><link>https://blog.rthur.me/projects/arch-linux/</link><pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/arch-linux/</guid><description>&lt;p>&lt;a href="https://archlinux.org">Arch Linux &lt;/a> is a Linux distribution that uses a rolling
-release model, such that a regular system update is all that is needed to obtain
-all the latest software. The design approach follows the KISS principle
-(&lt;i>&amp;ldquo;keep it simple, stupid&amp;rdquo;&lt;/i>) and focuses on elegance, code correctness,
-minimalism and simplicity.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://archlinux.org">Arch Linux &lt;/a>&lt;/li>
-&lt;li>Date: December 2013 - December 2016&lt;/li>
-&lt;li>Role: Trusted user &amp;amp; Package maintainer&lt;/li>
-&lt;/ul></description><summary>Arch Linux Trusted User &amp;amp; Package maintainer</summary></item><item><title>Linux Mint LMDE on Hybrid Disk Laptop</title><link>https://blog.rthur.me/posts/linux-mint-lmde-on-hybrid-disk-laptop/</link><pubDate>Wed, 28 Aug 2013 20:10:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/linux-mint-lmde-on-hybrid-disk-laptop/</guid><description>&lt;p>I have an old Thinkpad T43p that I am trying to extend the life of. So I recently
+in which case I was probably right, maybe.&lt;/p></description><summary>Comparing desktop environment memory usage with ps_mem</summary></item><item><title>Linux Mint LMDE on Hybrid Disk Laptop</title><link>https://blog.rthur.me/posts/linux-mint-lmde-on-hybrid-disk-laptop/</link><pubDate>Wed, 28 Aug 2013 20:10:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/linux-mint-lmde-on-hybrid-disk-laptop/</guid><description>&lt;p>I have an old Thinkpad T43p that I am trying to extend the life of. So I recently
 fitted a cheap 60GB IDE Solid State Drive (SSD) and put a 320GB SATA Hard Disk
 Drive (HDD) in the Ultrabay. This is not a true hybrid disk, but the principles
 are similar. The root partition will go on the SDD (for performance) and the
@@ -6879,17 +6806,7 @@ Thunderbird and read only access via the PHP iCalendar web interface. Viewing
 the calendar via the web interface requires a login first and the calendar
 publishing is protected by Lighty authentication using htdigest.&lt;/p>
 &lt;p>Lastly, because our calendar is a nice open standard I have options as to how I
-might sync it with my mobile phone. More on that when I figure it out.&lt;/p></description><summary>Creating a self-hosted shared calendar</summary></item><item><title>POLARIS</title><link>https://blog.rthur.me/projects/polaris/</link><pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/polaris/</guid><description>&lt;p>Led the design, development and operation of the POLARIS project at
-&lt;a href="https://flightdataservices.com">Flight Data Services&lt;/a>. An Open Source analysis
-engine developed using Python that can scale to analyse and report on millions
-of commercial aviation flights to comply with global aviation safety regulations.
-Now known as Flight Data Connect and owned by L3HARRIS and apparently no longer
-available as Open Source.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://flightdataservices.com">Flight Data Services&lt;/a>&lt;/li>
-&lt;li>Date: May 2007 - September 2015&lt;/li>
-&lt;li>Role: Manager of IT Operations &amp;amp; Software Engineering&lt;/li>
-&lt;/ul></description><summary>Disrupting incumbent flight data analysis solutions with Open Source</summary></item><item><title>Conslidated RavenCore HOW-TOs</title><link>https://blog.rthur.me/posts/conslidated-ravencore-how-tos/</link><pubDate>Fri, 18 Aug 2006 12:37:07 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/conslidated-ravencore-how-tos/</guid><description>&lt;p>I have reorganized and consolidated my Debian and Ubuntu HOW-TOs for &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a> 0.2.3.&lt;/p></description><summary>RavenCore documentation for Debian &amp;amp; Ubuntu</summary></item><item><title>RavenCore 0.2.3 on Debian and Ubuntu</title><link>https://blog.rthur.me/posts/ravencore-0.2.3-on-debian-and-ubuntu/</link><pubDate>Thu, 17 Aug 2006 10:53:53 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ravencore-0.2.3-on-debian-and-ubuntu/</guid><description>&lt;p>I have updated my HOW-TO for installing &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a>
+might sync it with my mobile phone. More on that when I figure it out.&lt;/p></description><summary>Creating a self-hosted shared calendar</summary></item><item><title>Conslidated RavenCore HOW-TOs</title><link>https://blog.rthur.me/posts/conslidated-ravencore-how-tos/</link><pubDate>Fri, 18 Aug 2006 12:37:07 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/conslidated-ravencore-how-tos/</guid><description>&lt;p>I have reorganized and consolidated my Debian and Ubuntu HOW-TOs for &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a> 0.2.3.&lt;/p></description><summary>RavenCore documentation for Debian &amp;amp; Ubuntu</summary></item><item><title>RavenCore 0.2.3 on Debian and Ubuntu</title><link>https://blog.rthur.me/posts/ravencore-0.2.3-on-debian-and-ubuntu/</link><pubDate>Thu, 17 Aug 2006 10:53:53 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ravencore-0.2.3-on-debian-and-ubuntu/</guid><description>&lt;p>I have updated my HOW-TO for installing &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a>
 on Debian (at the request of the RavenCore developer) and added a HOW-TO for
 installing RavenCore on Ubuntu. The are still some minor compatibility issues
 with Debian and Ubuntu and these HOW-TOs have been sent to the RavenCore

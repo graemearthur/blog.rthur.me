@@ -214,22 +214,7 @@
 &lt;/ul>
 &lt;p>After using Ubuntu for a few weeks I switched to NixOS. I will be posting about my experience with NixOS on the Z13 in a future blog post and &lt;a href="https://twitch.tv/WimpysWorld">will likely livestream about it on Twitch&lt;/a> as well. TL;DR NixOS 22.11 has fewer issues than Ubuntu 22.04 on the ThinkPad Z13 Gen 1.&lt;/p>
 &lt;p>The ThinkPad Z13 Gen 1 is an excellent laptop for my requirements, and I have no regrets. If I were to buy I laptop pre-installed with a Linux distro in the future, I might go for Fedora, just so I can see what the OEM experience is like with Fedora.&lt;/p>
-&lt;p>Since I purchased the Z13, &lt;a href="https://frame.work/gb/en/blog/framework-laptop-13-with-13th-gen-intel-core-and-amd-ryzen-7040-series">Framework has announced AMD 7040-series powered laptops&lt;/a> are coming later in 2023; and I&amp;rsquo;m not sure I can resist&amp;hellip;&lt;/p></description><summary>Picking a thin and light Linux laptop with plenty of battery endurance</summary></item><item><title>machinespawn</title><link>https://blog.rthur.me/projects/machinespawn/</link><pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/machinespawn/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a> is a wrapper for
-&lt;code>machinectl&lt;/code> and &lt;code>systemd-nspawn&lt;/code> to creating and managing containers; primarily
-focused at local development environment and CI/CD with a heavy emphasis on
-caching.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a>&lt;/li>
-&lt;li>Date: October 2022 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Quickly stand up systemd-nspawn containers for development or CI/CD</summary></item><item><title>deb-get</title><link>https://blog.rthur.me/projects/deb-get/</link><pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/deb-get/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a> makes it easy to install and
-update .debs published in 3rd party apt repositories or made available via
-direct download on websites or GitHub release pages.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a>&lt;/li>
-&lt;li>Date: April 2022 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>apt-get functionality for .debs published in GitHub release or 3rd party repositories</summary></item><item><title>Retro Home</title><link>https://blog.rthur.me/projects/retro-home/</link><pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/retro-home/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a> is custom Raspberry Pi
+&lt;p>Since I purchased the Z13, &lt;a href="https://frame.work/gb/en/blog/framework-laptop-13-with-13th-gen-intel-core-and-amd-ryzen-7040-series">Framework has announced AMD 7040-series powered laptops&lt;/a> are coming later in 2023; and I&amp;rsquo;m not sure I can resist&amp;hellip;&lt;/p></description><summary>Picking a thin and light Linux laptop with plenty of battery endurance</summary></item><item><title>Retro Home</title><link>https://blog.rthur.me/projects/retro-home/</link><pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/retro-home/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a> is custom Raspberry Pi
 operating system purpose built for retro gaming. Built with
 &lt;a href="https://ubuntu.com/">Ubuntu&lt;/a> and using the minimalist emulator frontend
 &lt;a href="https://ludo.libretro.com/">Ludo&lt;/a> it supports most classic consoles from Atari,
@@ -241,15 +226,7 @@ are supported (with more in the works) using bespoke GPIO drivers.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a>&lt;/li>
 &lt;li>Date: July 2020 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>A retro-gaming operating system for Raspberry Pi built with Ubuntu and Ludo</summary></item><item><title>Rolling Rhino</title><link>https://blog.rthur.me/projects/rolling-rhino/</link><pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/rolling-rhino/</guid><description>&lt;p>Simple shell script to convert Ubuntu into a &lt;em>&amp;ldquo;rolling release&amp;rdquo;&lt;/em> that tracks the
-&lt;code>devel&lt;/code> series; &lt;strong>for the toughest of Ubuntu users&lt;/strong>.&lt;/p>
-&lt;p>This project has served its purpose. It inspired another group of developers to
-create a &lt;a href="https://rollingrhino.org/">fully fledged Ubuntu Rolling Rhino distro&lt;/a>.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/rolling-rhino">Rolling Rhino&lt;/a>&lt;/li>
-&lt;li>Date: March 2020 - November 2022&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Convert Ubuntu into a rolling release</summary></item><item><title>Raspberry Pi 3 Nextcloud Box running on Ubuntu Core</title><link>https://blog.rthur.me/posts/raspberry-pi-3-nextcloud-box-running-on-ubuntu-core/</link><pubDate>Tue, 13 Dec 2016 17:17:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/raspberry-pi-3-nextcloud-box-running-on-ubuntu-core/</guid><description>&lt;p>I recently bought the &lt;a href="https://nextcloud.com/box/">Nextcloud Box&lt;/a>. When
+&lt;/ul></description><summary>A retro-gaming operating system for Raspberry Pi built with Ubuntu and Ludo</summary></item><item><title>Raspberry Pi 3 Nextcloud Box running on Ubuntu Core</title><link>https://blog.rthur.me/posts/raspberry-pi-3-nextcloud-box-running-on-ubuntu-core/</link><pubDate>Tue, 13 Dec 2016 17:17:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/raspberry-pi-3-nextcloud-box-running-on-ubuntu-core/</guid><description>&lt;p>I recently bought the &lt;a href="https://nextcloud.com/box/">Nextcloud Box&lt;/a>. When
 it came to setting it up I ran into a problem, I only had Raspberry Pi 3
 computers available and at the time of writing the microSDHC card
 provided with the Nextcloud Box only supports the Raspberry Pi 2. &lt;em>Bummer!&lt;/em>&lt;/p>
@@ -645,24 +622,7 @@ and &lt;a href="https://fosstalk.com/">FOSS Talk Live&lt;/a>.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://ubuntupodcast.org">Ubuntu Podcast&lt;/a>&lt;/li>
 &lt;li>Date: February 2015 - September 2021&lt;/li>
 &lt;li>Role: Co-presenter &amp;amp; Producer&lt;/li>
-&lt;/ul></description><summary>A weekly family-friendly audio magazine for the Ubuntu community</summary></item><item><title>Debian</title><link>https://blog.rthur.me/projects/debian/</link><pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/debian/</guid><description>&lt;p>Debian is a Unix-like computer operating system and a Linux distribution that is
-composed entirely of free and open-source software, most of which is under the
-GNU General Public License, and packaged by a group of individuals known as the
-Debian Project.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://debian.org">Debian Project&lt;/a>&lt;/li>
-&lt;li>Date: October 2014 - date&lt;/li>
-&lt;li>Role: Package maintainer&lt;/li>
-&lt;/ul></description><summary>Package maintainer for (mostly) MATE Desktop in Debian and Ubuntu</summary></item><item><title>Ubuntu MATE</title><link>https://blog.rthur.me/projects/ubuntu-mate/</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/ubuntu-mate/</guid><description>&lt;p>A community developed Ubuntu based operating system that beautifully integrates
-the &lt;a href="https://mate-desktop.org">MATE desktop&lt;/a>. Ubuntu MATE is a stable,
-easy-to-use operating system with a configurable desktop environment and is
-suitable for modern workstations, laptops, single board computers and older
-hardware alike.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://ubuntu-mate.org">Ubuntu MATE Project&lt;/a>&lt;/li>
-&lt;li>Date: June 2014 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Ubuntu MATE is a Linux distribution I made for my friends and family</summary></item><item><title>Microsoft Office 2010 on Arch Linux and Ubuntu</title><link>https://blog.rthur.me/posts/microsoft-office-2010-on-arch-linux-and-ubuntu/</link><pubDate>Tue, 29 Jan 2013 16:16:47 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/microsoft-office-2010-on-arch-linux-and-ubuntu/</guid><description>&lt;p>We have a mix of Linux and Windows users at work. My department use Linux
+&lt;/ul></description><summary>A weekly family-friendly audio magazine for the Ubuntu community</summary></item><item><title>Microsoft Office 2010 on Arch Linux and Ubuntu</title><link>https://blog.rthur.me/posts/microsoft-office-2010-on-arch-linux-and-ubuntu/</link><pubDate>Tue, 29 Jan 2013 16:16:47 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/microsoft-office-2010-on-arch-linux-and-ubuntu/</guid><description>&lt;p>We have a mix of Linux and Windows users at work. My department use Linux
 and the rest of the business use Windows. We been running a mixture of
 &lt;a href="http://www.libreoffice.org/">LibreOffice&lt;/a> and &lt;a href="http://office.microsoft.com/en-GB">Microsoft Office&lt;/a>,
 which works pretty well until you start trying to collaborate, then it gets

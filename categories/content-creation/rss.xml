@@ -3,16 +3,7 @@
 &lt;li>Organisation: &lt;a href="https://linuxmatters.sh">Linux Matters&lt;/a>&lt;/li>
 &lt;li>Date: April 2023 - date&lt;/li>
 &lt;li>Role: Writer &amp;amp; Presenter&lt;/li>
-&lt;/ul></description><summary>Three experienced Open Source professionals discuss the impact Linux has in their daily lives</summary></item><item><title>Linux Downtime</title><link>https://blog.rthur.me/projects/linux-downtime/</link><pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/linux-downtime/</guid><description>&lt;p>Open source professionals &lt;a href="https://wimpress.com">Martin Wimpress&lt;/a>,
-&lt;a href="https://linktr.ee/haydenbarnes">Hayden Barnes&lt;/a>, &lt;a href="https://reaperworld.com/">Gary Kramlich&lt;/a>,
-and &lt;a href="https://popey.com/">Alan Pope&lt;/a> join &lt;a href="https://joeress.com/">Joe Ressington&lt;/a>
-for relaxed discussions in their downtime. From working in the industry and
-progressing your career, to managing a project&amp;rsquo;s community, and beyond.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://linuxdowntime.com">Linux Downtime&lt;/a>&lt;/li>
-&lt;li>Date: April 2022 - April 2023&lt;/li>
-&lt;li>Role: Co-presenter &amp;amp; Producer&lt;/li>
-&lt;/ul></description><summary>Open source professionals having relaxed discussions in their downtime</summary></item><item><title>Installing Nikola on Ubuntu</title><link>https://blog.rthur.me/posts/installing-nikola-on-ubuntu/</link><pubDate>Thu, 05 Nov 2015 11:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/installing-nikola-on-ubuntu/</guid><description>&lt;p>Nikola is a static site and blog generator written in &lt;a href="http://www.python.org">Python&lt;/a>
+&lt;/ul></description><summary>Three experienced Open Source professionals discuss the impact Linux has in their daily lives</summary></item><item><title>Installing Nikola on Ubuntu</title><link>https://blog.rthur.me/posts/installing-nikola-on-ubuntu/</link><pubDate>Thu, 05 Nov 2015 11:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/installing-nikola-on-ubuntu/</guid><description>&lt;p>Nikola is a static site and blog generator written in &lt;a href="http://www.python.org">Python&lt;/a>
 that I&amp;rsquo;ve been using for a good while now. This blog post describes how to install
 &lt;a href="http://getnikola.com/">Nikola&lt;/a> on Ubuntu 14.04 or newer. Now, this may look
 like a long winded way to install Nikola, given that .deb package exists, but in
@@ -93,15 +84,7 @@ pages, images, and all other files and customizations.&lt;/p>
 your site with some example content. If you do not want the wizard, use the &lt;code>--quiet&lt;/code>
 argument.&lt;/p>
 &lt;p>Nikola is now installed and and initial site is setup. &lt;code>nikola help&lt;/code> and the
-&lt;a href="http://getnikola.com/handbook.html">Nikola Handbook&lt;/a> will assist you from here.&lt;/p></description><summary>How to install Nikola on Ubuntu 14.04 or newer</summary></item><item><title>LINUX Unplugged</title><link>https://blog.rthur.me/projects/linux-unplugged/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/linux-unplugged/</guid><description>&lt;p>&lt;a href="https://linuxunplugged.com/">LINUX Unplugged&lt;/a> is
-a weekly show, by &lt;a href="https://www.jupiterbroadcasting.com/">Jupiter Broadcasting&lt;/a>,
-that debates and discusses developments and goings on in the Linux community. I
-joined as a regular contributor in January 2014.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://www.jupiterbroadcasting.com/">Jupiter Broadcasting&lt;/a>&lt;/li>
-&lt;li>Date: January 2014 - February 2021&lt;/li>
-&lt;li>Role: Talking Head&lt;/li>
-&lt;/ul></description><summary>Weekly Linux talk show with no script, no limits and tons of opinion</summary></item><item><title>Installing Nikola on Arch Linux</title><link>https://blog.rthur.me/posts/installing-nikola-on-arch-linux/</link><pubDate>Fri, 08 Mar 2013 17:13:43 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/installing-nikola-on-arch-linux/</guid><description>&lt;p>I&amp;rsquo;ve decided to migrate one of my servers to &lt;a href="https://www.archlinux.org/">Arch Linux&lt;/a>.
+&lt;a href="http://getnikola.com/handbook.html">Nikola Handbook&lt;/a> will assist you from here.&lt;/p></description><summary>How to install Nikola on Ubuntu 14.04 or newer</summary></item><item><title>Installing Nikola on Arch Linux</title><link>https://blog.rthur.me/posts/installing-nikola-on-arch-linux/</link><pubDate>Fri, 08 Mar 2013 17:13:43 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/installing-nikola-on-arch-linux/</guid><description>&lt;p>I&amp;rsquo;ve decided to migrate one of my servers to &lt;a href="https://www.archlinux.org/">Arch Linux&lt;/a>.
 I&amp;rsquo;m not sure that a rolling release distro really suits servers but I&amp;rsquo;ve enjoyed
 using Arch Linux over the last year on my workstations and the only way to
 assess it&amp;rsquo;s suitability on a server is to try it. So, I&amp;rsquo;ve decided to migrate my

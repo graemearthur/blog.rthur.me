@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CI on Arthur’s Almanac</title><link>https://blog.rthur.me/tags/ci/</link><description>Recent content in CI on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/tags/ci/rss.xml" rel="self" type="application/rss+xml"/><item><title>machinespawn</title><link>https://blog.rthur.me/projects/machinespawn/</link><pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/machinespawn/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a> is a wrapper for
-&lt;code>machinectl&lt;/code> and &lt;code>systemd-nspawn&lt;/code> to creating and managing containers; primarily
-focused at local development environment and CI/CD with a heavy emphasis on
-caching.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a>&lt;/li>
-&lt;li>Date: October 2022 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Quickly stand up systemd-nspawn containers for development or CI/CD</summary></item></channel></rss>

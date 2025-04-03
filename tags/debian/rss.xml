@@ -107,22 +107,7 @@
 &lt;/ul>
 &lt;p>Your mileage may vary using the re-implementation of the &lt;a href="https://github.com/luigimannoni/stadia-controller-flasher">Utility for flashing Stadia Controllers&lt;/a>, so if you&amp;rsquo;re doing this before December 31, 2023, use the &lt;a href="https://stadia.google.com/controller/">official tool&lt;/a>.&lt;/p>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
-&lt;p>After updating my Stadia Controllers with Bluetooth firmware, I&amp;rsquo;ve successfully paired them with my Android tablet, iPhone 13 and &lt;a href="https://chimeraos.org/">ChimeraOS&lt;/a>; an operating system that provides an out-of-the-box couch gaming experience 🎮️ While Stadia might be dead and gone, I&amp;rsquo;m very happy to continue to get utility out of the controllers; which turned out to be free after the reimbursement Google offered when Stadia was shut down.&lt;/p></description><summary>How to flash Stadia Controller Bluetooth mode on Linux</summary></item><item><title>machinespawn</title><link>https://blog.rthur.me/projects/machinespawn/</link><pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/machinespawn/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a> is a wrapper for
-&lt;code>machinectl&lt;/code> and &lt;code>systemd-nspawn&lt;/code> to creating and managing containers; primarily
-focused at local development environment and CI/CD with a heavy emphasis on
-caching.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a>&lt;/li>
-&lt;li>Date: October 2022 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Quickly stand up systemd-nspawn containers for development or CI/CD</summary></item><item><title>deb-get</title><link>https://blog.rthur.me/projects/deb-get/</link><pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/deb-get/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a> makes it easy to install and
-update .debs published in 3rd party apt repositories or made available via
-direct download on websites or GitHub release pages.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a>&lt;/li>
-&lt;li>Date: April 2022 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>apt-get functionality for .debs published in GitHub release or 3rd party repositories</summary></item><item><title>HP Microserver N54L power saving and performance tuning using Debian</title><link>https://blog.rthur.me/posts/hp-microserver-n54l-power-saving-and-performance-tuning-using-debian/</link><pubDate>Wed, 16 Dec 2015 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/hp-microserver-n54l-power-saving-and-performance-tuning-using-debian/</guid><description>&lt;p>I&amp;rsquo;ve installed &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a>
+&lt;p>After updating my Stadia Controllers with Bluetooth firmware, I&amp;rsquo;ve successfully paired them with my Android tablet, iPhone 13 and &lt;a href="https://chimeraos.org/">ChimeraOS&lt;/a>; an operating system that provides an out-of-the-box couch gaming experience 🎮️ While Stadia might be dead and gone, I&amp;rsquo;m very happy to continue to get utility out of the controllers; which turned out to be free after the reimbursement Google offered when Stadia was shut down.&lt;/p></description><summary>How to flash Stadia Controller Bluetooth mode on Linux</summary></item><item><title>HP Microserver N54L power saving and performance tuning using Debian</title><link>https://blog.rthur.me/posts/hp-microserver-n54l-power-saving-and-performance-tuning-using-debian/</link><pubDate>Wed, 16 Dec 2015 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/hp-microserver-n54l-power-saving-and-performance-tuning-using-debian/</guid><description>&lt;p>I&amp;rsquo;ve installed &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a>
 on a &lt;a href="http://www8.hp.com/uk/en/products/proliant-servers/product-detail.html?oid=5336624">HP ProLiant MicroServer G7 N54L&lt;/a>
 and use it as media server for the house. OpenMediaVault (OMV) is a
 network attached storage (NAS) solution based on &lt;a href="http://www.debian.org">Debian&lt;/a>.&lt;/p>
@@ -217,15 +202,7 @@ data to the server at a sustained rate of 105MB/s, which is 0.85 Gbit.&lt;/p>
 &lt;li>&lt;a href="http://gareth.halfacree.co.uk/2014/02/tuning-an-hp-proliant-microserver">http://gareth.halfacree.co.uk/2014/02/tuning-an-hp-proliant-microserver&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://www.scottalanmiller.com/linux/2011/06/20/working-with-nic-ring-buffers/">http://www.scottalanmiller.com/linux/2011/06/20/working-with-nic-ring-buffers/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://gist.github.com/dstroot/2785263">https://gist.github.com/dstroot/2785263&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Configure HP Microserver N54L Power Saving on Debian</summary></item><item><title>Debian</title><link>https://blog.rthur.me/projects/debian/</link><pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/debian/</guid><description>&lt;p>Debian is a Unix-like computer operating system and a Linux distribution that is
-composed entirely of free and open-source software, most of which is under the
-GNU General Public License, and packaged by a group of individuals known as the
-Debian Project.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://debian.org">Debian Project&lt;/a>&lt;/li>
-&lt;li>Date: October 2014 - date&lt;/li>
-&lt;li>Role: Package maintainer&lt;/li>
-&lt;/ul></description><summary>Package maintainer for (mostly) MATE Desktop in Debian and Ubuntu</summary></item><item><title>Installing Willie IRC Bot on Debian</title><link>https://blog.rthur.me/posts/installing-willie-irc-bot-on-debian/</link><pubDate>Sat, 09 Aug 2014 11:11:11 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/installing-willie-irc-bot-on-debian/</guid><description>&lt;p>&lt;a href="http://willie.dftba.net/">Willie&lt;/a> is an IRC bot written in &lt;a href="http://www.python.org">Python&lt;/a>
+&lt;/ul></description><summary>Configure HP Microserver N54L Power Saving on Debian</summary></item><item><title>Installing Willie IRC Bot on Debian</title><link>https://blog.rthur.me/posts/installing-willie-irc-bot-on-debian/</link><pubDate>Sat, 09 Aug 2014 11:11:11 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/installing-willie-irc-bot-on-debian/</guid><description>&lt;p>&lt;a href="http://willie.dftba.net/">Willie&lt;/a> is an IRC bot written in &lt;a href="http://www.python.org">Python&lt;/a>
 that I&amp;rsquo;ve recently started using. This blog post describes how to install Willie
 on Debian and as usual I will be using &lt;code>virtualenv&lt;/code> to isolate this Python
 application from the rest of the system.&lt;/p>
@@ -1181,16 +1158,7 @@ login credentials.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://wiki.mate-desktop.org/download?s%5B%5D=debian">http://wiki.mate-desktop.org/download?s[]=debian&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://wiki.debian.org/InstallingDebianOn/HP/HP2133">https://wiki.debian.org/InstallingDebianOn/HP/HP2133&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Setting up MATE Desktop on Debian Wheezy</summary></item><item><title>Ubuntu MATE</title><link>https://blog.rthur.me/projects/ubuntu-mate/</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/ubuntu-mate/</guid><description>&lt;p>A community developed Ubuntu based operating system that beautifully integrates
-the &lt;a href="https://mate-desktop.org">MATE desktop&lt;/a>. Ubuntu MATE is a stable,
-easy-to-use operating system with a configurable desktop environment and is
-suitable for modern workstations, laptops, single board computers and older
-hardware alike.&lt;/p>
-&lt;ul>
-&lt;li>Organisation: &lt;a href="https://ubuntu-mate.org">Ubuntu MATE Project&lt;/a>&lt;/li>
-&lt;li>Date: June 2014 - date&lt;/li>
-&lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Ubuntu MATE is a Linux distribution I made for my friends and family</summary></item><item><title>BIP IRC proxy</title><link>https://blog.rthur.me/posts/bip-irc-proxy/</link><pubDate>Wed, 16 Apr 2014 07:07:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/bip-irc-proxy/</guid><description>&lt;p>&lt;strong>I switched from BIP to &lt;a href="http://wiki.znc.in/ZNC">ZNC&lt;/a>, and &lt;a href="https://blog.rthur.me/posts/znc-irc-proxy/">recommend you use ZNC instead&lt;/a>!&lt;/strong>&lt;/p>
+&lt;/ul></description><summary>Setting up MATE Desktop on Debian Wheezy</summary></item><item><title>BIP IRC proxy</title><link>https://blog.rthur.me/posts/bip-irc-proxy/</link><pubDate>Wed, 16 Apr 2014 07:07:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/bip-irc-proxy/</guid><description>&lt;p>&lt;strong>I switched from BIP to &lt;a href="http://wiki.znc.in/ZNC">ZNC&lt;/a>, and &lt;a href="https://blog.rthur.me/posts/znc-irc-proxy/">recommend you use ZNC instead&lt;/a>!&lt;/strong>&lt;/p>
 &lt;p>&lt;a href="http://bip.milkypond.org/">BIP&lt;/a> is an IRC proxy that maintains a persistent
 connection(s) to a list of IRC channels. You can then point your IRC client to
 BIP each time you log in and playback the conversations that took place while
