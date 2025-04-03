@@ -224,7 +224,12 @@ Debian Project.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://debian.org">Debian Project&lt;/a>&lt;/li>
 &lt;li>Date: October 2014 - date&lt;/li>
 &lt;li>Role: Package maintainer&lt;/li>
-&lt;/ul></description><summary>Package maintainer for (mostly) MATE Desktop in Debian and Ubuntu</summary></item><item><title>Ubuntu MATE</title><link>https://blog.rthur.me/projects/ubuntu-mate/</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/ubuntu-mate/</guid><description>&lt;p>A community developed Ubuntu based operating system that beautifully integrates
+&lt;/ul></description><summary>Package maintainer for (mostly) MATE Desktop in Debian and Ubuntu</summary></item><item><title>Ubuntu MATE</title><link>https://blog.rthur.me/projects/ubuntu-mate/</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/ubuntu-mate/</guid><description>&lt;p>A custom-built Drupal website for Elim Church, designed to offer a clean, simple, and user-friendly experience. The site features easy navigation for sharing events, sermons, and church news. Built with Drupal, it provides an efficient content management system, allowing the church team to manage and update content with ease. The design is modern and responsive, ensuring the site is accessible on all devices.&lt;/p>
+&lt;ul>
+&lt;li>Organisation: &lt;a href="https://elim-church.org.uk">Elim Church Crawley&lt;/a>&lt;/li>
+&lt;li>Date: June 2014 - date&lt;/li>
+&lt;li>Role: Project Lead&lt;/li>
+&lt;/ul></description><summary>The Elim Church website is a Drupal-based site I built to provide a simple, user-friendly platform for the church community to share events, sermons, and news</summary></item><item><title>Ubuntu MATE</title><link>https://blog.rthur.me/projects/ubuntu-mate/</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/ubuntu-mate/</guid><description>&lt;p>A community developed Ubuntu based operating system that beautifully integrates
 the &lt;a href="https://mate-desktop.org">MATE desktop&lt;/a>. Ubuntu MATE is a stable,
 easy-to-use operating system with a configurable desktop environment and is
 suitable for modern workstations, laptops, single board computers and older
