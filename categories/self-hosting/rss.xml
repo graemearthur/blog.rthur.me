@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Self Hosting on Wimpy's World</title><link>https://wimpysworld.com/categories/self-hosting/</link><description>Recent content in Self Hosting on Wimpy's World</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>martin@wimpress.com (Martin Wimpress)</managingEditor><webMaster>martin@wimpress.com (Martin Wimpress)</webMaster><lastBuildDate>Tue, 13 Dec 2016 17:17:00 +0000</lastBuildDate><atom:link href="https://wimpysworld.com/categories/self-hosting/rss.xml" rel="self" type="application/rss+xml"/><item><title>Raspberry Pi 3 Nextcloud Box running on Ubuntu Core</title><link>https://wimpysworld.com/posts/raspberry-pi-3-nextcloud-box-running-on-ubuntu-core/</link><pubDate>Tue, 13 Dec 2016 17:17:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/raspberry-pi-3-nextcloud-box-running-on-ubuntu-core/</guid><description>&lt;p>I recently bought the &lt;a href="https://nextcloud.com/box/">Nextcloud Box&lt;/a>. When
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Self Hosting on Arthur’s Almanac</title><link>https://blog.rthur.me/categories/self-hosting/</link><description>Recent content in Self Hosting on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Tue, 13 Dec 2016 17:17:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/categories/self-hosting/rss.xml" rel="self" type="application/rss+xml"/><item><title>Raspberry Pi 3 Nextcloud Box running on Ubuntu Core</title><link>https://blog.rthur.me/posts/raspberry-pi-3-nextcloud-box-running-on-ubuntu-core/</link><pubDate>Tue, 13 Dec 2016 17:17:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/raspberry-pi-3-nextcloud-box-running-on-ubuntu-core/</guid><description>&lt;p>I recently bought the &lt;a href="https://nextcloud.com/box/">Nextcloud Box&lt;/a>. When
 it came to setting it up I ran into a problem, I only had Raspberry Pi 3
 computers available and at the time of writing the microSDHC card
 provided with the Nextcloud Box only supports the Raspberry Pi 2. &lt;em>Bummer!&lt;/em>&lt;/p>
@@ -218,7 +218,7 @@ restart nextcloud:&lt;/p>
 Pi 3. The performance is reasonable, obviously not stellar, but certainly
 good enough to move some cloud services for a small family away from the
 likes of Google and Dropbox. Now go and install some
-&lt;a href="https://nextcloud.com/install/#install-clients">Nextcloud clients for your desktops and devices&lt;/a> :-)&lt;/p></description><summary>Creating a Pi 3 powered Nextcloud Box with Ubuntu Core</summary></item><item><title>HP Microserver N54L power saving and performance tuning using Debian</title><link>https://wimpysworld.com/posts/hp-microserver-n54l-power-saving-and-performance-tuning-using-debian/</link><pubDate>Wed, 16 Dec 2015 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/hp-microserver-n54l-power-saving-and-performance-tuning-using-debian/</guid><description>&lt;p>I&amp;rsquo;ve installed &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a>
+&lt;a href="https://nextcloud.com/install/#install-clients">Nextcloud clients for your desktops and devices&lt;/a> :-)&lt;/p></description><summary>Creating a Pi 3 powered Nextcloud Box with Ubuntu Core</summary></item><item><title>HP Microserver N54L power saving and performance tuning using Debian</title><link>https://blog.rthur.me/posts/hp-microserver-n54l-power-saving-and-performance-tuning-using-debian/</link><pubDate>Wed, 16 Dec 2015 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/hp-microserver-n54l-power-saving-and-performance-tuning-using-debian/</guid><description>&lt;p>I&amp;rsquo;ve installed &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a>
 on a &lt;a href="http://www8.hp.com/uk/en/products/proliant-servers/product-detail.html?oid=5336624">HP ProLiant MicroServer G7 N54L&lt;/a>
 and use it as media server for the house. OpenMediaVault (OMV) is a
 network attached storage (NAS) solution based on &lt;a href="http://www.debian.org">Debian&lt;/a>.&lt;/p>
@@ -313,7 +313,7 @@ data to the server at a sustained rate of 105MB/s, which is 0.85 Gbit.&lt;/p>
 &lt;li>&lt;a href="http://gareth.halfacree.co.uk/2014/02/tuning-an-hp-proliant-microserver">http://gareth.halfacree.co.uk/2014/02/tuning-an-hp-proliant-microserver&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://www.scottalanmiller.com/linux/2011/06/20/working-with-nic-ring-buffers/">http://www.scottalanmiller.com/linux/2011/06/20/working-with-nic-ring-buffers/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://gist.github.com/dstroot/2785263">https://gist.github.com/dstroot/2785263&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Configure HP Microserver N54L Power Saving on Debian</summary></item><item><title>subSonic on Debian</title><link>https://wimpysworld.com/posts/subsonic-on-debian/</link><pubDate>Sat, 12 Jul 2014 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/subsonic-on-debian/</guid><description>&lt;p>Last year I removed all my music from Google Play Music and created my own
+&lt;/ul></description><summary>Configure HP Microserver N54L Power Saving on Debian</summary></item><item><title>subSonic on Debian</title><link>https://blog.rthur.me/posts/subsonic-on-debian/</link><pubDate>Sat, 12 Jul 2014 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/subsonic-on-debian/</guid><description>&lt;p>Last year I removed all my music from Google Play Music and created my own
 &lt;a href="http://www.subsonic.org/">subSonic&lt;/a> server. I really like subSonic but don&amp;rsquo;t
 use it a huge amount, mostly for syncing some music to my phone prior to going
 on holiday or business. Therefore, I&amp;rsquo;ve made a single one time donation to the
@@ -344,7 +344,7 @@ workstations.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://www.subsonic.org/pages/installation.jsp">http://www.subsonic.org/pages/installation.jsp&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/KHresearch/subsonic/">https://github.com/KHresearch/subsonic/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Setting up subSonic music streaming on Debian</summary></item><item><title>Headless cloudprint server on Debian for MFC-7360N</title><link>https://wimpysworld.com/posts/headless-cloudprint-server-on-debian-for-mfc-7360n/</link><pubDate>Sat, 05 Jul 2014 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/headless-cloudprint-server-on-debian-for-mfc-7360n/</guid><description>&lt;p>I have a Brother MFC-7360N printer at home and there is also one at work.
+&lt;/ul></description><summary>Setting up subSonic music streaming on Debian</summary></item><item><title>Headless cloudprint server on Debian for MFC-7360N</title><link>https://blog.rthur.me/posts/headless-cloudprint-server-on-debian-for-mfc-7360n/</link><pubDate>Sat, 05 Jul 2014 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/headless-cloudprint-server-on-debian-for-mfc-7360n/</guid><description>&lt;p>I have a Brother MFC-7360N printer at home and there is also one at work.
 I wanted to to get &lt;a href="http://www.google.co.uk/cloudprint/learn/">Cloudprint&lt;/a>
 working with Android devices rather than use the Android app Brother
 provide, which is great when it works but deeply frustrating (for my wife)
@@ -460,7 +460,7 @@ Cloudprint as the destination and choose your printer.&lt;/p>
 &lt;li>&lt;a href="http://injustfiveminutes.com/2013/11/07/remote-access-to-cups-admin-inter/">http://injustfiveminutes.com/2013/11/07/remote-access-to-cups-admin-inter/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://ubuntuforums.org/showthread.php?t=1794179">http://ubuntuforums.org/showthread.php?t=1794179&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://support.google.com/a/answer/2906017?hl=en">https://support.google.com/a/answer/2906017?hl=en&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Create a headless Cloudprint server on Debian for MFC-7360N</summary></item><item><title>Integrating Dropbox photo syncing with Open Media Vault and Plex</title><link>https://wimpysworld.com/posts/integrating-dropbox-photo-syncing-with-open-media-vault-and-plex/</link><pubDate>Sat, 28 Jun 2014 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/integrating-dropbox-photo-syncing-with-open-media-vault-and-plex/</guid><description>&lt;p>&lt;strong>This how-to was updated for Open Media Vault 2.x and 3.x on 22nd August 2016.&lt;/strong>&lt;/p>
+&lt;/ul></description><summary>Create a headless Cloudprint server on Debian for MFC-7360N</summary></item><item><title>Integrating Dropbox photo syncing with Open Media Vault and Plex</title><link>https://blog.rthur.me/posts/integrating-dropbox-photo-syncing-with-open-media-vault-and-plex/</link><pubDate>Sat, 28 Jun 2014 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/integrating-dropbox-photo-syncing-with-open-media-vault-and-plex/</guid><description>&lt;p>&lt;strong>This how-to was updated for Open Media Vault 2.x and 3.x on 22nd August 2016.&lt;/strong>&lt;/p>
 &lt;p>I&amp;rsquo;ve installed &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a>
 on a &lt;a href="http://www8.hp.com/uk/en/products/proliant-servers/product-detail.html?oid=5336624">HP ProLiant MicroServer G7 N54L&lt;/a>
 and use it as media server for the house. OpenMediaVault (OMV) is a network
@@ -476,7 +476,7 @@ is also running on Open Media Vault.&lt;/p>
 &lt;p>Sadly, at the time of writing, it is unfinished and I didn&amp;rsquo;t have the time to
 go and learn the Open Media Vault plugin API.&lt;/p>
 &lt;p>The Open Media Vault forum does include a &lt;a href="http://forums.openmediavault.org/viewtopic.php?f=13&amp;amp;t=70">Dropbox HOW-TO&lt;/a>
-which is very similar to how &lt;a href="https://wimpysworld.com/posts/dropbox-is-my-nikola-publish-button/">I&amp;rsquo;ve run Dropbox on headless Linux servers&lt;/a>
+which is very similar to how &lt;a href="https://blog.rthur.me/posts/dropbox-is-my-nikola-publish-button/">I&amp;rsquo;ve run Dropbox on headless Linux servers&lt;/a>
 in the past. So, I decided to adapt my existing notes to Open Media Vault.&lt;/p>
 &lt;h2 id="create-a-dropbox-share">Create a Dropbox Share&lt;/h2>
 &lt;p>Create a Dropbox share via the OMV WebUI.&lt;/p>
@@ -621,7 +621,7 @@ at a later date.&lt;/p>
 &lt;h4 id="references">References&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="http://www.dropboxwiki.com/Text_Based_Linux_Install">http://www.dropboxwiki.com/Text_Based_Linux_Install&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Integrating Dropbox on a headless Open Media Vault server.</summary></item><item><title>OpenMediaVault on Debian</title><link>https://wimpysworld.com/posts/openmediavault-on-debian/</link><pubDate>Sun, 22 Jun 2014 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/openmediavault-on-debian/</guid><description>&lt;p>At the time of writing &lt;a href="http://www.openmediavault.org/">OpenMediaVault&lt;/a> 0.6 is
+&lt;/ul></description><summary>Integrating Dropbox on a headless Open Media Vault server.</summary></item><item><title>OpenMediaVault on Debian</title><link>https://blog.rthur.me/posts/openmediavault-on-debian/</link><pubDate>Sun, 22 Jun 2014 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/openmediavault-on-debian/</guid><description>&lt;p>At the time of writing &lt;a href="http://www.openmediavault.org/">OpenMediaVault&lt;/a> 0.6 is
 pre-release. But it is possible to install OpenMediaVault on Debian Wheezy in
 order to get some testing done.&lt;/p>
 &lt;p>Install Debian Wheezy on your target VM or test server. Go with the defaults
@@ -673,7 +673,7 @@ repositories.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>omv-initsystem
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>reboot
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>After the reboot you should be able to connect to the OpenMediaVault WebUI and
-login as &lt;code>admin&lt;/code> with the password of &lt;code>openmediavault&lt;/code>. That&amp;rsquo;s it. Get testing.&lt;/p></description><summary>Manually installing OpenMediaVault on Debian Wheezy</summary></item><item><title>Setting up BitSync on Debian</title><link>https://wimpysworld.com/posts/setting-up-bitsync-on-debian/</link><pubDate>Sat, 21 Jun 2014 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/setting-up-bitsync-on-debian/</guid><description>&lt;p>I&amp;rsquo;ve replaced Dropbox with &lt;a href="http://www.bittorrent.com/sync">BitTorrent Sync&lt;/a>.
+login as &lt;code>admin&lt;/code> with the password of &lt;code>openmediavault&lt;/code>. That&amp;rsquo;s it. Get testing.&lt;/p></description><summary>Manually installing OpenMediaVault on Debian Wheezy</summary></item><item><title>Setting up BitSync on Debian</title><link>https://blog.rthur.me/posts/setting-up-bitsync-on-debian/</link><pubDate>Sat, 21 Jun 2014 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/setting-up-bitsync-on-debian/</guid><description>&lt;p>I&amp;rsquo;ve replaced Dropbox with &lt;a href="http://www.bittorrent.com/sync">BitTorrent Sync&lt;/a>.
 In order to do this I&amp;rsquo;ve have &lt;code>btsync&lt;/code> running on a VPS (2CPU, 2GB, 400GB), my
 home server and assorted Arch Linux workstations.&lt;/p>
 &lt;p>I had a couple of reasons for migrating away from Dropbox.&lt;/p>
@@ -721,7 +721,7 @@ may well be the answer when it has matured a little.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://www.yeasoft.com/site/projects:btsync-deb:btsync-server">http://www.yeasoft.com/site/projects:btsync-deb:btsync-server&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://forum.bittorrent.com/topic/18974-debian-and-ubuntu-server-packages-for-bittorrent-sync/">http://forum.bittorrent.com/topic/18974-debian-and-ubuntu-server-packages-for-bittorrent-sync/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Setting up BitTorrent Sync on Debian</summary></item><item><title>BIP IRC proxy</title><link>https://wimpysworld.com/posts/bip-irc-proxy/</link><pubDate>Wed, 16 Apr 2014 07:07:09 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/bip-irc-proxy/</guid><description>&lt;p>&lt;strong>I switched from BIP to &lt;a href="http://wiki.znc.in/ZNC">ZNC&lt;/a>, and &lt;a href="https://wimpysworld.com/posts/znc-irc-proxy/">recommend you use ZNC instead&lt;/a>!&lt;/strong>&lt;/p>
+&lt;/ul></description><summary>Setting up BitTorrent Sync on Debian</summary></item><item><title>BIP IRC proxy</title><link>https://blog.rthur.me/posts/bip-irc-proxy/</link><pubDate>Wed, 16 Apr 2014 07:07:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/bip-irc-proxy/</guid><description>&lt;p>&lt;strong>I switched from BIP to &lt;a href="http://wiki.znc.in/ZNC">ZNC&lt;/a>, and &lt;a href="https://blog.rthur.me/posts/znc-irc-proxy/">recommend you use ZNC instead&lt;/a>!&lt;/strong>&lt;/p>
 &lt;p>&lt;a href="http://bip.milkypond.org/">BIP&lt;/a> is an IRC proxy that maintains a persistent
 connection(s) to a list of IRC channels. You can then point your IRC client to
 BIP each time you log in and playback the conversations that took place while
@@ -929,7 +929,7 @@ server.&lt;/p>
 &lt;li>&lt;a href="https://wiki.linaro.org/Resources/HowTo/BIP">https://wiki.linaro.org/Resources/HowTo/BIP&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://nerderati.com/2010/11/perpetual-irc-the-proxy-edition/">http://nerderati.com/2010/11/perpetual-irc-the-proxy-edition/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://stevengorrell.com/bip-irc-proxy/">http://stevengorrell.com/bip-irc-proxy/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Installing BIP IRC Proxy on Debian Wheezy &amp;amp; Arch Linux</summary></item><item><title>Plex Media Server on Open Media Vault</title><link>https://wimpysworld.com/posts/plex-media-server-on-open-media-vault/</link><pubDate>Tue, 27 Aug 2013 21:11:43 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/plex-media-server-on-open-media-vault/</guid><description>&lt;p>I&amp;rsquo;ve recently started using &lt;a href="http://www.plexapp.com">Plex Media Server&lt;/a> to
+&lt;/ul></description><summary>Installing BIP IRC Proxy on Debian Wheezy &amp;amp; Arch Linux</summary></item><item><title>Plex Media Server on Open Media Vault</title><link>https://blog.rthur.me/posts/plex-media-server-on-open-media-vault/</link><pubDate>Tue, 27 Aug 2013 21:11:43 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/plex-media-server-on-open-media-vault/</guid><description>&lt;p>I&amp;rsquo;ve recently started using &lt;a href="http://www.plexapp.com">Plex Media Server&lt;/a> to
 handle most media streaming duties around the house. I run in on
 &lt;a href="http://www.openmediavault.org">Open Media Vault&lt;/a> 0.5.x. At the time of writing
 Open Media Vault is based on &lt;a href="http://www.debian.org">Debian&lt;/a> (Squeeze) 6.0.&lt;/p>
@@ -960,7 +960,7 @@ the PleXBMC plug-in on Raspberry Pi.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://forums.plexapp.com/index.php/topic/51427-plex-media-server-for-debian/">http://forums.plexapp.com/index.php/topic/51427-plex-media-server-for-debian/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://forums.plexapp.com/index.php/topic/48865-debian-package/">http://forums.plexapp.com/index.php/topic/48865-debian-package/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Installing Plex Media Server on Open Media Vault (Squeeze) 6.0</summary></item><item><title>Setting up MiniDLNA on Open Media Vault</title><link>https://wimpysworld.com/posts/setting-up-minidlna-on-open-media-vault/</link><pubDate>Mon, 26 Aug 2013 21:49:09 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/setting-up-minidlna-on-open-media-vault/</guid><description>&lt;p>I have &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a> running on a
+&lt;/ul></description><summary>Installing Plex Media Server on Open Media Vault (Squeeze) 6.0</summary></item><item><title>Setting up MiniDLNA on Open Media Vault</title><link>https://blog.rthur.me/posts/setting-up-minidlna-on-open-media-vault/</link><pubDate>Mon, 26 Aug 2013 21:49:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/setting-up-minidlna-on-open-media-vault/</guid><description>&lt;p>I have &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a> running on a
 &lt;a href="http://www8.hp.com/uk/en/products/proliant-servers/product-detail.html?oid=5336624">HP ProLiant MicroServer G7 N54L&lt;/a>.&lt;/p>
 &lt;p>OpenMediaVault (OMV) is a network attached storage (NAS) solution based on
 &lt;a href="http://www.debian.org">Debian&lt;/a> Linux. At the time of writing OMV 0.5.x is
@@ -997,7 +997,7 @@ guide you.&lt;/p>
 &lt;li>&lt;a href="http://blog.steve.org.uk/minidlna_is_now_packaged.html">http://blog.steve.org.uk/minidlna_is_now_packaged.html&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://packages.steve.org.uk/minidlna/">http://packages.steve.org.uk/minidlna/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://sourceforge.net/projects/minidlna/">http://sourceforge.net/projects/minidlna/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Music streaming with MiniDLNA on Open Media Vault</summary></item><item><title>Setting up Open Media Vault on the HP MicroServer N54L</title><link>https://wimpysworld.com/posts/setting-up-open-media-vault-on-the-hp-microserver-n54l/</link><pubDate>Wed, 07 Aug 2013 21:21:09 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/setting-up-open-media-vault-on-the-hp-microserver-n54l/</guid><description>&lt;p>I&amp;rsquo;ve installed &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a> (OMV)
+&lt;/ul></description><summary>Music streaming with MiniDLNA on Open Media Vault</summary></item><item><title>Setting up Open Media Vault on the HP MicroServer N54L</title><link>https://blog.rthur.me/posts/setting-up-open-media-vault-on-the-hp-microserver-n54l/</link><pubDate>Wed, 07 Aug 2013 21:21:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/setting-up-open-media-vault-on-the-hp-microserver-n54l/</guid><description>&lt;p>I&amp;rsquo;ve installed &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a> (OMV)
 on my new &lt;a href="http://www8.hp.com/uk/en/products/proliant-servers/product-detail.html?oid=5336624">HP ProLiant MicroServer G7 N54L&lt;/a>
 to replace my aging, and lackluster, &lt;a href="http://www.readynas.com">ReadyNAS&lt;/a> NV.&lt;/p>
 &lt;p>OpenMediaVault (OMV) is a network attached storage (NAS) solution based on
@@ -1098,7 +1098,7 @@ adding LXC and Dropbox in the coming that will require some manual steps.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://thekentishman.wordpress.com/guides-2/open-media-vault-set-up/">http://thekentishman.wordpress.com/guides-2/open-media-vault-set-up/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://myhpmicroserver.com/wiki/Main_Page">http://myhpmicroserver.com/wiki/Main_Page&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Open Media Vault on the HP ProLiant MicroServer G7 N54L</summary></item><item><title>NFS and CIFS mounts with systemd</title><link>https://wimpysworld.com/posts/nfs-and-cifs-mounts-with-systemd/</link><pubDate>Fri, 26 Jul 2013 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/nfs-and-cifs-mounts-with-systemd/</guid><description>&lt;p>I have an NFS server at home and at work we have Windows (not Samba) servers.
+&lt;/ul></description><summary>Open Media Vault on the HP ProLiant MicroServer G7 N54L</summary></item><item><title>NFS and CIFS mounts with systemd</title><link>https://blog.rthur.me/posts/nfs-and-cifs-mounts-with-systemd/</link><pubDate>Fri, 26 Jul 2013 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/nfs-and-cifs-mounts-with-systemd/</guid><description>&lt;p>I have an NFS server at home and at work we have Windows (not Samba) servers.
 When I first switched to &lt;code>systemd&lt;/code> I noticed that boot and shutdown were
 seriously delayed while NFS and CIFS were mounted/unmounted. &lt;code>systemd&lt;/code> was
 designed to eliminate those kinds of delays, so I did some research to find
@@ -1124,7 +1124,7 @@ out how to correctly mount NFS and CIFS using &lt;code>systemd&lt;/code>.&lt;/p>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="references">References&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://wiki.archlinux.org/index.php/Systemd#Filesystem_mounts">https://wiki.archlinux.org/index.php/Systemd#Filesystem_mounts&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Wait for network when mounting NFS and CIFS volumes</summary></item><item><title>Headless Debian 6.0 Torrent Server</title><link>https://wimpysworld.com/posts/headless-debian-6.0-torrent-server/</link><pubDate>Thu, 21 Mar 2013 17:35:22 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/headless-debian-6.0-torrent-server/</guid><description>&lt;p>I recently switched ISPs at home and now have unlimited high speed broadband.&lt;/p>
+&lt;/ul></description><summary>Wait for network when mounting NFS and CIFS volumes</summary></item><item><title>Headless Debian 6.0 Torrent Server</title><link>https://blog.rthur.me/posts/headless-debian-6.0-torrent-server/</link><pubDate>Thu, 21 Mar 2013 17:35:22 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/headless-debian-6.0-torrent-server/</guid><description>&lt;p>I recently switched ISPs at home and now have unlimited high speed broadband.&lt;/p>
 &lt;p>Finally I can participate in torrenting Linux .ISO images. I always download
 the latest distros using &lt;a href="http://en.wikipedia.org/wiki/BitTorrent">BitTorrent&lt;/a>
 and can now contribute to the community by seeding the distros I&amp;rsquo;ve downloaded.&lt;/p>
@@ -1205,7 +1205,7 @@ capable of so much more than I have covered in this blog post.&lt;/p>
 &lt;li>&lt;a href="https://trac.transmissionbt.com/wiki/EditConfigFiles">https://trac.transmissionbt.com/wiki/EditConfigFiles&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/fagga/transmission-remote-cli">https://github.com/fagga/transmission-remote-cli&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://www.iblocklist.com/">http://www.iblocklist.com/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Installing Transmission daemon on headless Debian (Squeeze) 6.0</summary></item><item><title>Install nginx on Debian</title><link>https://wimpysworld.com/posts/install-nginx-on-debian/</link><pubDate>Thu, 14 Mar 2013 18:09:21 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/install-nginx-on-debian/</guid><description>&lt;p>My webserver of choice is &lt;a href="http://nginx.org/">nginx&lt;/a>, it&amp;rsquo;s resource friendly,
+&lt;/ul></description><summary>Installing Transmission daemon on headless Debian (Squeeze) 6.0</summary></item><item><title>Install nginx on Debian</title><link>https://blog.rthur.me/posts/install-nginx-on-debian/</link><pubDate>Thu, 14 Mar 2013 18:09:21 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/install-nginx-on-debian/</guid><description>&lt;p>My webserver of choice is &lt;a href="http://nginx.org/">nginx&lt;/a>, it&amp;rsquo;s resource friendly,
 fast, reliable and versatile.&lt;/p>
 &lt;p>I have a resource constrained Debian 6.0 &amp;ldquo;server&amp;rdquo; and wanted to deploy nginx on
 it for testing. Sadly, the nginx package in the Squeeze repositories is very old.
@@ -1234,7 +1234,7 @@ website.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://wiki.nginx.org/Install">http://wiki.nginx.org/Install&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://wiki.nginx.org/Pgp">http://wiki.nginx.org/Pgp&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Installing nginx on a Debian (Squeeze) 6.0 and (wheezy) 7.0</summary></item><item><title>nullmailer on Arch Linux</title><link>https://wimpysworld.com/posts/nullmailer-on-arch-linux/</link><pubDate>Sat, 09 Mar 2013 23:27:43 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/nullmailer-on-arch-linux/</guid><description>&lt;p>I&amp;rsquo;ve been a fan of &lt;a href="http://untroubled.org/nullmailer/">nullmailer&lt;/a> for some years
+&lt;/ul></description><summary>Installing nginx on a Debian (Squeeze) 6.0 and (wheezy) 7.0</summary></item><item><title>nullmailer on Arch Linux</title><link>https://blog.rthur.me/posts/nullmailer-on-arch-linux/</link><pubDate>Sat, 09 Mar 2013 23:27:43 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/nullmailer-on-arch-linux/</guid><description>&lt;p>I&amp;rsquo;ve been a fan of &lt;a href="http://untroubled.org/nullmailer/">nullmailer&lt;/a> for some years
 now, so much so that I took ownership of the &lt;a href="https://aur.archlinux.org/packages/nullmailer/">nullmailer package for Arch Linux&lt;/a>.&lt;/p>
 &lt;blockquote>
 &lt;p>nullmailer is a sendmail/qmail/etc replacement MTA for hosts which
@@ -1270,13 +1270,13 @@ journal.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo grep nullmailer /var/log/daemon.log
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>When you&amp;rsquo;re happy &lt;code>nullmailer&lt;/code> is working enable the systemd unit.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo systemctl enable nullmailer
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Email will now flow as required.&lt;/p></description><summary>Configuring nullmailer on Arch Linux to relay email via Gmail</summary></item><item><title>The nano text editor</title><link>https://wimpysworld.com/posts/the-nano-text-editor/</link><pubDate>Tue, 22 Jan 2013 15:25:47 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/the-nano-text-editor/</guid><description>&lt;p>I use the &lt;a href="http://www.nano-editor.org/">nano&lt;/a> text editor in preference to
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Email will now flow as required.&lt;/p></description><summary>Configuring nullmailer on Arch Linux to relay email via Gmail</summary></item><item><title>The nano text editor</title><link>https://blog.rthur.me/posts/the-nano-text-editor/</link><pubDate>Tue, 22 Jan 2013 15:25:47 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/the-nano-text-editor/</guid><description>&lt;p>I use the &lt;a href="http://www.nano-editor.org/">nano&lt;/a> text editor in preference to
 &lt;a href="http://www.vim.org/">vim&lt;/a> and have done for years. This is because we used
 &lt;a href="https://en.wikipedia.org/wiki/Pine_(email_client)">Pine&lt;/a> for email at
 university and my first job, the Pico text editor was used to compose mail
 messages. Due to the binary only distribution of &lt;code>pico&lt;/code>, &lt;code>nano&lt;/code> was created as
 an free software alternative. And that is why I use &lt;code>nano&lt;/code>.&lt;/p>
-&lt;p>Since I &lt;a href="https://wimpysworld.com/posts/migrating-wordpress-to-nikola/">migrated my blog to Nikola&lt;/a>
+&lt;p>Since I &lt;a href="https://blog.rthur.me/posts/migrating-wordpress-to-nikola/">migrated my blog to Nikola&lt;/a>
 I&amp;rsquo;m using &lt;code>nano&lt;/code> more frequently as I typically write my blog posts on a remote
 shell, so I thought I&amp;rsquo;d spend some time to tweak &lt;code>nano&lt;/code> a little.&lt;/p>
 &lt;h2 id="keybindings">Keybindings&lt;/h2>
@@ -1296,7 +1296,7 @@ custom key bindings however, it gets confusing when connecting to different
 hosts that have a default &lt;code>nano&lt;/code> configuration.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/craigbarnes/nanorc">https://github.com/craigbarnes/nanorc&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Some quality of life improvements for nano text editor</summary></item><item><title>Give XFS a chance. Don't believe the FUD.</title><link>https://wimpysworld.com/posts/give-xfs-a-chance-dont-believe-the-fud/</link><pubDate>Fri, 12 Feb 2010 13:14:44 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/give-xfs-a-chance-dont-believe-the-fud/</guid><description>&lt;p>After tinkering with Ext4 I did some research and tested other file systems on
+&lt;/ul></description><summary>Some quality of life improvements for nano text editor</summary></item><item><title>Give XFS a chance. Don't believe the FUD.</title><link>https://blog.rthur.me/posts/give-xfs-a-chance-dont-believe-the-fud/</link><pubDate>Fri, 12 Feb 2010 13:14:44 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/give-xfs-a-chance-dont-believe-the-fud/</guid><description>&lt;p>After tinkering with Ext4 I did some research and tested other file systems on
 my new disk arrays. I&amp;rsquo;ve concluded that &lt;a href="http://oss.sgi.com/projects/xfs/">XFS&lt;/a>,
 once tuned, is the best file system for my needs and it could well be the best
 file system for your needs too.&lt;/p>
@@ -1499,7 +1499,7 @@ whole file system.&lt;/p>
 &lt;li>&lt;a href="http://ondrejcertik.blogspot.com/2008/02/xfs-is-20x-slower-than-ext3-with.html">http://ondrejcertik.blogspot.com/2008/02/xfs-is-20x-slower-than-ext3-with.html&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://archives.free.net.ph/message/20090825.155236.abd842ef.en.html">http://archives.free.net.ph/message/20090825.155236.abd842ef.en.html&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://www.mythtv.org/wiki/Optimizing_Performance#XFS-Specific_Tips">http://www.mythtv.org/wiki/Optimizing_Performance#XFS-Specific_Tips&lt;/a>&lt;/li>
-&lt;/ul></description><summary>In which I dispel some myths about XFS and fanboi a little</summary></item><item><title>Recovering reserved space from ext4</title><link>https://wimpysworld.com/posts/recovering-reserved-space-from-ext4/</link><pubDate>Thu, 07 Jan 2010 20:42:04 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/recovering-reserved-space-from-ext4/</guid><description>&lt;p>The Ext4 file system, like Ext3, reserves 5% of the blocks on the file system
+&lt;/ul></description><summary>In which I dispel some myths about XFS and fanboi a little</summary></item><item><title>Recovering reserved space from ext4</title><link>https://blog.rthur.me/posts/recovering-reserved-space-from-ext4/</link><pubDate>Thu, 07 Jan 2010 20:42:04 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/recovering-reserved-space-from-ext4/</guid><description>&lt;p>The Ext4 file system, like Ext3, reserves 5% of the blocks on the file system
 for the root user. The reserved blocks are there for root&amp;rsquo;s use as a safe
 guard if the filesystem gets full, it provides some wiggle room to enable the
 really important programs to still function. But in some cases there&amp;rsquo;s not
@@ -1532,7 +1532,7 @@ do a bit a research first.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://ubuntuforums.org/showthread.php?t=215177">Disk capacity, free space, and Ext3 reserved blocks&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://wiki.archlinux.org/index.php/Ext3_Filesystem_Tips">Ext3 Filesystem Tips&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Reclaim the 5% of disk space Ext4 reserves by default</summary></item><item><title>StarTech S354UER Review</title><link>https://wimpysworld.com/posts/startech-s354uer-review/</link><pubDate>Sat, 02 Jan 2010 16:00:25 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/startech-s354uer-review/</guid><description>&lt;p>*** UPDATE: The StarTech S354UER completely died after less than one year. Not recommended! ***&lt;/p>
+&lt;/ul></description><summary>Reclaim the 5% of disk space Ext4 reserves by default</summary></item><item><title>StarTech S354UER Review</title><link>https://blog.rthur.me/posts/startech-s354uer-review/</link><pubDate>Sat, 02 Jan 2010 16:00:25 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/startech-s354uer-review/</guid><description>&lt;p>*** UPDATE: The StarTech S354UER completely died after less than one year. Not recommended! ***&lt;/p>
 &lt;p>I&amp;rsquo;ve ripped my entire CD collection to MP3 and I&amp;rsquo;m in the process of ripping
 my entire DVD, Blu-Ray and HD-DVD collection to MPEG-2 TS files so that I can
 stream everything to my PS3 using &lt;a href="http://sourceforge.net/projects/minidlna/">MiniDLNA&lt;/a>.
@@ -1625,7 +1625,7 @@ the cables, screws, screwdriver and drive handles you require.&lt;/p>
 Linux via USB 2.0 and I will continue investigate FireWire and I may add eSATA
 in the future to see what the performance benefits are. But for what I bought
 it for, secondary storage for backups, it is a pretty cheap way to add a multi
-terrabyte array to your system.&lt;/p></description><summary>Creating a 4x 1.5TB storage array with the StarTech S354UER</summary></item><item><title>Mediatomb vs. MiniDLNA</title><link>https://wimpysworld.com/posts/mediatomb-vs-minidlna/</link><pubDate>Fri, 18 Dec 2009 15:34:12 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mediatomb-vs-minidlna/</guid><description>&lt;p>I&amp;rsquo;ve been using &lt;a href="http://mediatomb.cc/">Mediatomb&lt;/a> for nearly two years now but
+terrabyte array to your system.&lt;/p></description><summary>Creating a 4x 1.5TB storage array with the StarTech S354UER</summary></item><item><title>Mediatomb vs. MiniDLNA</title><link>https://blog.rthur.me/posts/mediatomb-vs-minidlna/</link><pubDate>Fri, 18 Dec 2009 15:34:12 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mediatomb-vs-minidlna/</guid><description>&lt;p>I&amp;rsquo;ve been using &lt;a href="http://mediatomb.cc/">Mediatomb&lt;/a> for nearly two years now but
 decided to give &lt;a href="http://sourceforge.net/projects/minidlna/">MiniDLNA&lt;/a> a whirl
 since it is a fully fledged DLNA server whereas Mediatomb is UPnP only. I&amp;rsquo;m
 currently running both Mediatomb SVN and MiniDLNA CVS. So, how does MiniDLNA
@@ -1658,7 +1658,7 @@ will switch everything to MiniDLNA.&lt;/p>
 &lt;p>Since writing this post MiniDLNA added support for playlists. It still doesn&amp;rsquo;t
 support Last.fm scrobbling though. Despite that I switched to MiniDLNA and it
 has been streaming audio and video around the house for that last couple of
-years.&lt;/p></description><summary>Comparing Mediatomb and MiniDLNA streaming servers</summary></item><item><title>DVD to MPEG2-TS Ripper for Linux</title><link>https://wimpysworld.com/posts/dvd-to-mpeg2-ts-ripper-for-linux/</link><pubDate>Fri, 04 Dec 2009 07:53:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/dvd-to-mpeg2-ts-ripper-for-linux/</guid><description>&lt;p>A while back I released a script that rips a DVD to MPEG-2 PS allowing the
+years.&lt;/p></description><summary>Comparing Mediatomb and MiniDLNA streaming servers</summary></item><item><title>DVD to MPEG2-TS Ripper for Linux</title><link>https://blog.rthur.me/posts/dvd-to-mpeg2-ts-ripper-for-linux/</link><pubDate>Fri, 04 Dec 2009 07:53:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/dvd-to-mpeg2-ts-ripper-for-linux/</guid><description>&lt;p>A while back I released a script that rips a DVD to MPEG-2 PS allowing the
 user to select one audio stream and one subtitle stream. Optionally the video
 can be requantised, using M2VRequantiser and an ISO image created. If creating
 an ISO image the chapters are also preserved from the original DVD. You can
@@ -1688,11 +1688,11 @@ playback via DLNA on the PS3. Some things to be aware of:&lt;/p>
 release page below.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/DVD-to-MPG">DVD-to-MPG&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Ripping DVDs to MPEG-2 Transport Streams for DLNA streaming</summary></item><item><title>Creating a JetDirect Server with Linux</title><link>https://wimpysworld.com/posts/creating-a-jetdirect-server-with-linux/</link><pubDate>Sat, 17 Oct 2009 11:41:21 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/creating-a-jetdirect-server-with-linux/</guid><description>&lt;p>I created JetDirect compatible server on my NSLU2 running Ubuntu Jaunty 9.04
+&lt;/ul></description><summary>Ripping DVDs to MPEG-2 Transport Streams for DLNA streaming</summary></item><item><title>Creating a JetDirect Server with Linux</title><link>https://blog.rthur.me/posts/creating-a-jetdirect-server-with-linux/</link><pubDate>Sat, 17 Oct 2009 11:41:21 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/creating-a-jetdirect-server-with-linux/</guid><description>&lt;p>I created JetDirect compatible server on my NSLU2 running Ubuntu Jaunty 9.04
 using &lt;a href="http://p910nd.sourceforge.net/">p910nd&lt;/a>, which is a small printer daemon
 that does not spool to disk but passes the job directly to the printer. It is
 particularly useful for disk less Linux workstations and embedded devices that
-have a printer hanging off them.&lt;/p></description><summary>Using the NSLU2 as a JetDirect print server</summary></item><item><title>PS3, Mediatomb, Multi Zone Music streaming</title><link>https://wimpysworld.com/posts/ps3-mediatomb-multi-zone-music-streaming/</link><pubDate>Sat, 26 Sep 2009 11:02:52 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/ps3-mediatomb-multi-zone-music-streaming/</guid><description>&lt;p>PlayStation 3 firmware 3.00 added a new feature I was very excited about,
+have a printer hanging off them.&lt;/p></description><summary>Using the NSLU2 as a JetDirect print server</summary></item><item><title>PS3, Mediatomb, Multi Zone Music streaming</title><link>https://blog.rthur.me/posts/ps3-mediatomb-multi-zone-music-streaming/</link><pubDate>Sat, 26 Sep 2009 11:02:52 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ps3-mediatomb-multi-zone-music-streaming/</guid><description>&lt;p>PlayStation 3 firmware 3.00 added a new feature I was very excited about,
 multi-av output. Today I finally got round to re-wiring the home cinema system
 to make use of this new feature. I now have the PS3 streaming music from
 &lt;a href="http://mediatomb.cc/">MediaTomb&lt;/a> with my A/V receiver sending audio to Zone
@@ -1702,7 +1702,7 @@ interconnects.&lt;/p>
 system which are often in the kitchen but also moved outside for parties. If
 Sony could just add Skype to the PS3 and allow the PSP Remote Play to output
 audio to both the PS3 and PSP (rather than just one of them) I would be very
-happy indeed.&lt;/p></description><summary>Multi Zone music streaming with the PlayStation 3</summary></item><item><title>IMDB Film Summary as a MPEG-2 video, Part 2</title><link>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video-part-2/</link><pubDate>Sun, 20 Sep 2009 08:48:36 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video-part-2/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
+happy indeed.&lt;/p></description><summary>Multi Zone music streaming with the PlayStation 3</summary></item><item><title>IMDB Film Summary as a MPEG-2 video, Part 2</title><link>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video-part-2/</link><pubDate>Sun, 20 Sep 2009 08:48:36 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video-part-2/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
 superior &lt;a href="http://www.bunyipawonga.org/sheetmaker/index.php">Sheet Maker for Linux&lt;/a>&lt;/strong>.&lt;/p>
 &lt;p>Back in April I released a script to create a MPEG video summarising a movie
 using data from IMDB, you can find the original post in the URL below to learn
@@ -1748,7 +1748,7 @@ to add all that good stuff to IMDB-to-MPEG, so if you like the sound of what
 Eric has been up to hop over to his site to find out more.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://www.ypass.net/blog/2009/07/netflix-has-a-developer-api/">Netflix Has a Developer API&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Improvements to film summaries embedded in videos</summary></item><item><title>MKV to MPEG-4 conversion script</title><link>https://wimpysworld.com/posts/mkv-to-mpeg-4-conversion-script/</link><pubDate>Thu, 27 Aug 2009 20:48:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mkv-to-mpeg-4-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a script that
+&lt;/ul></description><summary>Improvements to film summaries embedded in videos</summary></item><item><title>MKV to MPEG-4 conversion script</title><link>https://blog.rthur.me/posts/mkv-to-mpeg-4-conversion-script/</link><pubDate>Thu, 27 Aug 2009 20:48:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mkv-to-mpeg-4-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a script that
 creates a PlayStation 3 or Xbox 360 compatible MPEG-4 from Matroska providing
 the video is H.264 and audio is AC3 or DTS.&lt;/p>
 &lt;p>Xbox 360 compatibility requires that audio is forcibly downmixed to stereo
@@ -1769,7 +1769,7 @@ should work on any other Linux/Unix flavour and possibly Mac OS X providing you
 have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-MP4">MKV-to-MP4&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Creating PlayStation 3 and Xbox 360 compatible MPEG-4 videos</summary></item><item><title>MP3Gainer - Apply ReplayGain to your entire music library</title><link>https://wimpysworld.com/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</link><pubDate>Fri, 14 Aug 2009 15:25:45 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</guid><description>&lt;p>Work has been crazy. We&amp;rsquo;re moving house. Hence, not much time for geeky stuff
+&lt;/ul></description><summary>Creating PlayStation 3 and Xbox 360 compatible MPEG-4 videos</summary></item><item><title>MP3Gainer - Apply ReplayGain to your entire music library</title><link>https://blog.rthur.me/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</link><pubDate>Fri, 14 Aug 2009 15:25:45 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</guid><description>&lt;p>Work has been crazy. We&amp;rsquo;re moving house. Hence, not much time for geeky stuff
 recently. I&amp;rsquo;ve been putting this off for ages, I need to &amp;ldquo;normalise&amp;rdquo; the
 volume of my MP3 music music library. Not all CDs sound equally loud. Whilst
 different musical moods require that some tracks should sound louder than
@@ -1802,7 +1802,7 @@ me! This script works on Ubuntu, should work on any other Linux/Unix
 flavour and possibly Mac OS X providing you have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MP3Gainer">MP3Gainer&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Volume normalise an entire MP3 library the right way</summary></item><item><title>DVD to MPEG2-PS Ripper for Linux</title><link>https://wimpysworld.com/posts/dvd-to-mpeg2-ps-ripper-for-linux/</link><pubDate>Thu, 23 Apr 2009 16:50:31 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/dvd-to-mpeg2-ps-ripper-for-linux/</guid><description>&lt;p>Every so often I find myself in looking through the ex-rental DVD &lt;em>&amp;ldquo;bargain
+&lt;/ul></description><summary>Volume normalise an entire MP3 library the right way</summary></item><item><title>DVD to MPEG2-PS Ripper for Linux</title><link>https://blog.rthur.me/posts/dvd-to-mpeg2-ps-ripper-for-linux/</link><pubDate>Thu, 23 Apr 2009 16:50:31 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/dvd-to-mpeg2-ps-ripper-for-linux/</guid><description>&lt;p>Every so often I find myself in looking through the ex-rental DVD &lt;em>&amp;ldquo;bargain
 bin&amp;rdquo;&lt;/em>. Quite often I find something I consider a bargain. However, the
 experience of watching an ex-rental DVD is typically ruined by the various
 trailers and marketing guff at the start which you can&amp;rsquo;t skip. My wife hates
@@ -1818,7 +1818,7 @@ image created. If creating an ISO image the chapters are also preserved from
 the original DVD. I&amp;rsquo;ve lobbed my code into GitHub.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/DVD-to-MPG">DVD-to-MPG&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Ripping DVDs to MPEG2-PS for streaming via UPnP</summary></item><item><title>IMDB Film Summary as a MPEG-2 video</title><link>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video/</link><pubDate>Wed, 22 Apr 2009 18:00:07 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
+&lt;/ul></description><summary>Ripping DVDs to MPEG2-PS for streaming via UPnP</summary></item><item><title>IMDB Film Summary as a MPEG-2 video</title><link>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video/</link><pubDate>Wed, 22 Apr 2009 18:00:07 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
 superior &lt;a href="http://www.bunyipawonga.org/sheetmaker/index.php">Sheet Maker for Linux&lt;/a>&lt;/strong>.&lt;/p>
 &lt;p>If you&amp;rsquo;ve read my blog before you&amp;rsquo;ll know I run Mediatomb DLNA server with my
 PlayStation 3 as the client, You&amp;rsquo;ll also know I am working towards importing my
@@ -1872,7 +1872,7 @@ the appropriate directory in &amp;lsquo;All&amp;rsquo;. For example.&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> `-- 8
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> `-- The_Usual_Suspects -&amp;gt; ../../All/The_Usual_Suspects
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>This code was lashed up in a few hours, it ain&amp;rsquo;t pretty but it works for me on
-my Ubuntu systems, maybe it&amp;rsquo;ll work for you too.&lt;/p></description><summary>Create film preview information for your UPnP server</summary></item><item><title>Converting Matroska to M2TS for PS3 and Mediatomb</title><link>https://wimpysworld.com/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</link><pubDate>Wed, 15 Apr 2009 16:19:24 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</guid><description>&lt;p>It has been a while since I last posted, mainly due to not having Internet
+my Ubuntu systems, maybe it&amp;rsquo;ll work for you too.&lt;/p></description><summary>Create film preview information for your UPnP server</summary></item><item><title>Converting Matroska to M2TS for PS3 and Mediatomb</title><link>https://blog.rthur.me/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</link><pubDate>Wed, 15 Apr 2009 16:19:24 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</guid><description>&lt;p>It has been a while since I last posted, mainly due to not having Internet
 access at home for a month. Anyway, I&amp;rsquo;m online again and I have been tinkering
 with various projects the most recent of which is Matroska conversion (again).&lt;/p>
 &lt;h2 id="matroska-to-mp4">Matroska to MP4&lt;/h2>
@@ -1900,7 +1900,7 @@ outside chance it will work on Mac OS X if you can get the required tools
 installed. Again, you can find my script on GitHub.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-M2TS">MPV-to-M2TS&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Fast conversion of Matroska video to MPEG2-TS</summary></item><item><title>Mediatomb 0.12 - Streaming audio and video around the house</title><link>https://wimpysworld.com/posts/mediatomb-0.12-streaming-audio-and-video-around-the-house/</link><pubDate>Sat, 07 Feb 2009 16:23:39 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mediatomb-0.12-streaming-audio-and-video-around-the-house/</guid><description>&lt;p>&lt;a href="http://mediatomb.cc/">Mediatomb&lt;/a> is an open source (GPL) UPnP MediaServer
+&lt;/ul></description><summary>Fast conversion of Matroska video to MPEG2-TS</summary></item><item><title>Mediatomb 0.12 - Streaming audio and video around the house</title><link>https://blog.rthur.me/posts/mediatomb-0.12-streaming-audio-and-video-around-the-house/</link><pubDate>Sat, 07 Feb 2009 16:23:39 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mediatomb-0.12-streaming-audio-and-video-around-the-house/</guid><description>&lt;p>&lt;a href="http://mediatomb.cc/">Mediatomb&lt;/a> is an open source (GPL) UPnP MediaServer
 with a nice web user interface, it allows you to stream your digital media
 through your home network and listen to/watch it on a variety of UPnP
 compatible devices, such as the PlayStation in my case.&lt;/p>
@@ -1933,7 +1933,7 @@ it sounds very cool. I&amp;rsquo;ve also created a script which queries IMDB to
 categorise our film library by genre and create summary information about
 each film in the library. I&amp;rsquo;ll be posting more about that soon. I haven&amp;rsquo;t
 finalised how we will integrate Photo management with Mediatomb yet, but that
-is that final piece in the puzzle.&lt;/p></description><summary>In home streaming via UPnP with Mediatomb</summary></item><item><title>Simple iCal Server</title><link>https://wimpysworld.com/posts/simple-ical-server/</link><pubDate>Wed, 09 Jan 2008 23:20:28 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/simple-ical-server/</guid><description>&lt;p>For the longest time I have been meaning to setup a shared calendar for my
+is that final piece in the puzzle.&lt;/p></description><summary>In home streaming via UPnP with Mediatomb</summary></item><item><title>Simple iCal Server</title><link>https://blog.rthur.me/posts/simple-ical-server/</link><pubDate>Wed, 09 Jan 2008 23:20:28 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/simple-ical-server/</guid><description>&lt;p>For the longest time I have been meaning to setup a shared calendar for my
 wife I and to use. You see, like most men I have no idea when and where I am
 supposed to be. This is because my wife keeps all this information in her
 filofax and that lives in her handbag, somewhere I never venture. So I have
@@ -1947,16 +1947,16 @@ Thunderbird and read only access via the PHP iCalendar web interface. Viewing
 the calendar via the web interface requires a login first and the calendar
 publishing is protected by Lighty authentication using htdigest.&lt;/p>
 &lt;p>Lastly, because our calendar is a nice open standard I have options as to how I
-might sync it with my mobile phone. More on that when I figure it out.&lt;/p></description><summary>Creating a self-hosted shared calendar</summary></item><item><title>Conslidated RavenCore HOW-TOs</title><link>https://wimpysworld.com/posts/conslidated-ravencore-how-tos/</link><pubDate>Fri, 18 Aug 2006 12:37:07 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/conslidated-ravencore-how-tos/</guid><description>&lt;p>I have reorganized and consolidated my Debian and Ubuntu HOW-TOs for &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a> 0.2.3.&lt;/p></description><summary>RavenCore documentation for Debian &amp;amp; Ubuntu</summary></item><item><title>RavenCore 0.2.3 on Debian and Ubuntu</title><link>https://wimpysworld.com/posts/ravencore-0.2.3-on-debian-and-ubuntu/</link><pubDate>Thu, 17 Aug 2006 10:53:53 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/ravencore-0.2.3-on-debian-and-ubuntu/</guid><description>&lt;p>I have updated my HOW-TO for installing &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a>
+might sync it with my mobile phone. More on that when I figure it out.&lt;/p></description><summary>Creating a self-hosted shared calendar</summary></item><item><title>Conslidated RavenCore HOW-TOs</title><link>https://blog.rthur.me/posts/conslidated-ravencore-how-tos/</link><pubDate>Fri, 18 Aug 2006 12:37:07 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/conslidated-ravencore-how-tos/</guid><description>&lt;p>I have reorganized and consolidated my Debian and Ubuntu HOW-TOs for &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a> 0.2.3.&lt;/p></description><summary>RavenCore documentation for Debian &amp;amp; Ubuntu</summary></item><item><title>RavenCore 0.2.3 on Debian and Ubuntu</title><link>https://blog.rthur.me/posts/ravencore-0.2.3-on-debian-and-ubuntu/</link><pubDate>Thu, 17 Aug 2006 10:53:53 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ravencore-0.2.3-on-debian-and-ubuntu/</guid><description>&lt;p>I have updated my HOW-TO for installing &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a>
 on Debian (at the request of the RavenCore developer) and added a HOW-TO for
 installing RavenCore on Ubuntu. The are still some minor compatibility issues
 with Debian and Ubuntu and these HOW-TOs have been sent to the RavenCore
-developer to help document the outstanding incompatibilities.&lt;/p></description><summary>Updated Debian &amp;amp; Ubuntu documentation for RavenCore</summary></item><item><title>RavenCore 0.1.5 on Debian</title><link>https://wimpysworld.com/posts/ravencore-0.1.5-on-debian/</link><pubDate>Sat, 29 Apr 2006 19:18:15 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/ravencore-0.1.5-on-debian/</guid><description>&lt;p>I have updated my HOW-TO for installing &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a>
+developer to help document the outstanding incompatibilities.&lt;/p></description><summary>Updated Debian &amp;amp; Ubuntu documentation for RavenCore</summary></item><item><title>RavenCore 0.1.5 on Debian</title><link>https://blog.rthur.me/posts/ravencore-0.1.5-on-debian/</link><pubDate>Sat, 29 Apr 2006 19:18:15 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ravencore-0.1.5-on-debian/</guid><description>&lt;p>I have updated my HOW-TO for installing &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a>
 0.1.5 on Debian. I&amp;rsquo;m pleased to report that the RavenCore developer has been
 very responsive to my feedback and has significantly improved &amp;ldquo;out of the box&amp;rdquo;
 Debian compatibility in this release. The are still some minor compatibility
 issues and I&amp;rsquo;ve&amp;rsquo; sent feedback to the developer in the hope that things will
-continue to improve with RavenCore 0.1.6.&lt;/p></description><summary>New RavenCore. New documentation for Debian users</summary></item><item><title>Today I have been mostly lovin' Munin</title><link>https://wimpysworld.com/posts/today-i-have-been-mostly-lovin-munin/</link><pubDate>Fri, 07 Apr 2006 17:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/today-i-have-been-mostly-lovin-munin/</guid><description>&lt;p>Here&amp;rsquo;s the blurb from the authors&amp;hellip; &lt;a href="http://munin.projects.linpro.no/">Munin&lt;/a>
+continue to improve with RavenCore 0.1.6.&lt;/p></description><summary>New RavenCore. New documentation for Debian users</summary></item><item><title>Today I have been mostly lovin' Munin</title><link>https://blog.rthur.me/posts/today-i-have-been-mostly-lovin-munin/</link><pubDate>Fri, 07 Apr 2006 17:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/today-i-have-been-mostly-lovin-munin/</guid><description>&lt;p>Here&amp;rsquo;s the blurb from the authors&amp;hellip; &lt;a href="http://munin.projects.linpro.no/">Munin&lt;/a>
 surveys all your computers and remembers what it saw. It presents all the
 information in in graphs through a web interface. Its emphasis is on plug and
 play capabilities. After completing a installation a high number of monitoring
@@ -1964,20 +1964,20 @@ plugins will be playing with no more effort. Using Munin you can easily
 monitor the performance of your computers, networks, SANs, and quite possibly
 applications as well. It makes it easy to determine &amp;ldquo;what&amp;rsquo;s different today&amp;rdquo;
 when a performance problem crops up. It makes it easy to see how you&amp;rsquo;re doing
-capacity wise on all limited resources.&lt;/p></description><summary>Munin offers simple system monitoring graphs</summary></item><item><title>Flexion.Org Server Migrated</title><link>https://wimpysworld.com/posts/flexion.org-server-migrated/</link><pubDate>Tue, 04 Apr 2006 15:20:29 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/flexion.org-server-migrated/</guid><description>&lt;p>Today Flexion.Org was successfully migrated to a new server. I&amp;rsquo;ve been using
+capacity wise on all limited resources.&lt;/p></description><summary>Munin offers simple system monitoring graphs</summary></item><item><title>Flexion.Org Server Migrated</title><link>https://blog.rthur.me/posts/flexion.org-server-migrated/</link><pubDate>Tue, 04 Apr 2006 15:20:29 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/flexion.org-server-migrated/</guid><description>&lt;p>Today Flexion.Org was successfully migrated to a new server. I&amp;rsquo;ve been using
 the same shared host for over 7 years but these days I really need much better
 control over my server, mostly for spam/virus protection of e-mail but also to
 ensure that periodic upgrades don&amp;rsquo;t screw up my website.&lt;/p>
 &lt;p>So this time I opted for a virtual dedicated server and I had a choice of all
 the popular Linux distros, which I can re-install via a web interface at will
 in a few seconds. I choose. If you are looking for a low cost virtual dedicated
-server then take a look at &lt;a href="http://www.quantact.com">Quantact&lt;/a>.&lt;/p></description><summary>After 7 shared on a shared host it&amp;rsquo;s time for a VPS</summary></item><item><title>RavenCore 0.1.4 on Debian</title><link>https://wimpysworld.com/posts/ravencore-0.1.4-on-debian/</link><pubDate>Wed, 22 Mar 2006 18:02:05 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/ravencore-0.1.4-on-debian/</guid><description>&lt;p>I set up my new server to use &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a>
+server then take a look at &lt;a href="http://www.quantact.com">Quantact&lt;/a>.&lt;/p></description><summary>After 7 shared on a shared host it&amp;rsquo;s time for a VPS</summary></item><item><title>RavenCore 0.1.4 on Debian</title><link>https://blog.rthur.me/posts/ravencore-0.1.4-on-debian/</link><pubDate>Wed, 22 Mar 2006 18:02:05 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ravencore-0.1.4-on-debian/</guid><description>&lt;p>I set up my new server to use &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a>
 so that managing my domains and e-mail accounts for friends and family will be
 as easy as possible. RavenCore is designed for use on CentOS primarily and
 therefore RavenCore 0.1.4 requires some tweaking in order to get it fully
 working and compatible with Debian.&lt;/p>
 &lt;p>I have been sharing my feedback with the RavenCore author and when RavenCore
-0.1.5 is released &amp;ldquo;out of the box&amp;rdquo; Debian compatibility should be a reality.&lt;/p></description><summary>Managing virtual hosting on Debian with RavenCore</summary></item><item><title>RavenCore 0.0.6 on Debian</title><link>https://wimpysworld.com/posts/ravencore-0.0.6-on-debian/</link><pubDate>Thu, 05 Jan 2006 11:24:41 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/ravencore-0.0.6-on-debian/</guid><description>&lt;p>I have been testing a few virtual hosting control panels the last couple of
+0.1.5 is released &amp;ldquo;out of the box&amp;rdquo; Debian compatibility should be a reality.&lt;/p></description><summary>Managing virtual hosting on Debian with RavenCore</summary></item><item><title>RavenCore 0.0.6 on Debian</title><link>https://blog.rthur.me/posts/ravencore-0.0.6-on-debian/</link><pubDate>Thu, 05 Jan 2006 11:24:41 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ravencore-0.0.6-on-debian/</guid><description>&lt;p>I have been testing a few virtual hosting control panels the last couple of
 days and I am deeply impressed with &lt;a href="http://sourceforge.net/projects/ravencore/">RavenCore&lt;/a>,
 so much so I will most likely use it for a project I am planning. However,
 Debian is my server distro of choice and RavenCore needs a little tweaking in

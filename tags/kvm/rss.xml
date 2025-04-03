@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KVM on Wimpy's World</title><link>https://wimpysworld.com/tags/kvm/</link><description>Recent content in KVM on Wimpy's World</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>martin@wimpress.com (Martin Wimpress)</managingEditor><webMaster>martin@wimpress.com (Martin Wimpress)</webMaster><lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wimpysworld.com/tags/kvm/rss.xml" rel="self" type="application/rss+xml"/><item><title>Quickemu</title><link>https://wimpysworld.com/projects/quickemu/</link><pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/quickemu/</guid><description>&lt;p>Quickly create and run highly optimised desktop virtual machines for Linux,
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KVM on Arthur’s Almanac</title><link>https://blog.rthur.me/tags/kvm/</link><description>Recent content in KVM on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/tags/kvm/rss.xml" rel="self" type="application/rss+xml"/><item><title>Quickemu</title><link>https://blog.rthur.me/projects/quickemu/</link><pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/quickemu/</guid><description>&lt;p>Quickly create and run highly optimised desktop virtual machines for Linux,
 macOS and Windows; with just two commands. You decide what operating system you
 want to run and &lt;a href="https://github.com/quickemu-project/quickemu">Quickemu&lt;/a> will figure out the best way to do it for you&lt;/p>
 &lt;ul>
 &lt;li>Organisation: &lt;a href="https://github.com/quickemu-project">Quickemu Project&lt;/a>&lt;/li>
 &lt;li>Date: March 2020 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Quickly create and run optimised Windows, macOS and Linux virtual machines</summary></item><item><title>Basic Debian Setup for Squeeze and Wheezy</title><link>https://wimpysworld.com/posts/basic-debian-setup-for-squeeze-and-wheezy/</link><pubDate>Tue, 06 Aug 2013 20:07:09 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/basic-debian-setup-for-squeeze-and-wheezy/</guid><description>&lt;p>Recently I&amp;rsquo;ve been deploying &lt;a href="http://www.debian.org">Debian&lt;/a> 6.0 (Squeeze) and
+&lt;/ul></description><summary>Quickly create and run optimised Windows, macOS and Linux virtual machines</summary></item><item><title>Basic Debian Setup for Squeeze and Wheezy</title><link>https://blog.rthur.me/posts/basic-debian-setup-for-squeeze-and-wheezy/</link><pubDate>Tue, 06 Aug 2013 20:07:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/basic-debian-setup-for-squeeze-and-wheezy/</guid><description>&lt;p>Recently I&amp;rsquo;ve been deploying &lt;a href="http://www.debian.org">Debian&lt;/a> 6.0 (Squeeze) and
 7.0 (Wheezy) servers for some personal projects. These servers are provisioned
 in different ways:&lt;/p>
 &lt;ul>
@@ -73,7 +73,7 @@ will.&lt;/p>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Open up TCP port 22 but with rate limiting enabled which will deny connections
 from an IP address that has attempted to initiate 6 or more connections in the
 last 30 seconds. Ideal for protecting &lt;code>sshd&lt;/code> but you should conisder other
-&lt;a href="https://wimpysworld.com/posts/ssh-brute-force-defense/">SSH brute force defense&lt;/a>
+&lt;a href="https://blog.rthur.me/posts/ssh-brute-force-defense/">SSH brute force defense&lt;/a>
 techniques as well.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo ufw limit ssh
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>To enable the firewall you also have to do the following.&lt;/p>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Media Vault on Wimpy's World</title><link>https://wimpysworld.com/tags/open-media-vault/</link><description>Recent content in Open Media Vault on Wimpy's World</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>martin@wimpress.com (Martin Wimpress)</managingEditor><webMaster>martin@wimpress.com (Martin Wimpress)</webMaster><lastBuildDate>Sat, 28 Jun 2014 12:00:00 +0000</lastBuildDate><atom:link href="https://wimpysworld.com/tags/open-media-vault/rss.xml" rel="self" type="application/rss+xml"/><item><title>Integrating Dropbox photo syncing with Open Media Vault and Plex</title><link>https://wimpysworld.com/posts/integrating-dropbox-photo-syncing-with-open-media-vault-and-plex/</link><pubDate>Sat, 28 Jun 2014 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/integrating-dropbox-photo-syncing-with-open-media-vault-and-plex/</guid><description>&lt;p>&lt;strong>This how-to was updated for Open Media Vault 2.x and 3.x on 22nd August 2016.&lt;/strong>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Media Vault on Arthur’s Almanac</title><link>https://blog.rthur.me/tags/open-media-vault/</link><description>Recent content in Open Media Vault on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Sat, 28 Jun 2014 12:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/tags/open-media-vault/rss.xml" rel="self" type="application/rss+xml"/><item><title>Integrating Dropbox photo syncing with Open Media Vault and Plex</title><link>https://blog.rthur.me/posts/integrating-dropbox-photo-syncing-with-open-media-vault-and-plex/</link><pubDate>Sat, 28 Jun 2014 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/integrating-dropbox-photo-syncing-with-open-media-vault-and-plex/</guid><description>&lt;p>&lt;strong>This how-to was updated for Open Media Vault 2.x and 3.x on 22nd August 2016.&lt;/strong>&lt;/p>
 &lt;p>I&amp;rsquo;ve installed &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a>
 on a &lt;a href="http://www8.hp.com/uk/en/products/proliant-servers/product-detail.html?oid=5336624">HP ProLiant MicroServer G7 N54L&lt;/a>
 and use it as media server for the house. OpenMediaVault (OMV) is a network
@@ -14,7 +14,7 @@ is also running on Open Media Vault.&lt;/p>
 &lt;p>Sadly, at the time of writing, it is unfinished and I didn&amp;rsquo;t have the time to
 go and learn the Open Media Vault plugin API.&lt;/p>
 &lt;p>The Open Media Vault forum does include a &lt;a href="http://forums.openmediavault.org/viewtopic.php?f=13&amp;amp;t=70">Dropbox HOW-TO&lt;/a>
-which is very similar to how &lt;a href="https://wimpysworld.com/posts/dropbox-is-my-nikola-publish-button/">I&amp;rsquo;ve run Dropbox on headless Linux servers&lt;/a>
+which is very similar to how &lt;a href="https://blog.rthur.me/posts/dropbox-is-my-nikola-publish-button/">I&amp;rsquo;ve run Dropbox on headless Linux servers&lt;/a>
 in the past. So, I decided to adapt my existing notes to Open Media Vault.&lt;/p>
 &lt;h2 id="create-a-dropbox-share">Create a Dropbox Share&lt;/h2>
 &lt;p>Create a Dropbox share via the OMV WebUI.&lt;/p>
@@ -159,7 +159,7 @@ at a later date.&lt;/p>
 &lt;h4 id="references">References&lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="http://www.dropboxwiki.com/Text_Based_Linux_Install">http://www.dropboxwiki.com/Text_Based_Linux_Install&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Integrating Dropbox on a headless Open Media Vault server.</summary></item><item><title>OpenMediaVault on Debian</title><link>https://wimpysworld.com/posts/openmediavault-on-debian/</link><pubDate>Sun, 22 Jun 2014 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/openmediavault-on-debian/</guid><description>&lt;p>At the time of writing &lt;a href="http://www.openmediavault.org/">OpenMediaVault&lt;/a> 0.6 is
+&lt;/ul></description><summary>Integrating Dropbox on a headless Open Media Vault server.</summary></item><item><title>OpenMediaVault on Debian</title><link>https://blog.rthur.me/posts/openmediavault-on-debian/</link><pubDate>Sun, 22 Jun 2014 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/openmediavault-on-debian/</guid><description>&lt;p>At the time of writing &lt;a href="http://www.openmediavault.org/">OpenMediaVault&lt;/a> 0.6 is
 pre-release. But it is possible to install OpenMediaVault on Debian Wheezy in
 order to get some testing done.&lt;/p>
 &lt;p>Install Debian Wheezy on your target VM or test server. Go with the defaults
@@ -211,7 +211,7 @@ repositories.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>omv-initsystem
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>reboot
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>After the reboot you should be able to connect to the OpenMediaVault WebUI and
-login as &lt;code>admin&lt;/code> with the password of &lt;code>openmediavault&lt;/code>. That&amp;rsquo;s it. Get testing.&lt;/p></description><summary>Manually installing OpenMediaVault on Debian Wheezy</summary></item><item><title>Plex Media Server on Open Media Vault</title><link>https://wimpysworld.com/posts/plex-media-server-on-open-media-vault/</link><pubDate>Tue, 27 Aug 2013 21:11:43 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/plex-media-server-on-open-media-vault/</guid><description>&lt;p>I&amp;rsquo;ve recently started using &lt;a href="http://www.plexapp.com">Plex Media Server&lt;/a> to
+login as &lt;code>admin&lt;/code> with the password of &lt;code>openmediavault&lt;/code>. That&amp;rsquo;s it. Get testing.&lt;/p></description><summary>Manually installing OpenMediaVault on Debian Wheezy</summary></item><item><title>Plex Media Server on Open Media Vault</title><link>https://blog.rthur.me/posts/plex-media-server-on-open-media-vault/</link><pubDate>Tue, 27 Aug 2013 21:11:43 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/plex-media-server-on-open-media-vault/</guid><description>&lt;p>I&amp;rsquo;ve recently started using &lt;a href="http://www.plexapp.com">Plex Media Server&lt;/a> to
 handle most media streaming duties around the house. I run in on
 &lt;a href="http://www.openmediavault.org">Open Media Vault&lt;/a> 0.5.x. At the time of writing
 Open Media Vault is based on &lt;a href="http://www.debian.org">Debian&lt;/a> (Squeeze) 6.0.&lt;/p>
@@ -242,7 +242,7 @@ the PleXBMC plug-in on Raspberry Pi.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://forums.plexapp.com/index.php/topic/51427-plex-media-server-for-debian/">http://forums.plexapp.com/index.php/topic/51427-plex-media-server-for-debian/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://forums.plexapp.com/index.php/topic/48865-debian-package/">http://forums.plexapp.com/index.php/topic/48865-debian-package/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Installing Plex Media Server on Open Media Vault (Squeeze) 6.0</summary></item><item><title>Setting up MiniDLNA on Open Media Vault</title><link>https://wimpysworld.com/posts/setting-up-minidlna-on-open-media-vault/</link><pubDate>Mon, 26 Aug 2013 21:49:09 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/setting-up-minidlna-on-open-media-vault/</guid><description>&lt;p>I have &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a> running on a
+&lt;/ul></description><summary>Installing Plex Media Server on Open Media Vault (Squeeze) 6.0</summary></item><item><title>Setting up MiniDLNA on Open Media Vault</title><link>https://blog.rthur.me/posts/setting-up-minidlna-on-open-media-vault/</link><pubDate>Mon, 26 Aug 2013 21:49:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/setting-up-minidlna-on-open-media-vault/</guid><description>&lt;p>I have &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a> running on a
 &lt;a href="http://www8.hp.com/uk/en/products/proliant-servers/product-detail.html?oid=5336624">HP ProLiant MicroServer G7 N54L&lt;/a>.&lt;/p>
 &lt;p>OpenMediaVault (OMV) is a network attached storage (NAS) solution based on
 &lt;a href="http://www.debian.org">Debian&lt;/a> Linux. At the time of writing OMV 0.5.x is
@@ -279,7 +279,7 @@ guide you.&lt;/p>
 &lt;li>&lt;a href="http://blog.steve.org.uk/minidlna_is_now_packaged.html">http://blog.steve.org.uk/minidlna_is_now_packaged.html&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://packages.steve.org.uk/minidlna/">http://packages.steve.org.uk/minidlna/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://sourceforge.net/projects/minidlna/">http://sourceforge.net/projects/minidlna/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Music streaming with MiniDLNA on Open Media Vault</summary></item><item><title>Setting up Open Media Vault on the HP MicroServer N54L</title><link>https://wimpysworld.com/posts/setting-up-open-media-vault-on-the-hp-microserver-n54l/</link><pubDate>Wed, 07 Aug 2013 21:21:09 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/setting-up-open-media-vault-on-the-hp-microserver-n54l/</guid><description>&lt;p>I&amp;rsquo;ve installed &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a> (OMV)
+&lt;/ul></description><summary>Music streaming with MiniDLNA on Open Media Vault</summary></item><item><title>Setting up Open Media Vault on the HP MicroServer N54L</title><link>https://blog.rthur.me/posts/setting-up-open-media-vault-on-the-hp-microserver-n54l/</link><pubDate>Wed, 07 Aug 2013 21:21:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/setting-up-open-media-vault-on-the-hp-microserver-n54l/</guid><description>&lt;p>I&amp;rsquo;ve installed &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a> (OMV)
 on my new &lt;a href="http://www8.hp.com/uk/en/products/proliant-servers/product-detail.html?oid=5336624">HP ProLiant MicroServer G7 N54L&lt;/a>
 to replace my aging, and lackluster, &lt;a href="http://www.readynas.com">ReadyNAS&lt;/a> NV.&lt;/p>
 &lt;p>OpenMediaVault (OMV) is a network attached storage (NAS) solution based on
@@ -380,7 +380,7 @@ adding LXC and Dropbox in the coming that will require some manual steps.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://thekentishman.wordpress.com/guides-2/open-media-vault-set-up/">http://thekentishman.wordpress.com/guides-2/open-media-vault-set-up/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://myhpmicroserver.com/wiki/Main_Page">http://myhpmicroserver.com/wiki/Main_Page&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Open Media Vault on the HP ProLiant MicroServer G7 N54L</summary></item><item><title>Basic Debian Setup for Squeeze and Wheezy</title><link>https://wimpysworld.com/posts/basic-debian-setup-for-squeeze-and-wheezy/</link><pubDate>Tue, 06 Aug 2013 20:07:09 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/basic-debian-setup-for-squeeze-and-wheezy/</guid><description>&lt;p>Recently I&amp;rsquo;ve been deploying &lt;a href="http://www.debian.org">Debian&lt;/a> 6.0 (Squeeze) and
+&lt;/ul></description><summary>Open Media Vault on the HP ProLiant MicroServer G7 N54L</summary></item><item><title>Basic Debian Setup for Squeeze and Wheezy</title><link>https://blog.rthur.me/posts/basic-debian-setup-for-squeeze-and-wheezy/</link><pubDate>Tue, 06 Aug 2013 20:07:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/basic-debian-setup-for-squeeze-and-wheezy/</guid><description>&lt;p>Recently I&amp;rsquo;ve been deploying &lt;a href="http://www.debian.org">Debian&lt;/a> 6.0 (Squeeze) and
 7.0 (Wheezy) servers for some personal projects. These servers are provisioned
 in different ways:&lt;/p>
 &lt;ul>
@@ -448,7 +448,7 @@ will.&lt;/p>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Open up TCP port 22 but with rate limiting enabled which will deny connections
 from an IP address that has attempted to initiate 6 or more connections in the
 last 30 seconds. Ideal for protecting &lt;code>sshd&lt;/code> but you should conisder other
-&lt;a href="https://wimpysworld.com/posts/ssh-brute-force-defense/">SSH brute force defense&lt;/a>
+&lt;a href="https://blog.rthur.me/posts/ssh-brute-force-defense/">SSH brute force defense&lt;/a>
 techniques as well.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo ufw limit ssh
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>To enable the firewall you also have to do the following.&lt;/p>

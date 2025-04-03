@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GNOME on Wimpy's World</title><link>https://wimpysworld.com/tags/gnome/</link><description>Recent content in GNOME on Wimpy's World</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>martin@wimpress.com (Martin Wimpress)</managingEditor><webMaster>martin@wimpress.com (Martin Wimpress)</webMaster><lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://wimpysworld.com/tags/gnome/rss.xml" rel="self" type="application/rss+xml"/><item><title>Retro Home</title><link>https://wimpysworld.com/projects/retro-home/</link><pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/retro-home/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a> is custom Raspberry Pi
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GNOME on Arthur’s Almanac</title><link>https://blog.rthur.me/tags/gnome/</link><description>Recent content in GNOME on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/tags/gnome/rss.xml" rel="self" type="application/rss+xml"/><item><title>Retro Home</title><link>https://blog.rthur.me/projects/retro-home/</link><pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/retro-home/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a> is custom Raspberry Pi
 operating system purpose built for retro gaming. Built with
 &lt;a href="https://ubuntu.com/">Ubuntu&lt;/a> and using the minimalist emulator frontend
 &lt;a href="https://ludo.libretro.com/">Ludo&lt;/a> it supports most classic consoles from Atari,
@@ -10,7 +10,7 @@ are supported (with more in the works) using bespoke GPIO drivers.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a>&lt;/li>
 &lt;li>Date: July 2020 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>A retro-gaming operating system for Raspberry Pi built with Ubuntu and Ludo</summary></item><item><title>Memory consumption of Linux desktop environments</title><link>https://wimpysworld.com/posts/memory-consumption-of-linux-desktop-environments/</link><pubDate>Sun, 23 Mar 2014 13:30:27 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/memory-consumption-of-linux-desktop-environments/</guid><description>&lt;div class="alert alert-info">
+&lt;/ul></description><summary>A retro-gaming operating system for Raspberry Pi built with Ubuntu and Ludo</summary></item><item><title>Memory consumption of Linux desktop environments</title><link>https://blog.rthur.me/posts/memory-consumption-of-linux-desktop-environments/</link><pubDate>Sun, 23 Mar 2014 13:30:27 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/memory-consumption-of-linux-desktop-environments/</guid><description>&lt;div class="alert alert-info">
 &lt;strong>Note&lt;/strong> Updated on June 3rd 2014 and now includes LXQt and Unity.
 &lt;/div>
 &lt;p>For the last 9 months or so I&amp;rsquo;ve spent my spare time working with the
@@ -617,7 +617,7 @@ RAM (for me at least).&lt;/p>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="final-thoughts">Final thoughts&lt;/h2>
 &lt;p>On Arch Linux at least, Xfce has lower resource requirements than MATE.
 When I said different in the past I was wrong, unless you use openSUSE
-in which case I was probably right, maybe.&lt;/p></description><summary>Comparing desktop environment memory usage with ps_mem</summary></item><item><title>Arch Linux Angel</title><link>https://wimpysworld.com/posts/arch-linux-angel/</link><pubDate>Tue, 15 May 2012 11:12:13 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/arch-linux-angel/</guid><description>&lt;p>I&amp;rsquo;ve been working a shell script for Arch Linux that automatically configures
+in which case I was probably right, maybe.&lt;/p></description><summary>Comparing desktop environment memory usage with ps_mem</summary></item><item><title>Arch Linux Angel</title><link>https://blog.rthur.me/posts/arch-linux-angel/</link><pubDate>Tue, 15 May 2012 11:12:13 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/arch-linux-angel/</guid><description>&lt;p>I&amp;rsquo;ve been working a shell script for Arch Linux that automatically configures
 my preferred GNOME 3 setup on my netbook, laptops and workstations. The main
 features are:&lt;/p>
 &lt;ul>
@@ -640,7 +640,7 @@ below to see an example run of Arch Angel.&lt;/p>
 id='shelr_record_4fb2223c96608047be00010e' scrolling='no'
 src='http://shelr.tv/records/4fb2223c96608047be00010e/embed' style='border: 0'
 width='634' />
---></description><summary>Automated scripted installs of Arch Linux</summary></item><item><title>Installing GNOME 3 on Ubuntu 11.10</title><link>https://wimpysworld.com/posts/installing-gnome-3-on-ubuntu-11.10/</link><pubDate>Fri, 09 Dec 2011 16:21:03 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/installing-gnome-3-on-ubuntu-11.10/</guid><description>&lt;p>I tried &lt;a href="http://unity.ubuntu.com/">Unity&lt;/a> in Ubuntu Natty 11.04 and Ubuntu
+--></description><summary>Automated scripted installs of Arch Linux</summary></item><item><title>Installing GNOME 3 on Ubuntu 11.10</title><link>https://blog.rthur.me/posts/installing-gnome-3-on-ubuntu-11.10/</link><pubDate>Fri, 09 Dec 2011 16:21:03 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/installing-gnome-3-on-ubuntu-11.10/</guid><description>&lt;p>I tried &lt;a href="http://unity.ubuntu.com/">Unity&lt;/a> in Ubuntu Natty 11.04 and Ubuntu
 Oneiric 11.10. We&amp;rsquo;ve agreed to hate each other. A few weeks ago I started using
 &lt;a href="http://www.gnome.org/">GNOME 3&lt;/a> and it only took me a couple of hours to
 adapt to it&amp;rsquo;s workflow. GNOME 3 is now my desktop environment at home and and
@@ -697,7 +697,7 @@ GNOME Shell Remix or if you modify an existing Ubuntu 11.10 using my method
 above. You will have to do a full install once the next Ubuntu release is
 available. This can&amp;rsquo;t be fixed as long as Jan&amp;rsquo;s meta packages are unofficial,
 because the distribution upgrade process requires having installed one of the
-desktop meta packages from the official Ubuntu repositories.&lt;/p></description><summary>Creating a pure GNOME 3 experience on Ubuntu 11.10</summary></item><item><title>Shotwell 0.11 PPA available for Ubuntu Lucid and Maverick</title><link>https://wimpysworld.com/posts/shotwell-0.11-ppa-available-for-ubuntu-lucid-and-maverick/</link><pubDate>Tue, 30 Aug 2011 11:05:50 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/shotwell-0.11-ppa-available-for-ubuntu-lucid-and-maverick/</guid><description>&lt;p>Like many others I wanted &lt;a href="http://yorba.org/shotwell/">Shotwell&lt;/a> 0.11
+desktop meta packages from the official Ubuntu repositories.&lt;/p></description><summary>Creating a pure GNOME 3 experience on Ubuntu 11.10</summary></item><item><title>Shotwell 0.11 PPA available for Ubuntu Lucid and Maverick</title><link>https://blog.rthur.me/posts/shotwell-0.11-ppa-available-for-ubuntu-lucid-and-maverick/</link><pubDate>Tue, 30 Aug 2011 11:05:50 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/shotwell-0.11-ppa-available-for-ubuntu-lucid-and-maverick/</guid><description>&lt;p>Like many others I wanted &lt;a href="http://yorba.org/shotwell/">Shotwell&lt;/a> 0.11
 for Lucid and Maverick so I&amp;rsquo;ve created a PPA for it.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://launchpad.net/~flexiondotorg/+archive/shotwell">https://launchpad.net/~flexiondotorg/+archive/shotwell&lt;/a>&lt;/li>
@@ -725,7 +725,7 @@ below for the reasons for this requirement:&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get update
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get dist-upgrade
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get install shotwell
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Enjoy!&lt;/p></description><summary>Showell 0.11 is available in a PPA for Ubuntu 10.04 &amp;amp; 10.10</summary></item><item><title>Shotwell 0.8.1 PPA available for Ubuntu Lucid</title><link>https://wimpysworld.com/posts/shotwell-0.8.1-ppa-available-for-ubuntu-lucid/</link><pubDate>Thu, 17 Mar 2011 17:04:42 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/shotwell-0.8.1-ppa-available-for-ubuntu-lucid/</guid><description>&lt;p>Like many others I wanted &lt;a href="http://yorba.org/shotwell/">Shotwell&lt;/a> for Lucid
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Enjoy!&lt;/p></description><summary>Showell 0.11 is available in a PPA for Ubuntu 10.04 &amp;amp; 10.10</summary></item><item><title>Shotwell 0.8.1 PPA available for Ubuntu Lucid</title><link>https://blog.rthur.me/posts/shotwell-0.8.1-ppa-available-for-ubuntu-lucid/</link><pubDate>Thu, 17 Mar 2011 17:04:42 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/shotwell-0.8.1-ppa-available-for-ubuntu-lucid/</guid><description>&lt;p>Like many others I wanted &lt;a href="http://yorba.org/shotwell/">Shotwell&lt;/a> for Lucid
 so I&amp;rsquo;ve created a PPA for it.&lt;/p>
 &lt;ul>
 &lt;li>&amp;lt;https://launchpad.net/~flexiondotorg/+archive/shotwell.&lt;/li>
@@ -752,7 +752,7 @@ PPA, so you must also enable the Yorba PPA too.&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-add-repository ppa:flexiondotorg/shotwell
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get update
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get install shotwell
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Get the latest Shotwell 0.8.1 via a PP for Ubuntu 10.04</summary></item><item><title>Goodbye F-Spot. Hello Shotwell</title><link>https://wimpysworld.com/posts/goodbye-f-spot-hello-shotwell/</link><pubDate>Sat, 20 Mar 2010 15:39:17 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/goodbye-f-spot-hello-shotwell/</guid><description>&lt;p>I&amp;rsquo;ve finally found a photo organiser for Linux I can live with,
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Get the latest Shotwell 0.8.1 via a PP for Ubuntu 10.04</summary></item><item><title>Goodbye F-Spot. Hello Shotwell</title><link>https://blog.rthur.me/posts/goodbye-f-spot-hello-shotwell/</link><pubDate>Sat, 20 Mar 2010 15:39:17 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/goodbye-f-spot-hello-shotwell/</guid><description>&lt;p>I&amp;rsquo;ve finally found a photo organiser for Linux I can live with,
 &lt;a href="http://yorba.org/shotwell/">Shotwell&lt;/a>. Shotwell is a photo organiser
 for &lt;a href="http://www.gnome.org">GNOME&lt;/a> that I&amp;rsquo;ve been testing for a few
 months now but the recent 0.5 release which added tagging and printing,
@@ -781,7 +781,7 @@ slideshow. You can download a source tarball from the Shotwell home page at
 via Yorba&amp;rsquo;s Launchpad PPA.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://launchpad.net/~yorba/+archive/ppa">https://launchpad.net/~yorba/+archive/ppa&lt;/a>&lt;/li>
-&lt;/ul></description><summary>F-Spot you serve me well, but here comes Shotwell</summary></item><item><title>SSHMenu - SSH Connection Management</title><link>https://wimpysworld.com/posts/sshmenu-ssh-connection-management/</link><pubDate>Tue, 26 Feb 2008 13:21:28 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/sshmenu-ssh-connection-management/</guid><description>&lt;p>We have a reasonable number of Debian servers at work and as a result I &lt;code>ssh&lt;/code>
+&lt;/ul></description><summary>F-Spot you serve me well, but here comes Shotwell</summary></item><item><title>SSHMenu - SSH Connection Management</title><link>https://blog.rthur.me/posts/sshmenu-ssh-connection-management/</link><pubDate>Tue, 26 Feb 2008 13:21:28 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/sshmenu-ssh-connection-management/</guid><description>&lt;p>We have a reasonable number of Debian servers at work and as a result I &lt;code>ssh&lt;/code>
 into servers about as many times as I visit Google. I have been using
 Profiles in gnome-terminal to manage my ssh connections, which is fine but
 requires I already have a terminal open to initiate a new server connection.
@@ -798,7 +798,7 @@ installs dependencies. Now add SSHMenu to a GNOME panel and configure
 your ssh connections. If SSHMenu isn&amp;rsquo;t listed in the GNOME panel applets yet,
 then you can force a refresh with the rather heavy handed&amp;hellip;&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>killall gnome-panel
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Managing SSH connections from a GNOME panel applet</summary></item><item><title>gLabels 2.2.1</title><link>https://wimpysworld.com/posts/glabels-2.2.1/</link><pubDate>Wed, 30 Jan 2008 11:45:57 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/glabels-2.2.1/</guid><description>&lt;p>&lt;a href="http://glabels.sourceforge.net/">gLabels&lt;/a>, as packaged in the Ubuntu
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Managing SSH connections from a GNOME panel applet</summary></item><item><title>gLabels 2.2.1</title><link>https://blog.rthur.me/posts/glabels-2.2.1/</link><pubDate>Wed, 30 Jan 2008 11:45:57 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/glabels-2.2.1/</guid><description>&lt;p>&lt;a href="http://glabels.sourceforge.net/">gLabels&lt;/a>, as packaged in the Ubuntu
 repositories, has not worked properly for some time. The accuracy of printing
 was way out making gLabels a non-starter unless you went to the hassle
 of manually re-aligning every label on a page to account for the inaccuracies.&lt;/p>
@@ -815,7 +815,7 @@ shell&amp;hellip;&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo dpkg -i glabels*.deb
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>We print a lot of labels at work to identify media for flight recorders, that
 job just got a whole lot easier. More importantly, I now have a viable address
-label printing solution for my wife.&lt;/p></description><summary>Accurate label printing for Linux is restored</summary></item><item><title>BloGTK, a weblog client for Linux</title><link>https://wimpysworld.com/posts/blogtk-a-weblog-client-for-linux/</link><pubDate>Fri, 11 Jan 2008 13:44:07 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/blogtk-a-weblog-client-for-linux/</guid><description>&lt;p>I have been meaning to setup a weblog client for a while now. I have tested a
+label printing solution for my wife.&lt;/p></description><summary>Accurate label printing for Linux is restored</summary></item><item><title>BloGTK, a weblog client for Linux</title><link>https://blog.rthur.me/posts/blogtk-a-weblog-client-for-linux/</link><pubDate>Fri, 11 Jan 2008 13:44:07 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/blogtk-a-weblog-client-for-linux/</guid><description>&lt;p>I have been meaning to setup a weblog client for a while now. I have tested a
 couple of blog clients and have settled on &lt;a href="http://blogtk.sourceforge.net/">BloGTK&lt;/a>.&lt;/p>
 &lt;p>It has a simple user interface but comprehensive features, although I did need
 to define a few Custom Tags before the editor supported all the formatting
@@ -829,7 +829,7 @@ settings will connect to a Wordpress blog.&lt;/p>
 &lt;li>Blogging System: &lt;em>Moveable Type&lt;/em>&lt;/li>
 &lt;/ul>
 &lt;p>Now I can blog directly from my desktop, I am hoping it will encourage me to
-post more often.&lt;/p></description><summary>Graphical blogging client for GNOME</summary></item><item><title>Ubuntu</title><link>https://wimpysworld.com/projects/ubuntu/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/ubuntu/</guid><description>&lt;p>Ubuntu comes with everything you need to run your organisation, school, home or
+post more often.&lt;/p></description><summary>Graphical blogging client for GNOME</summary></item><item><title>Ubuntu</title><link>https://blog.rthur.me/projects/ubuntu/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/ubuntu/</guid><description>&lt;p>Ubuntu comes with everything you need to run your organisation, school, home or
 enterprise. All the essential applications, like an office suite, browsers,
 email and media apps come pre-installed.&lt;/p>
 &lt;p>Community contributor since 2006, worked for Canonical from 2016 to 2021

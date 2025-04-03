@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gadgets on Wimpy's World</title><link>https://wimpysworld.com/categories/gadgets/</link><description>Recent content in Gadgets on Wimpy's World</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>martin@wimpress.com (Martin Wimpress)</managingEditor><webMaster>martin@wimpress.com (Martin Wimpress)</webMaster><lastBuildDate>Sun, 29 Jun 2014 12:00:00 +0000</lastBuildDate><atom:link href="https://wimpysworld.com/categories/gadgets/rss.xml" rel="self" type="application/rss+xml"/><item><title>Humax Foxsat HDR Custom Firmware</title><link>https://wimpysworld.com/posts/humax-foxsat-hdr-custom-firmware/</link><pubDate>Sun, 29 Jun 2014 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/humax-foxsat-hdr-custom-firmware/</guid><description>&lt;p>I&amp;rsquo;ve had these notes kicking around for absolutely ages. I haven&amp;rsquo;t checked to
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gadgets on Arthur’s Almanac</title><link>https://blog.rthur.me/categories/gadgets/</link><description>Recent content in Gadgets on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Sun, 29 Jun 2014 12:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/categories/gadgets/rss.xml" rel="self" type="application/rss+xml"/><item><title>Humax Foxsat HDR Custom Firmware</title><link>https://blog.rthur.me/posts/humax-foxsat-hdr-custom-firmware/</link><pubDate>Sun, 29 Jun 2014 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/humax-foxsat-hdr-custom-firmware/</guid><description>&lt;p>I&amp;rsquo;ve had these notes kicking around for absolutely ages. I haven&amp;rsquo;t checked to
 see if this stuff is still accurate because during the last 12 months or so our
 viewing habits have changed and we almost exclusively watch streamed content now.&lt;/p>
 &lt;p>That said, my father-in-law gave us a &lt;a href="http://www.amazon.co.uk/Humax-FOXSAT-HDR-Freesat-Digital-Recorder/dp/B001L5YU36">Humax Foxsat HDR&lt;/a>
@@ -58,7 +58,7 @@ be presented in the normal EPG using the Channel Editor above.&lt;/p>
 automatically applied. When an over the air update is applied the Humax still
 works, but the web interface and all the add-ons stop working. The can be solved
 by waiting for the custom firmware to be updated (which happen remarkably quickly)
-and then re-flashing the custom firmware. All the add-ons should start working again.&lt;/p></description><summary>Hard disk upgrades and custom firmware on the Humx Foxsat HDR</summary></item><item><title>Ployer Momo8 IPS Custom Firmware</title><link>https://wimpysworld.com/posts/ployer-momo8-ips-custom-firmware/</link><pubDate>Fri, 22 Mar 2013 13:35:34 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/ployer-momo8-ips-custom-firmware/</guid><description>&lt;p>I bought a &lt;a href="https://wimpysworld.com/posts/2012-09-quality-android-tablet-on-a-budget-ployer-momo8-ips/">budget Android tablet a little while back&lt;/a>
+and then re-flashing the custom firmware. All the add-ons should start working again.&lt;/p></description><summary>Hard disk upgrades and custom firmware on the Humx Foxsat HDR</summary></item><item><title>Ployer Momo8 IPS Custom Firmware</title><link>https://blog.rthur.me/posts/ployer-momo8-ips-custom-firmware/</link><pubDate>Fri, 22 Mar 2013 13:35:34 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ployer-momo8-ips-custom-firmware/</guid><description>&lt;p>I bought a &lt;a href="https://blog.rthur.me/posts/2012-09-quality-android-tablet-on-a-budget-ployer-momo8-ips/">budget Android tablet a little while back&lt;/a>
 that turned out to be really rather good. However, there were issues with the
 initial firmware.&lt;/p>
 &lt;ul>
@@ -647,7 +647,7 @@ based on 20121120. Due to the size of the custom firmwares and the bandwidth the
 consume, &lt;u>custom versions of my firmware based on 20121120 are only available
 to donors&lt;/u>.&lt;/p>
 &lt;h1 id="feedback">Feedback&lt;/h1>
-&lt;p>Your feedback is welcome, please use the comments are below.&lt;/p></description><summary>Ployer Momo8 IPS Custom Firmware with ClockWorkMod</summary></item><item><title>Quality Android tablet on a budget - Ployer Momo8 IPS</title><link>https://wimpysworld.com/posts/quality-android-tablet-on-a-budget-ployer-momo8-ips/</link><pubDate>Thu, 27 Sep 2012 20:14:43 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/quality-android-tablet-on-a-budget-ployer-momo8-ips/</guid><description>&lt;p>I&amp;rsquo;ve recently taken delivery of my first Android tablet, the Ployer Momo8 IPS.&lt;/p>
+&lt;p>Your feedback is welcome, please use the comments are below.&lt;/p></description><summary>Ployer Momo8 IPS Custom Firmware with ClockWorkMod</summary></item><item><title>Quality Android tablet on a budget - Ployer Momo8 IPS</title><link>https://blog.rthur.me/posts/quality-android-tablet-on-a-budget-ployer-momo8-ips/</link><pubDate>Thu, 27 Sep 2012 20:14:43 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/quality-android-tablet-on-a-budget-ployer-momo8-ips/</guid><description>&lt;p>I&amp;rsquo;ve recently taken delivery of my first Android tablet, the Ployer Momo8 IPS.&lt;/p>
 &lt;p>I purchased mine from &lt;a href="http://www.gtrelectronics.co.uk/">GTR Electronics&lt;/a> as
 they have a track record for excellent customer service, provide 12 month warranty
 and their devices are free from Chinese apps and bloatware. I wrote up a review on
@@ -668,7 +668,7 @@ useful references for the rooting.&lt;/p>
 post I&amp;#8217;ve made a pre-rooted custom firmware for the Ployer Momo 8 IPS.
 Installing it may be easier than following the instructions below.&lt;/div>
 &lt;ul>
-&lt;li>&lt;a href="https://wimpysworld.com/posts/2013-03-ployer-momo8-ips-custom-firmware/">Ployer Momo8 IPS Custom Firmware&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.rthur.me/posts/2013-03-ployer-momo8-ips-custom-firmware/">Ployer Momo8 IPS Custom Firmware&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;p>Here are the basic steps to getting root on the Momo8 IPS.&lt;/p>
@@ -699,7 +699,7 @@ updated via the Google Play Store. To remedy this do the following.
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>Hope this is helpful to someone else, but proceed with caution.&lt;/p></description><summary>My experiences with a budget Android tablet</summary></item><item><title>Android Gmail Conversation View</title><link>https://wimpysworld.com/posts/android-gmail-conversation-view/</link><pubDate>Tue, 25 Sep 2012 19:38:34 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/android-gmail-conversation-view/</guid><description>&lt;p>I recently migrated several domains I manage for family and friends
+&lt;p>Hope this is helpful to someone else, but proceed with caution.&lt;/p></description><summary>My experiences with a budget Android tablet</summary></item><item><title>Android Gmail Conversation View</title><link>https://blog.rthur.me/posts/android-gmail-conversation-view/</link><pubDate>Tue, 25 Sep 2012 19:38:34 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/android-gmail-conversation-view/</guid><description>&lt;p>I recently migrated several domains I manage for family and friends
 to the &lt;em>&amp;ldquo;free&amp;rdquo;&lt;/em> version of &lt;a href="http://http://www.google.com/enterprise/apps/business/">Google Apps&lt;/a>.&lt;/p>
 &lt;p>I setup the Gmail app on their Android phones for them and email
 arrives promptly and spam is pretty much eradicated. Happy days.&lt;/p>
@@ -717,7 +717,7 @@ you get near instantaneous notification of new email.&lt;/p>
 &lt;p>If you want to support the K-9 Mail developer then consider purchasing
 &lt;a href="https://play.google.com/store/apps/details?id=com.kaitenmail">Kaiten Mail&lt;/a>
 which is an enhanced version of K-9 Mail and is particularly good on Android
-tablets.&lt;/p></description><summary>List view email clients for Android that support Gmail</summary></item><item><title>DVD to MPEG2-TS Ripper for Linux</title><link>https://wimpysworld.com/posts/dvd-to-mpeg2-ts-ripper-for-linux/</link><pubDate>Fri, 04 Dec 2009 07:53:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/dvd-to-mpeg2-ts-ripper-for-linux/</guid><description>&lt;p>A while back I released a script that rips a DVD to MPEG-2 PS allowing the
+tablets.&lt;/p></description><summary>List view email clients for Android that support Gmail</summary></item><item><title>DVD to MPEG2-TS Ripper for Linux</title><link>https://blog.rthur.me/posts/dvd-to-mpeg2-ts-ripper-for-linux/</link><pubDate>Fri, 04 Dec 2009 07:53:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/dvd-to-mpeg2-ts-ripper-for-linux/</guid><description>&lt;p>A while back I released a script that rips a DVD to MPEG-2 PS allowing the
 user to select one audio stream and one subtitle stream. Optionally the video
 can be requantised, using M2VRequantiser and an ISO image created. If creating
 an ISO image the chapters are also preserved from the original DVD. You can
@@ -747,7 +747,7 @@ playback via DLNA on the PS3. Some things to be aware of:&lt;/p>
 release page below.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/DVD-to-MPG">DVD-to-MPG&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Ripping DVDs to MPEG-2 Transport Streams for DLNA streaming</summary></item><item><title>PS3, Mediatomb, Multi Zone Music streaming</title><link>https://wimpysworld.com/posts/ps3-mediatomb-multi-zone-music-streaming/</link><pubDate>Sat, 26 Sep 2009 11:02:52 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/ps3-mediatomb-multi-zone-music-streaming/</guid><description>&lt;p>PlayStation 3 firmware 3.00 added a new feature I was very excited about,
+&lt;/ul></description><summary>Ripping DVDs to MPEG-2 Transport Streams for DLNA streaming</summary></item><item><title>PS3, Mediatomb, Multi Zone Music streaming</title><link>https://blog.rthur.me/posts/ps3-mediatomb-multi-zone-music-streaming/</link><pubDate>Sat, 26 Sep 2009 11:02:52 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ps3-mediatomb-multi-zone-music-streaming/</guid><description>&lt;p>PlayStation 3 firmware 3.00 added a new feature I was very excited about,
 multi-av output. Today I finally got round to re-wiring the home cinema system
 to make use of this new feature. I now have the PS3 streaming music from
 &lt;a href="http://mediatomb.cc/">MediaTomb&lt;/a> with my A/V receiver sending audio to Zone
@@ -757,7 +757,7 @@ interconnects.&lt;/p>
 system which are often in the kitchen but also moved outside for parties. If
 Sony could just add Skype to the PS3 and allow the PSP Remote Play to output
 audio to both the PS3 and PSP (rather than just one of them) I would be very
-happy indeed.&lt;/p></description><summary>Multi Zone music streaming with the PlayStation 3</summary></item><item><title>IMDB Film Summary as a MPEG-2 video, Part 2</title><link>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video-part-2/</link><pubDate>Sun, 20 Sep 2009 08:48:36 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video-part-2/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
+happy indeed.&lt;/p></description><summary>Multi Zone music streaming with the PlayStation 3</summary></item><item><title>IMDB Film Summary as a MPEG-2 video, Part 2</title><link>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video-part-2/</link><pubDate>Sun, 20 Sep 2009 08:48:36 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video-part-2/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
 superior &lt;a href="http://www.bunyipawonga.org/sheetmaker/index.php">Sheet Maker for Linux&lt;/a>&lt;/strong>.&lt;/p>
 &lt;p>Back in April I released a script to create a MPEG video summarising a movie
 using data from IMDB, you can find the original post in the URL below to learn
@@ -803,7 +803,7 @@ to add all that good stuff to IMDB-to-MPEG, so if you like the sound of what
 Eric has been up to hop over to his site to find out more.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://www.ypass.net/blog/2009/07/netflix-has-a-developer-api/">Netflix Has a Developer API&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Improvements to film summaries embedded in videos</summary></item><item><title>MKV to MPEG-4 conversion script</title><link>https://wimpysworld.com/posts/mkv-to-mpeg-4-conversion-script/</link><pubDate>Thu, 27 Aug 2009 20:48:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mkv-to-mpeg-4-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a script that
+&lt;/ul></description><summary>Improvements to film summaries embedded in videos</summary></item><item><title>MKV to MPEG-4 conversion script</title><link>https://blog.rthur.me/posts/mkv-to-mpeg-4-conversion-script/</link><pubDate>Thu, 27 Aug 2009 20:48:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mkv-to-mpeg-4-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a script that
 creates a PlayStation 3 or Xbox 360 compatible MPEG-4 from Matroska providing
 the video is H.264 and audio is AC3 or DTS.&lt;/p>
 &lt;p>Xbox 360 compatibility requires that audio is forcibly downmixed to stereo
@@ -824,7 +824,7 @@ should work on any other Linux/Unix flavour and possibly Mac OS X providing you
 have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-MP4">MKV-to-MP4&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Creating PlayStation 3 and Xbox 360 compatible MPEG-4 videos</summary></item><item><title>MP3Gainer - Apply ReplayGain to your entire music library</title><link>https://wimpysworld.com/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</link><pubDate>Fri, 14 Aug 2009 15:25:45 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</guid><description>&lt;p>Work has been crazy. We&amp;rsquo;re moving house. Hence, not much time for geeky stuff
+&lt;/ul></description><summary>Creating PlayStation 3 and Xbox 360 compatible MPEG-4 videos</summary></item><item><title>MP3Gainer - Apply ReplayGain to your entire music library</title><link>https://blog.rthur.me/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</link><pubDate>Fri, 14 Aug 2009 15:25:45 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</guid><description>&lt;p>Work has been crazy. We&amp;rsquo;re moving house. Hence, not much time for geeky stuff
 recently. I&amp;rsquo;ve been putting this off for ages, I need to &amp;ldquo;normalise&amp;rdquo; the
 volume of my MP3 music music library. Not all CDs sound equally loud. Whilst
 different musical moods require that some tracks should sound louder than
@@ -857,7 +857,7 @@ me! This script works on Ubuntu, should work on any other Linux/Unix
 flavour and possibly Mac OS X providing you have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MP3Gainer">MP3Gainer&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Volume normalise an entire MP3 library the right way</summary></item><item><title>PlayStation 3 compatible MPEG-4 container repacker</title><link>https://wimpysworld.com/posts/playstation-3-compatible-mpeg-4-container-repacker/</link><pubDate>Thu, 23 Apr 2009 17:09:11 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/playstation-3-compatible-mpeg-4-container-repacker/</guid><description>&lt;p>Some of my mobile phones have been able to record video clips in MPEG-4
+&lt;/ul></description><summary>Volume normalise an entire MP3 library the right way</summary></item><item><title>PlayStation 3 compatible MPEG-4 container repacker</title><link>https://blog.rthur.me/posts/playstation-3-compatible-mpeg-4-container-repacker/</link><pubDate>Thu, 23 Apr 2009 17:09:11 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/playstation-3-compatible-mpeg-4-container-repacker/</guid><description>&lt;p>Some of my mobile phones have been able to record video clips in MPEG-4
 format. Sadly some of these clips don&amp;rsquo;t play on the PlayStation 3 and those
 that do stutter terribly. I use &lt;a href="http://po-ru.com/projects/iplayer-downloader/">iplayer-dl&lt;/a>
 to download content from BBC iPlayer. Sadly the files are in a Quicktime
@@ -871,7 +871,7 @@ other Linux/Unix flavour and possibly Mac OS X providing you have the required
 tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MP4-Packer">MP4-Repacker&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Automatically repack MPEG-4 video files for PlayStation 3 compatibility</summary></item><item><title>MKV to M2TS conversion script</title><link>https://wimpysworld.com/posts/mkv-to-m2ts-conversion-script/</link><pubDate>Thu, 23 Apr 2009 17:00:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mkv-to-m2ts-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a
+&lt;/ul></description><summary>Automatically repack MPEG-4 video files for PlayStation 3 compatibility</summary></item><item><title>MKV to M2TS conversion script</title><link>https://blog.rthur.me/posts/mkv-to-m2ts-conversion-script/</link><pubDate>Thu, 23 Apr 2009 17:00:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mkv-to-m2ts-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a
 script that creates a PlayStation 3 compatible M2TS from a MKV,
 assuming video is H.264 and audio is AC3 or DTS with as little
 re-encoding as possible. Any subtitles in the MKV are preserved
@@ -885,7 +885,7 @@ DTS audio is transcoded to AC3.&lt;/p>
 possibly Mac OS X providing you have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-M2TS">MKV-to-M2TS&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Convert Matroska file to MPEG2-TS for PlayStation 3 compatibility</summary></item><item><title>DVD to MPEG2-PS Ripper for Linux</title><link>https://wimpysworld.com/posts/dvd-to-mpeg2-ps-ripper-for-linux/</link><pubDate>Thu, 23 Apr 2009 16:50:31 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/dvd-to-mpeg2-ps-ripper-for-linux/</guid><description>&lt;p>Every so often I find myself in looking through the ex-rental DVD &lt;em>&amp;ldquo;bargain
+&lt;/ul></description><summary>Convert Matroska file to MPEG2-TS for PlayStation 3 compatibility</summary></item><item><title>DVD to MPEG2-PS Ripper for Linux</title><link>https://blog.rthur.me/posts/dvd-to-mpeg2-ps-ripper-for-linux/</link><pubDate>Thu, 23 Apr 2009 16:50:31 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/dvd-to-mpeg2-ps-ripper-for-linux/</guid><description>&lt;p>Every so often I find myself in looking through the ex-rental DVD &lt;em>&amp;ldquo;bargain
 bin&amp;rdquo;&lt;/em>. Quite often I find something I consider a bargain. However, the
 experience of watching an ex-rental DVD is typically ruined by the various
 trailers and marketing guff at the start which you can&amp;rsquo;t skip. My wife hates
@@ -901,7 +901,7 @@ image created. If creating an ISO image the chapters are also preserved from
 the original DVD. I&amp;rsquo;ve lobbed my code into GitHub.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/DVD-to-MPG">DVD-to-MPG&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Ripping DVDs to MPEG2-PS for streaming via UPnP</summary></item><item><title>IMDB Film Summary as a MPEG-2 video</title><link>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video/</link><pubDate>Wed, 22 Apr 2009 18:00:07 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
+&lt;/ul></description><summary>Ripping DVDs to MPEG2-PS for streaming via UPnP</summary></item><item><title>IMDB Film Summary as a MPEG-2 video</title><link>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video/</link><pubDate>Wed, 22 Apr 2009 18:00:07 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
 superior &lt;a href="http://www.bunyipawonga.org/sheetmaker/index.php">Sheet Maker for Linux&lt;/a>&lt;/strong>.&lt;/p>
 &lt;p>If you&amp;rsquo;ve read my blog before you&amp;rsquo;ll know I run Mediatomb DLNA server with my
 PlayStation 3 as the client, You&amp;rsquo;ll also know I am working towards importing my
@@ -955,7 +955,7 @@ the appropriate directory in &amp;lsquo;All&amp;rsquo;. For example.&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> `-- 8
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> `-- The_Usual_Suspects -&amp;gt; ../../All/The_Usual_Suspects
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>This code was lashed up in a few hours, it ain&amp;rsquo;t pretty but it works for me on
-my Ubuntu systems, maybe it&amp;rsquo;ll work for you too.&lt;/p></description><summary>Create film preview information for your UPnP server</summary></item><item><title>Converting Matroska to M2TS for PS3 and Mediatomb</title><link>https://wimpysworld.com/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</link><pubDate>Wed, 15 Apr 2009 16:19:24 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</guid><description>&lt;p>It has been a while since I last posted, mainly due to not having Internet
+my Ubuntu systems, maybe it&amp;rsquo;ll work for you too.&lt;/p></description><summary>Create film preview information for your UPnP server</summary></item><item><title>Converting Matroska to M2TS for PS3 and Mediatomb</title><link>https://blog.rthur.me/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</link><pubDate>Wed, 15 Apr 2009 16:19:24 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</guid><description>&lt;p>It has been a while since I last posted, mainly due to not having Internet
 access at home for a month. Anyway, I&amp;rsquo;m online again and I have been tinkering
 with various projects the most recent of which is Matroska conversion (again).&lt;/p>
 &lt;h2 id="matroska-to-mp4">Matroska to MP4&lt;/h2>
@@ -983,7 +983,7 @@ outside chance it will work on Mac OS X if you can get the required tools
 installed. Again, you can find my script on GitHub.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-M2TS">MPV-to-M2TS&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Fast conversion of Matroska video to MPEG2-TS</summary></item><item><title>Mediatomb 0.12 - Streaming audio and video around the house</title><link>https://wimpysworld.com/posts/mediatomb-0.12-streaming-audio-and-video-around-the-house/</link><pubDate>Sat, 07 Feb 2009 16:23:39 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mediatomb-0.12-streaming-audio-and-video-around-the-house/</guid><description>&lt;p>&lt;a href="http://mediatomb.cc/">Mediatomb&lt;/a> is an open source (GPL) UPnP MediaServer
+&lt;/ul></description><summary>Fast conversion of Matroska video to MPEG2-TS</summary></item><item><title>Mediatomb 0.12 - Streaming audio and video around the house</title><link>https://blog.rthur.me/posts/mediatomb-0.12-streaming-audio-and-video-around-the-house/</link><pubDate>Sat, 07 Feb 2009 16:23:39 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mediatomb-0.12-streaming-audio-and-video-around-the-house/</guid><description>&lt;p>&lt;a href="http://mediatomb.cc/">Mediatomb&lt;/a> is an open source (GPL) UPnP MediaServer
 with a nice web user interface, it allows you to stream your digital media
 through your home network and listen to/watch it on a variety of UPnP
 compatible devices, such as the PlayStation in my case.&lt;/p>
@@ -1016,7 +1016,7 @@ it sounds very cool. I&amp;rsquo;ve also created a script which queries IMDB to
 categorise our film library by genre and create summary information about
 each film in the library. I&amp;rsquo;ll be posting more about that soon. I haven&amp;rsquo;t
 finalised how we will integrate Photo management with Mediatomb yet, but that
-is that final piece in the puzzle.&lt;/p></description><summary>In home streaming via UPnP with Mediatomb</summary></item><item><title>Converting DVB-T to DVD Compliant MPEG-2</title><link>https://wimpysworld.com/posts/converting-dvb-t-to-dvd-compliant-mpeg-2/</link><pubDate>Thu, 22 Jan 2009 23:46:26 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/converting-dvb-t-to-dvd-compliant-mpeg-2/</guid><description>&lt;p>I am just about to clean up and convert another batch of programmes I have
+is that final piece in the puzzle.&lt;/p></description><summary>In home streaming via UPnP with Mediatomb</summary></item><item><title>Converting DVB-T to DVD Compliant MPEG-2</title><link>https://blog.rthur.me/posts/converting-dvb-t-to-dvd-compliant-mpeg-2/</link><pubDate>Thu, 22 Jan 2009 23:46:26 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/converting-dvb-t-to-dvd-compliant-mpeg-2/</guid><description>&lt;p>I am just about to clean up and convert another batch of programmes I have
 recorded from Freeview (DVB-T in the UK) so that I can add them to my
 DLNA Server. I thought I&amp;rsquo;d share the method I use on Ubuntu.&lt;/p>
 &lt;p>By clean up, I mean edit out any adverts and trim crap from the start and the
@@ -1092,7 +1092,7 @@ MPEG-PS file&lt;/em> in the &lt;code>Misc&lt;/code> menu.&lt;/p>
 &lt;li>&lt;a href="http://gopchop.org/index.php">http://gopchop.org/index.php&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://gopchop.sourceforge.net/">http://gopchop.sourceforge.net/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://www.rastersoft.com/programas/devede.html">http://www.rastersoft.com/programas/devede.html&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Export PlayTV recorded video from PlayStation 3</summary></item><item><title>Sync Zimbra Contacts, Calendar and Tasks to your iPod</title><link>https://wimpysworld.com/posts/sync-zimbra-contacts-calendar-and-tasks-to-your-ipod/</link><pubDate>Wed, 21 Jan 2009 13:41:51 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/sync-zimbra-contacts-calendar-and-tasks-to-your-ipod/</guid><description>&lt;p>We use &lt;a href="http://www.zimbra.com/">Zimbra&lt;/a> at work for email, contacts,
+&lt;/ul></description><summary>Export PlayTV recorded video from PlayStation 3</summary></item><item><title>Sync Zimbra Contacts, Calendar and Tasks to your iPod</title><link>https://blog.rthur.me/posts/sync-zimbra-contacts-calendar-and-tasks-to-your-ipod/</link><pubDate>Wed, 21 Jan 2009 13:41:51 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/sync-zimbra-contacts-calendar-and-tasks-to-your-ipod/</guid><description>&lt;p>We use &lt;a href="http://www.zimbra.com/">Zimbra&lt;/a> at work for email, contacts,
 calendaring, etc. I have Zimbra syncing with Thunderbird and my phone, I love it.&lt;/p>
 &lt;p>At the weekend I was updating the music library on my iPod Nano (2nd Gen) and
 noticed I had hidden the Contact and Calendar menu entries. I decided to see if
@@ -1103,10 +1103,10 @@ replace &lt;code>/media/IPOD&lt;/code> with where your Linux distribution has mo
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>wget https://username:password@your.zimbraserver.tld/zimbra/home/username/contacts.vcf -O /media/IPOD/Contacts/contacts.vcf
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>wget https://username:password@your.zimbraserver.tld/home/username/Calendar -O /media/IPOD/Calendars/calendar.ics
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>wget https://username:password@your.zimbraserver.tld/home/username/Tasks -O /media/IPOD/Calendars/tasks.ics
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Push Zimbra contacts, calendars &amp;amp; tasks to your iPod using Linux</summary></item><item><title>New Mountain Bike</title><link>https://wimpysworld.com/posts/new-mountain-bike/</link><pubDate>Tue, 14 Feb 2006 12:49:30 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/new-mountain-bike/</guid><description>&lt;p>I finally convinced my wife that I need (really wanted) a new mountain
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Push Zimbra contacts, calendars &amp;amp; tasks to your iPod using Linux</summary></item><item><title>New Mountain Bike</title><link>https://blog.rthur.me/posts/new-mountain-bike/</link><pubDate>Tue, 14 Feb 2006 12:49:30 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/new-mountain-bike/</guid><description>&lt;p>I finally convinced my wife that I need (really wanted) a new mountain
 bike and today I took delivery of the &lt;a href="http://www.trekbikes.com/uk/en/bikes/2006/archive/4300disc">Trek 4300 Disc 2006 model&lt;/a>&lt;/p>
 &lt;p>I managed to fall off it on the maiden voyage but I thought it best to get that
-out that way before I tackle to Bracknell Woods this coming Sunday.&lt;/p></description><summary>A new bike to tackle those mountains</summary></item><item><title>Cheap and Cheerful MP3 Player</title><link>https://wimpysworld.com/posts/cheap-and-cheerful-mp3-player/</link><pubDate>Fri, 10 Feb 2006 13:00:10 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/cheap-and-cheerful-mp3-player/</guid><description>&lt;p>My six year old MP3 player just isn&amp;rsquo;t up to the job anymore and I have been
+out that way before I tackle to Bracknell Woods this coming Sunday.&lt;/p></description><summary>A new bike to tackle those mountains</summary></item><item><title>Cheap and Cheerful MP3 Player</title><link>https://blog.rthur.me/posts/cheap-and-cheerful-mp3-player/</link><pubDate>Fri, 10 Feb 2006 13:00:10 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/cheap-and-cheerful-mp3-player/</guid><description>&lt;p>My six year old MP3 player just isn&amp;rsquo;t up to the job anymore and I have been
 looking for an alternative, on and off, over that last few weeks. Ideally I
 would have liked a portable music player that supported Ogg Vorbis but as my
 home cinema isn&amp;rsquo;t Ogg Vorbis compatible I decided to standardize on MP3. No
@@ -1124,7 +1124,7 @@ supported playback by folder is. That player is very light and very small, so
 ideal for use in the gym and battery life is around 10-12 hours from a single
 AAA battery. It is also Linux compatible, although I have been using a USB
 card reader to populate my memory cards with MP3s as the XT105 is only USB 1.1
-and therefore a bit slow. I am off to the gym now with some banging tunes.&lt;/p></description><summary>Cheap as chips MP3 player upgrade</summary></item><item><title>Handheld Linux</title><link>https://wimpysworld.com/posts/handheld-linux/</link><pubDate>Mon, 12 Sep 2005 10:27:05 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/handheld-linux/</guid><description>&lt;p>I have replaced the disk in my Libretto CT100 with a 20GB disk I had going
+and therefore a bit slow. I am off to the gym now with some banging tunes.&lt;/p></description><summary>Cheap as chips MP3 player upgrade</summary></item><item><title>Handheld Linux</title><link>https://blog.rthur.me/posts/handheld-linux/</link><pubDate>Mon, 12 Sep 2005 10:27:05 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/handheld-linux/</guid><description>&lt;p>I have replaced the disk in my Libretto CT100 with a 20GB disk I had going
 spare and re-installed Debian Sarge 3.1, this time I didn&amp;rsquo;t bother with the
 2.6 kernel or Xfce because I&amp;rsquo;ve had my fun with those now. But playing
 around with Linux on my Libretto has re-kindled my interested in running Linux
@@ -1136,7 +1136,7 @@ round of tinkering with Familiar but this time I intend to leave Familiar
 installed and not re-flash the 3970 with PocketPC 2002. The
 &lt;a href="http://familiar.handhelds.org/releases/v0.8.2/install/index.html">Familiar v0.8.2 Installation&lt;/a>
 guide covers pretty much everything you need to know about the installation
-process.&lt;/p></description><summary>Craving a handheld Linux device</summary></item><item><title>'ere ear!</title><link>https://wimpysworld.com/posts/ere-ear/</link><pubDate>Wed, 24 Aug 2005 09:46:37 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/ere-ear/</guid><description>&lt;p>I picked up a pair of new earbuds yesterday. I decided on the
+process.&lt;/p></description><summary>Craving a handheld Linux device</summary></item><item><title>'ere ear!</title><link>https://blog.rthur.me/posts/ere-ear/</link><pubDate>Wed, 24 Aug 2005 09:46:37 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ere-ear/</guid><description>&lt;p>I picked up a pair of new earbuds yesterday. I decided on the
 &lt;a href="https://www.cnet.com/reviews/sony-fontopia-mdr-ex71sl-review/">Sony MDR-EX71SL&lt;/a>
 earbuds as all the reviews I have read have been very positive, and after
 listening to a few of my favourite albums with them, I am also very impressed
@@ -1146,7 +1146,7 @@ this good for preserving your hearing and also prevents you from annoying
 people nearby with noise bleed from the headphones. Bass performance is
 especially good and you get three different sizes silicon ear bud so everyone
 should be able to get a comfortable fit, the smallest size is best for me. I
-chose to get a black pair but the are also available in white for iPod owners.&lt;/p></description><summary>Sony MDR-EX71SL earbuds bring music to my ears</summary></item><item><title>Pocket Entertainment</title><link>https://wimpysworld.com/posts/pocket-entertainment/</link><pubDate>Mon, 22 Aug 2005 09:36:08 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/pocket-entertainment/</guid><description>&lt;p>I recently discovered &lt;a href="http://www.scummvm.org/">ScummVM&lt;/a> and have started playing
+chose to get a black pair but the are also available in white for iPod owners.&lt;/p></description><summary>Sony MDR-EX71SL earbuds bring music to my ears</summary></item><item><title>Pocket Entertainment</title><link>https://blog.rthur.me/posts/pocket-entertainment/</link><pubDate>Mon, 22 Aug 2005 09:36:08 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/pocket-entertainment/</guid><description>&lt;p>I recently discovered &lt;a href="http://www.scummvm.org/">ScummVM&lt;/a> and have started playing
 &lt;em>Zak McKracken and the Alien Mindbenders&lt;/em> for the first time in years! ScummVM
 allows you to run certain classic graphical point-and-click adventure games,
 provided you already have their data files, allowing you to play them on

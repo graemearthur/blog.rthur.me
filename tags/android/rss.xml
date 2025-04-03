@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Android on Wimpy's World</title><link>https://wimpysworld.com/tags/android/</link><description>Recent content in Android on Wimpy's World</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>martin@wimpress.com (Martin Wimpress)</managingEditor><webMaster>martin@wimpress.com (Martin Wimpress)</webMaster><lastBuildDate>Sat, 12 Jul 2014 12:00:00 +0000</lastBuildDate><atom:link href="https://wimpysworld.com/tags/android/rss.xml" rel="self" type="application/rss+xml"/><item><title>subSonic on Debian</title><link>https://wimpysworld.com/posts/subsonic-on-debian/</link><pubDate>Sat, 12 Jul 2014 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/subsonic-on-debian/</guid><description>&lt;p>Last year I removed all my music from Google Play Music and created my own
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Android on Arthur’s Almanac</title><link>https://blog.rthur.me/tags/android/</link><description>Recent content in Android on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Sat, 12 Jul 2014 12:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/tags/android/rss.xml" rel="self" type="application/rss+xml"/><item><title>subSonic on Debian</title><link>https://blog.rthur.me/posts/subsonic-on-debian/</link><pubDate>Sat, 12 Jul 2014 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/subsonic-on-debian/</guid><description>&lt;p>Last year I removed all my music from Google Play Music and created my own
 &lt;a href="http://www.subsonic.org/">subSonic&lt;/a> server. I really like subSonic but don&amp;rsquo;t
 use it a huge amount, mostly for syncing some music to my phone prior to going
 on holiday or business. Therefore, I&amp;rsquo;ve made a single one time donation to the
@@ -29,7 +29,7 @@ workstations.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://www.subsonic.org/pages/installation.jsp">http://www.subsonic.org/pages/installation.jsp&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/KHresearch/subsonic/">https://github.com/KHresearch/subsonic/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Setting up subSonic music streaming on Debian</summary></item><item><title>Headless cloudprint server on Debian for MFC-7360N</title><link>https://wimpysworld.com/posts/headless-cloudprint-server-on-debian-for-mfc-7360n/</link><pubDate>Sat, 05 Jul 2014 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/headless-cloudprint-server-on-debian-for-mfc-7360n/</guid><description>&lt;p>I have a Brother MFC-7360N printer at home and there is also one at work.
+&lt;/ul></description><summary>Setting up subSonic music streaming on Debian</summary></item><item><title>Headless cloudprint server on Debian for MFC-7360N</title><link>https://blog.rthur.me/posts/headless-cloudprint-server-on-debian-for-mfc-7360n/</link><pubDate>Sat, 05 Jul 2014 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/headless-cloudprint-server-on-debian-for-mfc-7360n/</guid><description>&lt;p>I have a Brother MFC-7360N printer at home and there is also one at work.
 I wanted to to get &lt;a href="http://www.google.co.uk/cloudprint/learn/">Cloudprint&lt;/a>
 working with Android devices rather than use the Android app Brother
 provide, which is great when it works but deeply frustrating (for my wife)
@@ -145,7 +145,7 @@ Cloudprint as the destination and choose your printer.&lt;/p>
 &lt;li>&lt;a href="http://injustfiveminutes.com/2013/11/07/remote-access-to-cups-admin-inter/">http://injustfiveminutes.com/2013/11/07/remote-access-to-cups-admin-inter/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://ubuntuforums.org/showthread.php?t=1794179">http://ubuntuforums.org/showthread.php?t=1794179&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://support.google.com/a/answer/2906017?hl=en">https://support.google.com/a/answer/2906017?hl=en&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Create a headless Cloudprint server on Debian for MFC-7360N</summary></item><item><title>Ployer Momo8 IPS Custom Firmware</title><link>https://wimpysworld.com/posts/ployer-momo8-ips-custom-firmware/</link><pubDate>Fri, 22 Mar 2013 13:35:34 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/ployer-momo8-ips-custom-firmware/</guid><description>&lt;p>I bought a &lt;a href="https://wimpysworld.com/posts/2012-09-quality-android-tablet-on-a-budget-ployer-momo8-ips/">budget Android tablet a little while back&lt;/a>
+&lt;/ul></description><summary>Create a headless Cloudprint server on Debian for MFC-7360N</summary></item><item><title>Ployer Momo8 IPS Custom Firmware</title><link>https://blog.rthur.me/posts/ployer-momo8-ips-custom-firmware/</link><pubDate>Fri, 22 Mar 2013 13:35:34 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ployer-momo8-ips-custom-firmware/</guid><description>&lt;p>I bought a &lt;a href="https://blog.rthur.me/posts/2012-09-quality-android-tablet-on-a-budget-ployer-momo8-ips/">budget Android tablet a little while back&lt;/a>
 that turned out to be really rather good. However, there were issues with the
 initial firmware.&lt;/p>
 &lt;ul>
@@ -734,7 +734,7 @@ based on 20121120. Due to the size of the custom firmwares and the bandwidth the
 consume, &lt;u>custom versions of my firmware based on 20121120 are only available
 to donors&lt;/u>.&lt;/p>
 &lt;h1 id="feedback">Feedback&lt;/h1>
-&lt;p>Your feedback is welcome, please use the comments are below.&lt;/p></description><summary>Ployer Momo8 IPS Custom Firmware with ClockWorkMod</summary></item><item><title>Headless Debian 6.0 Torrent Server</title><link>https://wimpysworld.com/posts/headless-debian-6.0-torrent-server/</link><pubDate>Thu, 21 Mar 2013 17:35:22 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/headless-debian-6.0-torrent-server/</guid><description>&lt;p>I recently switched ISPs at home and now have unlimited high speed broadband.&lt;/p>
+&lt;p>Your feedback is welcome, please use the comments are below.&lt;/p></description><summary>Ployer Momo8 IPS Custom Firmware with ClockWorkMod</summary></item><item><title>Headless Debian 6.0 Torrent Server</title><link>https://blog.rthur.me/posts/headless-debian-6.0-torrent-server/</link><pubDate>Thu, 21 Mar 2013 17:35:22 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/headless-debian-6.0-torrent-server/</guid><description>&lt;p>I recently switched ISPs at home and now have unlimited high speed broadband.&lt;/p>
 &lt;p>Finally I can participate in torrenting Linux .ISO images. I always download
 the latest distros using &lt;a href="http://en.wikipedia.org/wiki/BitTorrent">BitTorrent&lt;/a>
 and can now contribute to the community by seeding the distros I&amp;rsquo;ve downloaded.&lt;/p>
@@ -815,7 +815,7 @@ capable of so much more than I have covered in this blog post.&lt;/p>
 &lt;li>&lt;a href="https://trac.transmissionbt.com/wiki/EditConfigFiles">https://trac.transmissionbt.com/wiki/EditConfigFiles&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/fagga/transmission-remote-cli">https://github.com/fagga/transmission-remote-cli&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://www.iblocklist.com/">http://www.iblocklist.com/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Installing Transmission daemon on headless Debian (Squeeze) 6.0</summary></item><item><title>Quality Android tablet on a budget - Ployer Momo8 IPS</title><link>https://wimpysworld.com/posts/quality-android-tablet-on-a-budget-ployer-momo8-ips/</link><pubDate>Thu, 27 Sep 2012 20:14:43 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/quality-android-tablet-on-a-budget-ployer-momo8-ips/</guid><description>&lt;p>I&amp;rsquo;ve recently taken delivery of my first Android tablet, the Ployer Momo8 IPS.&lt;/p>
+&lt;/ul></description><summary>Installing Transmission daemon on headless Debian (Squeeze) 6.0</summary></item><item><title>Quality Android tablet on a budget - Ployer Momo8 IPS</title><link>https://blog.rthur.me/posts/quality-android-tablet-on-a-budget-ployer-momo8-ips/</link><pubDate>Thu, 27 Sep 2012 20:14:43 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/quality-android-tablet-on-a-budget-ployer-momo8-ips/</guid><description>&lt;p>I&amp;rsquo;ve recently taken delivery of my first Android tablet, the Ployer Momo8 IPS.&lt;/p>
 &lt;p>I purchased mine from &lt;a href="http://www.gtrelectronics.co.uk/">GTR Electronics&lt;/a> as
 they have a track record for excellent customer service, provide 12 month warranty
 and their devices are free from Chinese apps and bloatware. I wrote up a review on
@@ -836,7 +836,7 @@ useful references for the rooting.&lt;/p>
 post I&amp;#8217;ve made a pre-rooted custom firmware for the Ployer Momo 8 IPS.
 Installing it may be easier than following the instructions below.&lt;/div>
 &lt;ul>
-&lt;li>&lt;a href="https://wimpysworld.com/posts/2013-03-ployer-momo8-ips-custom-firmware/">Ployer Momo8 IPS Custom Firmware&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.rthur.me/posts/2013-03-ployer-momo8-ips-custom-firmware/">Ployer Momo8 IPS Custom Firmware&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;p>Here are the basic steps to getting root on the Momo8 IPS.&lt;/p>
@@ -867,7 +867,7 @@ updated via the Google Play Store. To remedy this do the following.
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>Hope this is helpful to someone else, but proceed with caution.&lt;/p></description><summary>My experiences with a budget Android tablet</summary></item><item><title>Android Gmail Conversation View</title><link>https://wimpysworld.com/posts/android-gmail-conversation-view/</link><pubDate>Tue, 25 Sep 2012 19:38:34 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/android-gmail-conversation-view/</guid><description>&lt;p>I recently migrated several domains I manage for family and friends
+&lt;p>Hope this is helpful to someone else, but proceed with caution.&lt;/p></description><summary>My experiences with a budget Android tablet</summary></item><item><title>Android Gmail Conversation View</title><link>https://blog.rthur.me/posts/android-gmail-conversation-view/</link><pubDate>Tue, 25 Sep 2012 19:38:34 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/android-gmail-conversation-view/</guid><description>&lt;p>I recently migrated several domains I manage for family and friends
 to the &lt;em>&amp;ldquo;free&amp;rdquo;&lt;/em> version of &lt;a href="http://http://www.google.com/enterprise/apps/business/">Google Apps&lt;/a>.&lt;/p>
 &lt;p>I setup the Gmail app on their Android phones for them and email
 arrives promptly and spam is pretty much eradicated. Happy days.&lt;/p>

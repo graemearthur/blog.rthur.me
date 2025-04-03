@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Security on Wimpy's World</title><link>https://wimpysworld.com/categories/security/</link><description>Recent content in Security on Wimpy's World</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>martin@wimpress.com (Martin Wimpress)</managingEditor><webMaster>martin@wimpress.com (Martin Wimpress)</webMaster><lastBuildDate>Tue, 06 Aug 2013 20:07:09 +0000</lastBuildDate><atom:link href="https://wimpysworld.com/categories/security/rss.xml" rel="self" type="application/rss+xml"/><item><title>Basic Debian Setup for Squeeze and Wheezy</title><link>https://wimpysworld.com/posts/basic-debian-setup-for-squeeze-and-wheezy/</link><pubDate>Tue, 06 Aug 2013 20:07:09 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/basic-debian-setup-for-squeeze-and-wheezy/</guid><description>&lt;p>Recently I&amp;rsquo;ve been deploying &lt;a href="http://www.debian.org">Debian&lt;/a> 6.0 (Squeeze) and
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Security on Arthur’s Almanac</title><link>https://blog.rthur.me/categories/security/</link><description>Recent content in Security on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Tue, 06 Aug 2013 20:07:09 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/categories/security/rss.xml" rel="self" type="application/rss+xml"/><item><title>Basic Debian Setup for Squeeze and Wheezy</title><link>https://blog.rthur.me/posts/basic-debian-setup-for-squeeze-and-wheezy/</link><pubDate>Tue, 06 Aug 2013 20:07:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/basic-debian-setup-for-squeeze-and-wheezy/</guid><description>&lt;p>Recently I&amp;rsquo;ve been deploying &lt;a href="http://www.debian.org">Debian&lt;/a> 6.0 (Squeeze) and
 7.0 (Wheezy) servers for some personal projects. These servers are provisioned
 in different ways:&lt;/p>
 &lt;ul>
@@ -66,7 +66,7 @@ will.&lt;/p>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Open up TCP port 22 but with rate limiting enabled which will deny connections
 from an IP address that has attempted to initiate 6 or more connections in the
 last 30 seconds. Ideal for protecting &lt;code>sshd&lt;/code> but you should conisder other
-&lt;a href="https://wimpysworld.com/posts/ssh-brute-force-defense/">SSH brute force defense&lt;/a>
+&lt;a href="https://blog.rthur.me/posts/ssh-brute-force-defense/">SSH brute force defense&lt;/a>
 techniques as well.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo ufw limit ssh
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>To enable the firewall you also have to do the following.&lt;/p>
@@ -227,7 +227,7 @@ the package cache.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo apt-get autoremove
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get autoclean
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get clean
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Consistent server configuration for Debian Squeeze &amp;amp; Wheezy</summary></item><item><title>Uncomplicated Firewall (UFW) on Arch Linux</title><link>https://wimpysworld.com/posts/uncomplicated-firewall-ufw-on-arch-linux/</link><pubDate>Sat, 09 Mar 2013 08:37:43 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/uncomplicated-firewall-ufw-on-arch-linux/</guid><description>&lt;p>While migrating one of my VPS servers to &lt;a href="http://www.archlinux.org">Arch Linux&lt;/a>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Consistent server configuration for Debian Squeeze &amp;amp; Wheezy</summary></item><item><title>Uncomplicated Firewall (UFW) on Arch Linux</title><link>https://blog.rthur.me/posts/uncomplicated-firewall-ufw-on-arch-linux/</link><pubDate>Sat, 09 Mar 2013 08:37:43 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/uncomplicated-firewall-ufw-on-arch-linux/</guid><description>&lt;p>While migrating one of my VPS servers to &lt;a href="http://www.archlinux.org">Arch Linux&lt;/a>
 I deployed &lt;a href="https://wiki.ubuntu.com/UncomplicatedFirewall">Uncomplicated Firewall (UFW)&lt;/a>
 to handle basic firewall duties. I like &lt;code>ufw&lt;/code> as it provides simple host-based
 firewall management and, in my opinion, one of the better projects to come out
@@ -248,7 +248,7 @@ will.&lt;/p>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Open up TCP port 22 but with rate limiting enabled which will deny connections
 from an IP address that has attempted to initiate 6 or more connections in the
 last 30 seconds. Ideal for protecting &lt;code>sshd&lt;/code> but you should conisder other
-&lt;a href="https://wimpysworld.com/posts/ssh-brute-force-defense/">SSH brute force defense&lt;/a>
+&lt;a href="https://blog.rthur.me/posts/ssh-brute-force-defense/">SSH brute force defense&lt;/a>
 techniques as well.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo ufw limit tcp/22
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>I&amp;rsquo;m hosting a few websites on my VPS so I open http and https.&lt;/p>
@@ -270,7 +270,7 @@ references below will assist you.&lt;/p>
 &lt;li>&lt;a href="https://wiki.archlinux.org/index.php/Uncomplicated_Firewall">https://wiki.archlinux.org/index.php/Uncomplicated_Firewall&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://wiki.ubuntu.com/UncomplicatedFirewall">https://wiki.ubuntu.com/UncomplicatedFirewall&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://launchpad.net/ufw">https://launchpad.net/ufw&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Configuring Uncomplicated Firewall (UFW) on Arch Linux.</summary></item><item><title>SSH brute force defense</title><link>https://wimpysworld.com/posts/ssh-brute-force-defense/</link><pubDate>Mon, 26 Nov 2012 13:14:09 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/ssh-brute-force-defense/</guid><description>&lt;p>I have several VPS hosts with different providers using different
+&lt;/ul></description><summary>Configuring Uncomplicated Firewall (UFW) on Arch Linux.</summary></item><item><title>SSH brute force defense</title><link>https://blog.rthur.me/posts/ssh-brute-force-defense/</link><pubDate>Mon, 26 Nov 2012 13:14:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ssh-brute-force-defense/</guid><description>&lt;p>I have several VPS hosts with different providers using different
 virtualisation platforms. Naturally I have &lt;a href="http://www.openssh.org/">OpenSSH&lt;/a>
 running on these VPS hosts and deploy either &lt;a href="http://denyhosts.sourceforge.net/">DenyHosts&lt;/a>
 or &lt;a href="http://www.fail2ban.org/">Fail2Ban&lt;/a> to add an extra security layer to
@@ -356,7 +356,7 @@ available.&lt;/p>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>Do you know any other tools that help prevent SSH brute force attacks?&lt;/p></description><summary>Deploy DenyHosts or Fail2Ban to better prevent SSH brute force attacks.</summary></item><item><title>Service Monitoring with StatusCake</title><link>https://wimpysworld.com/posts/service-monitoring-with-statuscake/</link><pubDate>Tue, 20 Nov 2012 17:14:47 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/service-monitoring-with-statuscake/</guid><description>&lt;p>We use two server monitoring services at work, one that does external
+&lt;p>Do you know any other tools that help prevent SSH brute force attacks?&lt;/p></description><summary>Deploy DenyHosts or Fail2Ban to better prevent SSH brute force attacks.</summary></item><item><title>Service Monitoring with StatusCake</title><link>https://blog.rthur.me/posts/service-monitoring-with-statuscake/</link><pubDate>Tue, 20 Nov 2012 17:14:47 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/service-monitoring-with-statuscake/</guid><description>&lt;p>We use two server monitoring services at work, one that does external
 availability checks of critical services and another agent based monitor that
 reports various system metrics. Neither of these monitoring tools offer
 sensible free plans.&lt;/p>
@@ -379,7 +379,7 @@ feature is very interesting.&lt;/p>
 unlimited sites. Brilliant! Perfect for personal use. &lt;a href="https://www.statuscake.com/?aff=1963">StatusCake&lt;/a>
 has only been around since August 2012 (as far as I can tell) but is already
 shaping up to be real contender to &lt;a href="https://www.pingdom.com/">Pingdom&lt;/a>.&lt;/p>
-&lt;p>What monitoring services are you using?&lt;/p></description><summary>Service availability monitoring using StatusCake</summary></item><item><title>SSHMenu - SSH Connection Management</title><link>https://wimpysworld.com/posts/sshmenu-ssh-connection-management/</link><pubDate>Tue, 26 Feb 2008 13:21:28 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/sshmenu-ssh-connection-management/</guid><description>&lt;p>We have a reasonable number of Debian servers at work and as a result I &lt;code>ssh&lt;/code>
+&lt;p>What monitoring services are you using?&lt;/p></description><summary>Service availability monitoring using StatusCake</summary></item><item><title>SSHMenu - SSH Connection Management</title><link>https://blog.rthur.me/posts/sshmenu-ssh-connection-management/</link><pubDate>Tue, 26 Feb 2008 13:21:28 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/sshmenu-ssh-connection-management/</guid><description>&lt;p>We have a reasonable number of Debian servers at work and as a result I &lt;code>ssh&lt;/code>
 into servers about as many times as I visit Google. I have been using
 Profiles in gnome-terminal to manage my ssh connections, which is fine but
 requires I already have a terminal open to initiate a new server connection.

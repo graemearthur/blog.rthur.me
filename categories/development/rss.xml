@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Development on Wimpy's World</title><link>https://wimpysworld.com/categories/development/</link><description>Recent content in Development on Wimpy's World</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>martin@wimpress.com (Martin Wimpress)</managingEditor><webMaster>martin@wimpress.com (Martin Wimpress)</webMaster><lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wimpysworld.com/categories/development/rss.xml" rel="self" type="application/rss+xml"/><item><title>machinespawn</title><link>https://wimpysworld.com/projects/machinespawn/</link><pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/machinespawn/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a> is a wrapper for
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Development on Arthur’s Almanac</title><link>https://blog.rthur.me/categories/development/</link><description>Recent content in Development on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/categories/development/rss.xml" rel="self" type="application/rss+xml"/><item><title>machinespawn</title><link>https://blog.rthur.me/projects/machinespawn/</link><pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/machinespawn/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a> is a wrapper for
 &lt;code>machinectl&lt;/code> and &lt;code>systemd-nspawn&lt;/code> to creating and managing containers; primarily
 focused at local development environment and CI/CD with a heavy emphasis on
 caching.&lt;/p>
@@ -6,14 +6,14 @@ caching.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a>&lt;/li>
 &lt;li>Date: October 2022 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Quickly stand up systemd-nspawn containers for development or CI/CD</summary></item><item><title>deb-get</title><link>https://wimpysworld.com/projects/deb-get/</link><pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/deb-get/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a> makes it easy to install and
+&lt;/ul></description><summary>Quickly stand up systemd-nspawn containers for development or CI/CD</summary></item><item><title>deb-get</title><link>https://blog.rthur.me/projects/deb-get/</link><pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/deb-get/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a> makes it easy to install and
 update .debs published in 3rd party apt repositories or made available via
 direct download on websites or GitHub release pages.&lt;/p>
 &lt;ul>
 &lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a>&lt;/li>
 &lt;li>Date: April 2022 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>apt-get functionality for .debs published in GitHub release or 3rd party repositories</summary></item><item><title>Creating Production-Ready Containers - Advanced Techniques</title><link>https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/</link><pubDate>Fri, 18 Jun 2021 12:18:15 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/</guid><description>&lt;p>Creating production-ready containers for use in commercial-grade apps can be a far cry from the &amp;ldquo;get started with Node.js and Docker&amp;rdquo;-type of tutorials that are common around the Internet. Those guides are great for introducing all the advantages of Docker containers in modern cloud-native development, but creating a container that passes muster in a large-scale application in production is a different story.&lt;/p>
+&lt;/ul></description><summary>apt-get functionality for .debs published in GitHub release or 3rd party repositories</summary></item><item><title>Creating Production-Ready Containers - Advanced Techniques</title><link>https://blog.rthur.me/posts/creating-production-ready-containers-advanced-techniques/</link><pubDate>Fri, 18 Jun 2021 12:18:15 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/creating-production-ready-containers-advanced-techniques/</guid><description>&lt;p>Creating production-ready containers for use in commercial-grade apps can be a far cry from the &amp;ldquo;get started with Node.js and Docker&amp;rdquo;-type of tutorials that are common around the Internet. Those guides are great for introducing all the advantages of Docker containers in modern cloud-native development, but creating a container that passes muster in a large-scale application in production is a different story.&lt;/p>
 &lt;p>For production-ready containers, there are three key things you want to optimise for when creating a container:&lt;/p>
 &lt;ol>
 &lt;li>Image Size 📦&lt;/li>
@@ -21,7 +21,7 @@ direct download on websites or GitHub release pages.&lt;/p>
 &lt;li>Security 🔐&lt;/li>
 &lt;/ol>
 &lt;p>Image size and build speed ensure that your containers can move through CI/CD and test pipelines easily and efficiently. Security is critical in today&amp;rsquo;s software supply chain, and containers have their own set of security issues. Thankfully, reducing container image size actually can alleviate some security issues in containers.&lt;/p>
-&lt;p>&lt;a href="https://wimpysworld.com/posts/creating-production-ready-containers-the-basics">In my Basics article&lt;/a>, I showed you some easy techniques to improve your &lt;code>Dockerfile&lt;/code> using a sample &amp;ldquo;Hello World&amp;rdquo; Node.js application.&lt;/p>
+&lt;p>&lt;a href="https://blog.rthur.me/posts/creating-production-ready-containers-the-basics">In my Basics article&lt;/a>, I showed you some easy techniques to improve your &lt;code>Dockerfile&lt;/code> using a sample &amp;ldquo;Hello World&amp;rdquo; Node.js application.&lt;/p>
 &lt;p>These basics address all three optimisations, though they only scratch the surface.&lt;/p>
 &lt;p>Let&amp;rsquo;s look at some more advanced techniques for Container Optimisation.&lt;/p>
 &lt;h2 id="alpine-images">Alpine Images&lt;/h2>
@@ -88,7 +88,7 @@ direct download on websites or GitHub release pages.&lt;/p>
 &lt;p>As with any open-source software, SlimToolKit can take some time to get working, especially for non-trivial applications. It works best for web-style applications, micro-services and APIs that have defined HTTP/HTTPS ports which the sensor can find and use to observe the container internals.&lt;/p>
 &lt;p>For best results, spend some time getting to know the various command flags available to tune your image, and &lt;a href="https://github.com/slimtoolkit/examples">take a look at the examples for whatever framework you&amp;rsquo;re using&lt;/a>.&lt;/p>
 &lt;h2 id="connecting-with-slimtoolkit">Connecting with SlimToolKit&lt;/h2>
-&lt;p>There&amp;rsquo;s an &lt;a href="https://discord.gg/uBttmfyYNB">active Slim.AI Discord channel&lt;/a> full of experts who can help you triage issues as they arise.&lt;/p></description><summary>Advanced techniques for production-ready container best practice</summary></item><item><title>Creating Production-Ready Containers - The Basics</title><link>https://wimpysworld.com/posts/creating-production-ready-containers-the-basics/</link><pubDate>Thu, 03 Jun 2021 12:18:15 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/creating-production-ready-containers-the-basics/</guid><description>&lt;p>So you&amp;rsquo;ve coded an awesome app and you are ready to deploy it to the cloud. You&amp;rsquo;ve heard a lot about &lt;a href="https://www.docker.com/">Docker&lt;/a> and completed a few online tutorials to containerise your app. All set, right? But what do you need to know if you&amp;rsquo;re going to move that app to a production environment on the public Internet? What if you&amp;rsquo;re using it for your job and need to pass security scans and DevOps checks?&lt;/p>
+&lt;p>There&amp;rsquo;s an &lt;a href="https://discord.gg/uBttmfyYNB">active Slim.AI Discord channel&lt;/a> full of experts who can help you triage issues as they arise.&lt;/p></description><summary>Advanced techniques for production-ready container best practice</summary></item><item><title>Creating Production-Ready Containers - The Basics</title><link>https://blog.rthur.me/posts/creating-production-ready-containers-the-basics/</link><pubDate>Thu, 03 Jun 2021 12:18:15 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/creating-production-ready-containers-the-basics/</guid><description>&lt;p>So you&amp;rsquo;ve coded an awesome app and you are ready to deploy it to the cloud. You&amp;rsquo;ve heard a lot about &lt;a href="https://www.docker.com/">Docker&lt;/a> and completed a few online tutorials to containerise your app. All set, right? But what do you need to know if you&amp;rsquo;re going to move that app to a production environment on the public Internet? What if you&amp;rsquo;re using it for your job and need to pass security scans and DevOps checks?&lt;/p>
 &lt;p>In this series, I introduce some basic concepts for making production-ready containers. I also introduce the concept of &amp;ldquo;slimming&amp;rdquo; a container. &lt;strong>Slimming&lt;/strong> refers to both optimising and minifying your Docker containers, reducing them in size by up to 80-percent while also making them more secure by decreasing the attack surface. Slimming your container is also a great way to implement &lt;a href="https://www.slim.ai/blog/why-dont-we-practice-container-best-practices">container best practices&lt;/a> without re-engineering your entire workflow.&lt;/p>
 &lt;p>There are many ways to slim a container, from basic security to fully automated open-source tools like &lt;a href="https://slimtoolkit.org/">SlimToolKit&lt;/a> (formerly &lt;a href="https://dockersl.im/">DockerSlim&lt;/a>). &lt;em>Full disclosure&lt;/em>: I used work for &lt;a href="https://slim.ai">Slim.AI&lt;/a>, a company founded on the SlimToolKit open source project. Let&amp;rsquo;s look at some of the common ways developers create production-ready container images today.&lt;/p>
 &lt;p>I&amp;rsquo;ll explore each of these in a separate article using a simple &amp;ldquo;Hello World&amp;rdquo; Node.js example that can be found in many online tutorials.&lt;/p>
@@ -189,7 +189,7 @@ direct download on websites or GitHub release pages.&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f00">ENTRYPOINT&lt;/span> [&lt;span style="color:#87ceeb">&amp;#34;node&amp;#34;&lt;/span>, &lt;span style="color:#87ceeb">&amp;#34;app.js&amp;#34;&lt;/span>]
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="conclusions">Conclusions&lt;/h3>
 &lt;p>Improving your &lt;code>Dockerfile&lt;/code> is the first step towards creating a slimmed and optimised container. It closes some major security loopholes that are likely to raise flags with downstream checks and adds baseline optimisations for build time and docker image size.&lt;/p>
-&lt;p>If this is all you do to improve your containers prior to shipping to production, you won&amp;rsquo;t be in a bad spot, but there&amp;rsquo;s more - &lt;em>way more&lt;/em> - that you can do to optimise images. We&amp;rsquo;ll &lt;a href="https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/">explore those techniques in the next article&lt;/a>.&lt;/p></description><summary>Beginners guide to container best practices</summary></item><item><title>Retro Home</title><link>https://wimpysworld.com/projects/retro-home/</link><pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/retro-home/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a> is custom Raspberry Pi
+&lt;p>If this is all you do to improve your containers prior to shipping to production, you won&amp;rsquo;t be in a bad spot, but there&amp;rsquo;s more - &lt;em>way more&lt;/em> - that you can do to optimise images. We&amp;rsquo;ll &lt;a href="https://blog.rthur.me/posts/creating-production-ready-containers-advanced-techniques/">explore those techniques in the next article&lt;/a>.&lt;/p></description><summary>Beginners guide to container best practices</summary></item><item><title>Retro Home</title><link>https://blog.rthur.me/projects/retro-home/</link><pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/retro-home/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a> is custom Raspberry Pi
 operating system purpose built for retro gaming. Built with
 &lt;a href="https://ubuntu.com/">Ubuntu&lt;/a> and using the minimalist emulator frontend
 &lt;a href="https://ludo.libretro.com/">Ludo&lt;/a> it supports most classic consoles from Atari,
@@ -201,7 +201,7 @@ are supported (with more in the works) using bespoke GPIO drivers.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a>&lt;/li>
 &lt;li>Date: July 2020 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>A retro-gaming operating system for Raspberry Pi built with Ubuntu and Ludo</summary></item><item><title>Rolling Rhino</title><link>https://wimpysworld.com/projects/rolling-rhino/</link><pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/rolling-rhino/</guid><description>&lt;p>Simple shell script to convert Ubuntu into a &lt;em>&amp;ldquo;rolling release&amp;rdquo;&lt;/em> that tracks the
+&lt;/ul></description><summary>A retro-gaming operating system for Raspberry Pi built with Ubuntu and Ludo</summary></item><item><title>Rolling Rhino</title><link>https://blog.rthur.me/projects/rolling-rhino/</link><pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/rolling-rhino/</guid><description>&lt;p>Simple shell script to convert Ubuntu into a &lt;em>&amp;ldquo;rolling release&amp;rdquo;&lt;/em> that tracks the
 &lt;code>devel&lt;/code> series; &lt;strong>for the toughest of Ubuntu users&lt;/strong>.&lt;/p>
 &lt;p>This project has served its purpose. It inspired another group of developers to
 create a &lt;a href="https://rollingrhino.org/">fully fledged Ubuntu Rolling Rhino distro&lt;/a>.&lt;/p>
@@ -209,14 +209,14 @@ create a &lt;a href="https://rollingrhino.org/">fully fledged Ubuntu Rolling Rhi
 &lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/rolling-rhino">Rolling Rhino&lt;/a>&lt;/li>
 &lt;li>Date: March 2020 - November 2022&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Convert Ubuntu into a rolling release</summary></item><item><title>Quickemu</title><link>https://wimpysworld.com/projects/quickemu/</link><pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/quickemu/</guid><description>&lt;p>Quickly create and run highly optimised desktop virtual machines for Linux,
+&lt;/ul></description><summary>Convert Ubuntu into a rolling release</summary></item><item><title>Quickemu</title><link>https://blog.rthur.me/projects/quickemu/</link><pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/quickemu/</guid><description>&lt;p>Quickly create and run highly optimised desktop virtual machines for Linux,
 macOS and Windows; with just two commands. You decide what operating system you
 want to run and &lt;a href="https://github.com/quickemu-project/quickemu">Quickemu&lt;/a> will figure out the best way to do it for you&lt;/p>
 &lt;ul>
 &lt;li>Organisation: &lt;a href="https://github.com/quickemu-project">Quickemu Project&lt;/a>&lt;/li>
 &lt;li>Date: March 2020 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Quickly create and run optimised Windows, macOS and Linux virtual machines</summary></item><item><title>Debian</title><link>https://wimpysworld.com/projects/debian/</link><pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/debian/</guid><description>&lt;p>Debian is a Unix-like computer operating system and a Linux distribution that is
+&lt;/ul></description><summary>Quickly create and run optimised Windows, macOS and Linux virtual machines</summary></item><item><title>Debian</title><link>https://blog.rthur.me/projects/debian/</link><pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/debian/</guid><description>&lt;p>Debian is a Unix-like computer operating system and a Linux distribution that is
 composed entirely of free and open-source software, most of which is under the
 GNU General Public License, and packaged by a group of individuals known as the
 Debian Project.&lt;/p>
@@ -224,7 +224,7 @@ Debian Project.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://debian.org">Debian Project&lt;/a>&lt;/li>
 &lt;li>Date: October 2014 - date&lt;/li>
 &lt;li>Role: Package maintainer&lt;/li>
-&lt;/ul></description><summary>Package maintainer for (mostly) MATE Desktop in Debian and Ubuntu</summary></item><item><title>Ubuntu MATE</title><link>https://wimpysworld.com/projects/ubuntu-mate/</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/ubuntu-mate/</guid><description>&lt;p>A community developed Ubuntu based operating system that beautifully integrates
+&lt;/ul></description><summary>Package maintainer for (mostly) MATE Desktop in Debian and Ubuntu</summary></item><item><title>Ubuntu MATE</title><link>https://blog.rthur.me/projects/ubuntu-mate/</link><pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/ubuntu-mate/</guid><description>&lt;p>A community developed Ubuntu based operating system that beautifully integrates
 the &lt;a href="https://mate-desktop.org">MATE desktop&lt;/a>. Ubuntu MATE is a stable,
 easy-to-use operating system with a configurable desktop environment and is
 suitable for modern workstations, laptops, single board computers and older
@@ -233,14 +233,14 @@ hardware alike.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://ubuntu-mate.org">Ubuntu MATE Project&lt;/a>&lt;/li>
 &lt;li>Date: June 2014 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Ubuntu MATE is a Linux distribution I made for my friends and family</summary></item><item><title>openSUSE</title><link>https://wimpysworld.com/projects/opensuse/</link><pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/opensuse/</guid><description>&lt;p>Mentored three students for the &lt;a href="https://www.google-melange.com/gsoc/org2/google/gsoc2014/opensuse">openSUSE 2014 Google Summer of Code&lt;/a>.
+&lt;/ul></description><summary>Ubuntu MATE is a Linux distribution I made for my friends and family</summary></item><item><title>openSUSE</title><link>https://blog.rthur.me/projects/opensuse/</link><pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/opensuse/</guid><description>&lt;p>Mentored three students for the &lt;a href="https://www.google-melange.com/gsoc/org2/google/gsoc2014/opensuse">openSUSE 2014 Google Summer of Code&lt;/a>.
 All three students successfully completed their projects for the
 &lt;a href="https://mate-desktop.org">MATE Desktop&lt;/a>.&lt;/p>
 &lt;ul>
 &lt;li>Organisation: &lt;a href="http://www.opensuse.org">openSUSE&lt;/a>&lt;/li>
 &lt;li>Date: February 2014 - August 2014&lt;/li>
 &lt;li>Role: Student mentor&lt;/li>
-&lt;/ul></description><summary>Student mentor for Google Summer of Code 2014</summary></item><item><title>Arch Linux</title><link>https://wimpysworld.com/projects/arch-linux/</link><pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/arch-linux/</guid><description>&lt;p>&lt;a href="https://archlinux.org">Arch Linux &lt;/a> is a Linux distribution that uses a rolling
+&lt;/ul></description><summary>Student mentor for Google Summer of Code 2014</summary></item><item><title>Arch Linux</title><link>https://blog.rthur.me/projects/arch-linux/</link><pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/arch-linux/</guid><description>&lt;p>&lt;a href="https://archlinux.org">Arch Linux &lt;/a> is a Linux distribution that uses a rolling
 release model, such that a regular system update is all that is needed to obtain
 all the latest software. The design approach follows the KISS principle
 (&lt;i>&amp;ldquo;keep it simple, stupid&amp;rdquo;&lt;/i>) and focuses on elegance, code correctness,
@@ -249,7 +249,7 @@ minimalism and simplicity.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://archlinux.org">Arch Linux &lt;/a>&lt;/li>
 &lt;li>Date: December 2013 - December 2016&lt;/li>
 &lt;li>Role: Trusted user &amp;amp; Package maintainer&lt;/li>
-&lt;/ul></description><summary>Arch Linux Trusted User &amp;amp; Package maintainer</summary></item><item><title>Python Distributions</title><link>https://wimpysworld.com/posts/python-distributions/</link><pubDate>Mon, 24 Jun 2013 13:11:43 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/python-distributions/</guid><description>&lt;p>At &lt;a href="http://www.flightdataservices.com">work&lt;/a> I maintain the
+&lt;/ul></description><summary>Arch Linux Trusted User &amp;amp; Package maintainer</summary></item><item><title>Python Distributions</title><link>https://blog.rthur.me/posts/python-distributions/</link><pubDate>Mon, 24 Jun 2013 13:11:43 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/python-distributions/</guid><description>&lt;p>At &lt;a href="http://www.flightdataservices.com">work&lt;/a> I maintain the
 &lt;a href="http://http://jenkins-ci.org/">Jenkins&lt;/a> test and build servers. I&amp;rsquo;m just about
 to update our Windows build servers and thought I&amp;rsquo;d better check the available
 &amp;ldquo;Python Distributions&amp;rdquo; to see if our current choice (the brilliant
@@ -347,7 +347,7 @@ Good because you only install what you actually require and bad because the init
 installation is protracted. That said, it is on my evaluation list for this week.&lt;/p>
 &lt;h2 id="anymore">Anymore?&lt;/h2>
 &lt;p>Those are the Python Distributions I&amp;rsquo;m aware of. Are there any others I should
-consider?&lt;/p></description><summary>A selection of Python distributions for data analysis</summary></item><item><title>Python and virtualenv on Arch Linux and Ubuntu</title><link>https://wimpysworld.com/posts/python-and-virtualenv-on-arch-linux-and-ubuntu/</link><pubDate>Tue, 11 Dec 2012 20:38:50 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/python-and-virtualenv-on-arch-linux-and-ubuntu/</guid><description>&lt;p>We use &lt;a href="http://www.python.org">Python&lt;/a> for pretty much all our software
+consider?&lt;/p></description><summary>A selection of Python distributions for data analysis</summary></item><item><title>Python and virtualenv on Arch Linux and Ubuntu</title><link>https://blog.rthur.me/posts/python-and-virtualenv-on-arch-linux-and-ubuntu/</link><pubDate>Tue, 11 Dec 2012 20:38:50 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/python-and-virtualenv-on-arch-linux-and-ubuntu/</guid><description>&lt;p>We use &lt;a href="http://www.python.org">Python&lt;/a> for pretty much all our software
 development at &lt;a href="http://www.flightdataservices.com/">work&lt;/a>. We also use
 &lt;a href="http://www.virtualenv.org">virtualenv&lt;/a> and
 &lt;a href="http://www.doughellmann.com/projects/virtualenvwrapper/">virtualenvwrapper&lt;/a>
@@ -431,7 +431,7 @@ the master/head.&lt;/p>
 &lt;p>When you are finished working in a virtualenv you can deactivate it by simply
 executing:&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>deactivate
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>That just about sums up my notes.&lt;/p></description><summary>Installing Python and virtualenv on Arch Linux and Ubuntu</summary></item><item><title>GitHub Analytics</title><link>https://wimpysworld.com/posts/github-analytics/</link><pubDate>Fri, 26 Oct 2012 16:39:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/github-analytics/</guid><description>&lt;p>As I mentioned in a previous post we are prepairing to &lt;a href="2012-10-migrating-bzr-to-git.html">migrate our Bazaar
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>That just about sums up my notes.&lt;/p></description><summary>Installing Python and virtualenv on Arch Linux and Ubuntu</summary></item><item><title>GitHub Analytics</title><link>https://blog.rthur.me/posts/github-analytics/</link><pubDate>Fri, 26 Oct 2012 16:39:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/github-analytics/</guid><description>&lt;p>As I mentioned in a previous post we are prepairing to &lt;a href="2012-10-migrating-bzr-to-git.html">migrate our Bazaar
 repositories to Git&lt;/a>, or more
 precisely to &lt;a href="https://github.com">GitHub&lt;/a>. This migration also heralds the
 Open Source releases of many of the core technologies we&amp;rsquo;ve been developing at
@@ -464,7 +464,7 @@ and githalytics tracking snippet for each project.&lt;/p>
 &lt;li>&lt;a href="http://githalytics.tumblr.com/">http://githalytics.tumblr.com/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://coderwall.com/team/githalytics">http://coderwall.com/team/githalytics&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://stackoverflow.com/questions/4376560/add-google-analytics-to-github-wiki-pages">http://stackoverflow.com/questions/4376560/add-google-analytics-to-github-wiki-pages&lt;/a>&lt;/li>
-&lt;/ul></description><summary>How to add Google Analytics to GitHub projects.</summary></item><item><title>Migrating Bazaar to Git</title><link>https://wimpysworld.com/posts/migrating-bazaar-to-git/</link><pubDate>Tue, 23 Oct 2012 11:50:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/migrating-bazaar-to-git/</guid><description>&lt;p>We have been using &lt;a href="http://bazaar.canonical.com">Bazaar&lt;/a> for source
+&lt;/ul></description><summary>How to add Google Analytics to GitHub projects.</summary></item><item><title>Migrating Bazaar to Git</title><link>https://blog.rthur.me/posts/migrating-bazaar-to-git/</link><pubDate>Tue, 23 Oct 2012 11:50:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/migrating-bazaar-to-git/</guid><description>&lt;p>We have been using &lt;a href="http://bazaar.canonical.com">Bazaar&lt;/a> for source
 control at &lt;a href="http://www.flightdataservices.com">work&lt;/a> for nearly five
 years. We are about to &lt;a href="http://opensource.org">Open Source&lt;/a> most of our
 core technologies and decided that &lt;a href="https://github.com">GitHub&lt;/a> is the
@@ -589,7 +589,7 @@ ready for use on GitHub.&lt;/p>
 &lt;li>&lt;a href="https://help.github.com/articles/changing-author-info">https://help.github.com/articles/changing-author-info&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://developer.github.com/v3/repos/">http://developer.github.com/v3/repos/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://help.github.com/articles/dealing-with-line-endings#platform-all">https://help.github.com/articles/dealing-with-line-endings#platform-all&lt;/a>&lt;/li>
-&lt;/ul></description><summary>A rough guide to migrating Bazaar repositories to GitHub</summary></item><item><title>MATE Desktop</title><link>https://wimpysworld.com/projects/mate-desktop/</link><pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/mate-desktop/</guid><description>&lt;p>The &lt;a href="https://mate-desktop.org">MATE Desktop Environment&lt;/a> is the continuation of
+&lt;/ul></description><summary>A rough guide to migrating Bazaar repositories to GitHub</summary></item><item><title>MATE Desktop</title><link>https://blog.rthur.me/projects/mate-desktop/</link><pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/mate-desktop/</guid><description>&lt;p>The &lt;a href="https://mate-desktop.org">MATE Desktop Environment&lt;/a> is the continuation of
 &lt;a href="https://en.wikipedia.org/wiki/GNOME_2">GNOME 2&lt;/a>. MATE Desktop provides an
 intuitive and attractive desktop environment using traditional metaphors for
 Linux and other Unix-like operating systems.&lt;/p>
@@ -597,7 +597,7 @@ Linux and other Unix-like operating systems.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://mate-desktop.org">MATE Desktop&lt;/a>&lt;/li>
 &lt;li>Date: June 2012 - date&lt;/li>
 &lt;li>Role: Developer &amp;amp; Community Manager&lt;/li>
-&lt;/ul></description><summary>Preserving a traditional desktop metaphor</summary></item><item><title>Install Sun Java 6 JRE and JDK from .deb packages</title><link>https://wimpysworld.com/posts/install-sun-java-6-jre-and-jdk-from-deb-packages/</link><pubDate>Mon, 16 Jan 2012 13:20:05 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/install-sun-java-6-jre-and-jdk-from-deb-packages/</guid><description>&lt;p>&lt;a href="https://canonical.com">Canonical&lt;/a> disabled my Java PPA at the end of last week.
+&lt;/ul></description><summary>Preserving a traditional desktop metaphor</summary></item><item><title>Install Sun Java 6 JRE and JDK from .deb packages</title><link>https://blog.rthur.me/posts/install-sun-java-6-jre-and-jdk-from-deb-packages/</link><pubDate>Mon, 16 Jan 2012 13:20:05 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/install-sun-java-6-jre-and-jdk-from-deb-packages/</guid><description>&lt;p>&lt;a href="https://canonical.com">Canonical&lt;/a> disabled my Java PPA at the end of last week.
 So I&amp;rsquo;ve developed another solution for installing Java on Ubuntu which doesn&amp;rsquo;t
 infringe any copyrights, licenses, terms of use or CoC&amp;rsquo;s. However, by running
 this script to download Java you acknowledge that you have read and accepted the
@@ -622,7 +622,7 @@ allowtransparency="true" frameborder="0" scrolling="0" width="260px" height="30p
 &lt;p>Please read the &lt;a href="https://github.com/flexiondotorg/oab-java6/blob/master/README.rst">README&lt;/a>
 file for a more detailed explanation of how the script works and how to use it.
 If anyone has any problems, then please submit a ticket on my
-&lt;a href="https://github.com/flexiondotorg/oab-java6/issues">Issue Tracker&lt;/a>.&lt;/p></description><summary>An alternative approach to install Sun Java 6 on Ubuntu</summary></item><item><title>Sun Java 1.6.0.30 packages for Ubuntu</title><link>https://wimpysworld.com/posts/sun-java-1.6.0.30-packages-for-ubuntu/</link><pubDate>Tue, 10 Jan 2012 10:53:50 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/sun-java-1.6.0.30-packages-for-ubuntu/</guid><description>&lt;h2 id="update-friday-13th-january-2012">Update Friday 13th January 2012&lt;/h2>
+&lt;a href="https://github.com/flexiondotorg/oab-java6/issues">Issue Tracker&lt;/a>.&lt;/p></description><summary>An alternative approach to install Sun Java 6 on Ubuntu</summary></item><item><title>Sun Java 1.6.0.30 packages for Ubuntu</title><link>https://blog.rthur.me/posts/sun-java-1.6.0.30-packages-for-ubuntu/</link><pubDate>Tue, 10 Jan 2012 10:53:50 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/sun-java-1.6.0.30-packages-for-ubuntu/</guid><description>&lt;h2 id="update-friday-13th-january-2012">Update Friday 13th January 2012&lt;/h2>
 &lt;p>&lt;strong>My Java PPA has been disabled by Canonical, possibly because they violate the Ubuntu CoC and PPA terms of use, as Jef Spaleta noted in the comments below, although I&amp;rsquo;ve had no communication from Canonical at this time. I&amp;rsquo;m preparing an alternative solution, for those of you who need Sun Java 6, that doesn&amp;rsquo;t violate and copyrights, CoCs or terms of use. A new blog post will be made when that alternate solution is available.&lt;/strong>&lt;/p>
 &lt;h2 id="update-monday-16th-january-2012">Update Monday 16th January 2012&lt;/h2>
 &lt;p>&lt;strong>I&amp;rsquo;ve developed another solution for installing Java 6u30 on Ubuntu which
@@ -708,7 +708,7 @@ package updates have removed Oracle Java from the system&lt;/strong>.&lt;/del>&l
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;del>You can take a look a round my PPA from the URL below:&lt;/del>&lt;/p>
 &lt;ul>
 &lt;li>&lt;del>&lt;a href="https://launchpad.net/~flexiondotorg/+archive/java">https://launchpad.net/~flexiondotorg/+archive/java&lt;/a>&lt;/del>&lt;/li>
-&lt;/ul></description><summary>Get Sun Java 1.6.0 packages from a PPA</summary></item><item><title>Shotwell 0.11 PPA available for Ubuntu Lucid and Maverick</title><link>https://wimpysworld.com/posts/shotwell-0.11-ppa-available-for-ubuntu-lucid-and-maverick/</link><pubDate>Tue, 30 Aug 2011 11:05:50 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/shotwell-0.11-ppa-available-for-ubuntu-lucid-and-maverick/</guid><description>&lt;p>Like many others I wanted &lt;a href="http://yorba.org/shotwell/">Shotwell&lt;/a> 0.11
+&lt;/ul></description><summary>Get Sun Java 1.6.0 packages from a PPA</summary></item><item><title>Shotwell 0.11 PPA available for Ubuntu Lucid and Maverick</title><link>https://blog.rthur.me/posts/shotwell-0.11-ppa-available-for-ubuntu-lucid-and-maverick/</link><pubDate>Tue, 30 Aug 2011 11:05:50 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/shotwell-0.11-ppa-available-for-ubuntu-lucid-and-maverick/</guid><description>&lt;p>Like many others I wanted &lt;a href="http://yorba.org/shotwell/">Shotwell&lt;/a> 0.11
 for Lucid and Maverick so I&amp;rsquo;ve created a PPA for it.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://launchpad.net/~flexiondotorg/+archive/shotwell">https://launchpad.net/~flexiondotorg/+archive/shotwell&lt;/a>&lt;/li>
@@ -736,7 +736,7 @@ below for the reasons for this requirement:&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get update
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get dist-upgrade
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get install shotwell
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Enjoy!&lt;/p></description><summary>Showell 0.11 is available in a PPA for Ubuntu 10.04 &amp;amp; 10.10</summary></item><item><title>Shotwell 0.8.1 PPA available for Ubuntu Lucid</title><link>https://wimpysworld.com/posts/shotwell-0.8.1-ppa-available-for-ubuntu-lucid/</link><pubDate>Thu, 17 Mar 2011 17:04:42 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/shotwell-0.8.1-ppa-available-for-ubuntu-lucid/</guid><description>&lt;p>Like many others I wanted &lt;a href="http://yorba.org/shotwell/">Shotwell&lt;/a> for Lucid
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Enjoy!&lt;/p></description><summary>Showell 0.11 is available in a PPA for Ubuntu 10.04 &amp;amp; 10.10</summary></item><item><title>Shotwell 0.8.1 PPA available for Ubuntu Lucid</title><link>https://blog.rthur.me/posts/shotwell-0.8.1-ppa-available-for-ubuntu-lucid/</link><pubDate>Thu, 17 Mar 2011 17:04:42 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/shotwell-0.8.1-ppa-available-for-ubuntu-lucid/</guid><description>&lt;p>Like many others I wanted &lt;a href="http://yorba.org/shotwell/">Shotwell&lt;/a> for Lucid
 so I&amp;rsquo;ve created a PPA for it.&lt;/p>
 &lt;ul>
 &lt;li>&amp;lt;https://launchpad.net/~flexiondotorg/+archive/shotwell.&lt;/li>
@@ -763,14 +763,14 @@ PPA, so you must also enable the Yorba PPA too.&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-add-repository ppa:flexiondotorg/shotwell
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get update
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get install shotwell
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Get the latest Shotwell 0.8.1 via a PP for Ubuntu 10.04</summary></item><item><title>Bash script to retrieve Ubuntu codenames and versions</title><link>https://wimpysworld.com/posts/bash-script-to-retrieve-ubuntu-codenames-and-versions/</link><pubDate>Wed, 16 Mar 2011 13:44:54 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/bash-script-to-retrieve-ubuntu-codenames-and-versions/</guid><description>&lt;p>I&amp;rsquo;m working a script to automatically backport &lt;a href="http://www.debian.org">Debian&lt;/a>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Get the latest Shotwell 0.8.1 via a PP for Ubuntu 10.04</summary></item><item><title>Bash script to retrieve Ubuntu codenames and versions</title><link>https://blog.rthur.me/posts/bash-script-to-retrieve-ubuntu-codenames-and-versions/</link><pubDate>Wed, 16 Mar 2011 13:44:54 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/bash-script-to-retrieve-ubuntu-codenames-and-versions/</guid><description>&lt;p>I&amp;rsquo;m working a script to automatically backport &lt;a href="http://www.debian.org">Debian&lt;/a>
 packages to Ubuntu. I needed a way to get a list of currently supported/active
 Ubuntu releases by codename or version. Here is how I do it.&lt;/p>
 &lt;h2 id="get-a-list-of-ubuntu-codenames">Get a list of Ubuntu codenames&lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>wget -q http://cdimage.ubuntu.com/releases/ -O - | sed -e :a -e &lt;span style="color:#87ceeb">&amp;#39;s/&amp;lt;[^&amp;gt;]*&amp;gt;//g;/&amp;lt;/N;//ba&amp;#39;&lt;/span> | grep &lt;span style="color:#87ceeb">&amp;#39;^[[:space:]][a-z]&amp;#39;&lt;/span> | sed &lt;span style="color:#87ceeb">&amp;#39;s/\///g&amp;#39;&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="get-a-list-of-ubuntu-versions">Get a list of Ubuntu versions&lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>wget -q http://cdimage.ubuntu.com/releases/ -O - | sed -e :a -e &lt;span style="color:#87ceeb">&amp;#39;s/&amp;lt;[^&amp;gt;]*&amp;gt;//g;/&amp;lt;/N;//ba&amp;#39;&lt;/span> | grep &lt;span style="color:#87ceeb">&amp;#39;^[[:space:]][1-9]&amp;#39;&lt;/span> | sed &lt;span style="color:#87ceeb">&amp;#39;s/\///g&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Get a list of Ubuntu codename and version with wget</summary></item><item><title>Goodbye F-Spot. Hello Shotwell</title><link>https://wimpysworld.com/posts/goodbye-f-spot-hello-shotwell/</link><pubDate>Sat, 20 Mar 2010 15:39:17 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/goodbye-f-spot-hello-shotwell/</guid><description>&lt;p>I&amp;rsquo;ve finally found a photo organiser for Linux I can live with,
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Get a list of Ubuntu codename and version with wget</summary></item><item><title>Goodbye F-Spot. Hello Shotwell</title><link>https://blog.rthur.me/posts/goodbye-f-spot-hello-shotwell/</link><pubDate>Sat, 20 Mar 2010 15:39:17 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/goodbye-f-spot-hello-shotwell/</guid><description>&lt;p>I&amp;rsquo;ve finally found a photo organiser for Linux I can live with,
 &lt;a href="http://yorba.org/shotwell/">Shotwell&lt;/a>. Shotwell is a photo organiser
 for &lt;a href="http://www.gnome.org">GNOME&lt;/a> that I&amp;rsquo;ve been testing for a few
 months now but the recent 0.5 release which added tagging and printing,
@@ -799,13 +799,13 @@ slideshow. You can download a source tarball from the Shotwell home page at
 via Yorba&amp;rsquo;s Launchpad PPA.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://launchpad.net/~yorba/+archive/ppa">https://launchpad.net/~yorba/+archive/ppa&lt;/a>&lt;/li>
-&lt;/ul></description><summary>F-Spot you serve me well, but here comes Shotwell</summary></item><item><title>Linux Hex Editors</title><link>https://wimpysworld.com/posts/linux-hex-editors/</link><pubDate>Thu, 03 Dec 2009 11:59:30 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/linux-hex-editors/</guid><description>&lt;p>We use hex editors daily at work, we are regularly cutting up data from flight
+&lt;/ul></description><summary>F-Spot you serve me well, but here comes Shotwell</summary></item><item><title>Linux Hex Editors</title><link>https://blog.rthur.me/posts/linux-hex-editors/</link><pubDate>Thu, 03 Dec 2009 11:59:30 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/linux-hex-editors/</guid><description>&lt;p>We use hex editors daily at work, we are regularly cutting up data from flight
 data recorders for analysis or recovery. So when I find a new hex editor for
 Linux I usually give it a try. I happened across a blog listing five GUI hex
 editors for Ubuntu today. Find out more below.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://unixlab.blogspot.com/2009/08/five-gui-hex-editors-for-ubuntu.html">Five gui hex editors for ubuntu&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Five GUI hex editors for Linux to take a look at</summary></item><item><title>M2VRequantiser for 32-bit and 64-bit Linux</title><link>https://wimpysworld.com/posts/m2vrequantiser-for-32-bit-and-64-bit-linux/</link><pubDate>Thu, 23 Apr 2009 16:47:20 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/m2vrequantiser-for-32-bit-and-64-bit-linux/</guid><description>&lt;p>I recently discovered that &lt;code>tcrequant&lt;/code> (part of the
+&lt;/ul></description><summary>Five GUI hex editors for Linux to take a look at</summary></item><item><title>M2VRequantiser for 32-bit and 64-bit Linux</title><link>https://blog.rthur.me/posts/m2vrequantiser-for-32-bit-and-64-bit-linux/</link><pubDate>Thu, 23 Apr 2009 16:47:20 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/m2vrequantiser-for-32-bit-and-64-bit-linux/</guid><description>&lt;p>I recently discovered that &lt;code>tcrequant&lt;/code> (part of the
 &lt;a href="http://http://www.transcoding.org/">transcode&lt;/a> suite of tools) has been
 deprecated. Worst still I found that when I ran &lt;code>tcrequant&lt;/code> on my 64-bit Linux
 workstation is was corrupting the video. See the links below for details.&lt;/p>
@@ -827,7 +827,7 @@ size is 1024000 bytes, by a factor of 1.25.&lt;/p>
 for me but I&amp;rsquo;d be interested to get your feedback.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://code.launchpad.net/~flexiondotorg/m2vrequantiser/trunk">M2VRequantiser&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Finding a MPEG-2 video requantising solution for Linux</summary></item><item><title>Converting Matroska to M2TS for PS3 and Mediatomb</title><link>https://wimpysworld.com/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</link><pubDate>Wed, 15 Apr 2009 16:19:24 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</guid><description>&lt;p>It has been a while since I last posted, mainly due to not having Internet
+&lt;/ul></description><summary>Finding a MPEG-2 video requantising solution for Linux</summary></item><item><title>Converting Matroska to M2TS for PS3 and Mediatomb</title><link>https://blog.rthur.me/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</link><pubDate>Wed, 15 Apr 2009 16:19:24 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</guid><description>&lt;p>It has been a while since I last posted, mainly due to not having Internet
 access at home for a month. Anyway, I&amp;rsquo;m online again and I have been tinkering
 with various projects the most recent of which is Matroska conversion (again).&lt;/p>
 &lt;h2 id="matroska-to-mp4">Matroska to MP4&lt;/h2>
@@ -855,7 +855,7 @@ outside chance it will work on Mac OS X if you can get the required tools
 installed. Again, you can find my script on GitHub.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-M2TS">MPV-to-M2TS&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Fast conversion of Matroska video to MPEG2-TS</summary></item><item><title>Distributing closed source Python applications</title><link>https://wimpysworld.com/posts/distributing-closed-source-python-applications/</link><pubDate>Thu, 29 Jan 2009 13:04:03 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/distributing-closed-source-python-applications/</guid><description>&lt;p>Last November we switched to &lt;a href="http://www.python.org/">Python&lt;/a> as the principal
+&lt;/ul></description><summary>Fast conversion of Matroska video to MPEG2-TS</summary></item><item><title>Distributing closed source Python applications</title><link>https://blog.rthur.me/posts/distributing-closed-source-python-applications/</link><pubDate>Thu, 29 Jan 2009 13:04:03 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/distributing-closed-source-python-applications/</guid><description>&lt;p>Last November we switched to &lt;a href="http://www.python.org/">Python&lt;/a> as the principal
 language for all new software development projects at work, ditching Microsoft
 Visual C++ and PHP in the process. Last Friday we released our first Python
 application to our customers for both Windows and Linux users.&lt;/p>
@@ -878,14 +878,14 @@ we needed was as means to install our application.&lt;/p>
 our customer can install the Windows version. Enter &lt;a href="http://www.jrsoftware.org/isinfo.php">InnoSetup&lt;/a>.
 InnoSetup is a free installer for Windows programs and installer can even be
 created from the command line, perfect for integration with our Jenkins build
-servers.&lt;/p></description><summary>Freezing proprietary Python applications for distribution to clients</summary></item><item><title>Hacking WordTwit into WordDent</title><link>https://wimpysworld.com/posts/hacking-wordtwit-into-worddent/</link><pubDate>Fri, 23 Jan 2009 18:24:20 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/hacking-wordtwit-into-worddent/</guid><description>&lt;p>I have quickly forked &lt;a href="https://wordpress.org/plugins/wordtwit/">WordTwit&lt;/a> into
+servers.&lt;/p></description><summary>Freezing proprietary Python applications for distribution to clients</summary></item><item><title>Hacking WordTwit into WordDent</title><link>https://blog.rthur.me/posts/hacking-wordtwit-into-worddent/</link><pubDate>Fri, 23 Jan 2009 18:24:20 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/hacking-wordtwit-into-worddent/</guid><description>&lt;p>I have quickly forked &lt;a href="https://wordpress.org/plugins/wordtwit/">WordTwit&lt;/a> into
 WordDent. WordDent is a Wordpress plugin that utilizes the Twitter API to
 automatically push a published post to your &lt;a href="http://identi.ca">Identi.ca&lt;/a>
 account as a dent. It allows all your Identi.ca contacts to keep up to date
 with your blog postings. I&amp;rsquo;m still just testing that WordDent works
 correctly. I&amp;rsquo;ll find out if the nice people over at
 &lt;a href="http://www.bravenewcode.com">Brave New Code&lt;/a> will agree to me releasing
-WordDent since I can&amp;rsquo;t fine any license details for WordTwit.&lt;/p></description><summary>Automatically post Wordpress blog notification to Identi.ca</summary></item><item><title>POLARIS</title><link>https://wimpysworld.com/projects/polaris/</link><pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/polaris/</guid><description>&lt;p>Led the design, development and operation of the POLARIS project at
+WordDent since I can&amp;rsquo;t fine any license details for WordTwit.&lt;/p></description><summary>Automatically post Wordpress blog notification to Identi.ca</summary></item><item><title>POLARIS</title><link>https://blog.rthur.me/projects/polaris/</link><pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/polaris/</guid><description>&lt;p>Led the design, development and operation of the POLARIS project at
 &lt;a href="https://flightdataservices.com">Flight Data Services&lt;/a>. An Open Source analysis
 engine developed using Python that can scale to analyse and report on millions
 of commercial aviation flights to comply with global aviation safety regulations.
@@ -895,7 +895,7 @@ available as Open Source.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://flightdataservices.com">Flight Data Services&lt;/a>&lt;/li>
 &lt;li>Date: May 2007 - September 2015&lt;/li>
 &lt;li>Role: Manager of IT Operations &amp;amp; Software Engineering&lt;/li>
-&lt;/ul></description><summary>Disrupting incumbent flight data analysis solutions with Open Source</summary></item><item><title>R3-born 0.1.1 is released!</title><link>https://wimpysworld.com/posts/r3-born-0.1.1-is-released/</link><pubDate>Fri, 09 Mar 2007 21:59:45 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/r3-born-0.1.1-is-released/</guid><description>&lt;p>&lt;a href="http://www.sourceforge.net/projects/r3-born/">R3-born&lt;/a> 0.1.1 is released :-)&lt;/p>
+&lt;/ul></description><summary>Disrupting incumbent flight data analysis solutions with Open Source</summary></item><item><title>R3-born 0.1.1 is released!</title><link>https://blog.rthur.me/posts/r3-born-0.1.1-is-released/</link><pubDate>Fri, 09 Mar 2007 21:59:45 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/r3-born-0.1.1-is-released/</guid><description>&lt;p>&lt;a href="http://www.sourceforge.net/projects/r3-born/">R3-born&lt;/a> 0.1.1 is released :-)&lt;/p>
 &lt;h2 id="r3-born-core-change-log">R3-born Core Change Log&lt;/h2>
 &lt;p>Here are the main changes for this release. &lt;em>v0.1.1 : 9th March 2007&lt;/em>&lt;/p>
 &lt;ul>
@@ -919,14 +919,14 @@ available as Open Source.&lt;/p>
 &lt;li>New blocks : recent_blogs, recent_comments, recent_pages, recent_topics, search, socmarks and visit_counter.&lt;/li>
 &lt;/ul>
 &lt;p>R3-born 0.1.1 has fulfilled its first major objective, which is to be functional
-enough to run a website.&lt;/p></description><summary>R3-born is good enough to run a website</summary></item><item><title>R3-born 0.1.0 is released!</title><link>https://wimpysworld.com/posts/r3-born-0.1.0-is-released/</link><pubDate>Tue, 30 Jan 2007 11:52:55 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/r3-born-0.1.0-is-released/</guid><description>&lt;p>Finally, R3-born 0.1.0 is released. &lt;a href="http://www.sourceforge.net/projects/r3-born/">R3-born&lt;/a>
+enough to run a website.&lt;/p></description><summary>R3-born is good enough to run a website</summary></item><item><title>R3-born 0.1.0 is released!</title><link>https://blog.rthur.me/posts/r3-born-0.1.0-is-released/</link><pubDate>Tue, 30 Jan 2007 11:52:55 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/r3-born-0.1.0-is-released/</guid><description>&lt;p>Finally, R3-born 0.1.0 is released. &lt;a href="http://www.sourceforge.net/projects/r3-born/">R3-born&lt;/a>
 is a content management system for modest websites which I hope will be ideal for
 individuals running their own sites or small community websites.&lt;/p>
 &lt;p>Due to my accident I have not been able to address all of the bugs which have
 been reported recently and the downloads are only available as bzip2 tarballs
 right now. Please report any bugs you might encounter as 0.1.0 has really only
 been tested on Debian Sarge (stable) running PHP4 and MSQL 4. Feedback from
-other configurations will be useful and all reported bugs will be investigated.&lt;/p></description><summary>After 10 months work R3-born 0.1.0 is ready</summary></item><item><title>Announcing R3-born</title><link>https://wimpysworld.com/posts/announcing-r3-born/</link><pubDate>Fri, 08 Sep 2006 17:48:47 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/announcing-r3-born/</guid><description>&lt;p>I suppose it is a bit silly to announce this just before I go on holiday but
+other configurations will be useful and all reported bugs will be investigated.&lt;/p></description><summary>After 10 months work R3-born 0.1.0 is ready</summary></item><item><title>Announcing R3-born</title><link>https://blog.rthur.me/posts/announcing-r3-born/</link><pubDate>Fri, 08 Sep 2006 17:48:47 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/announcing-r3-born/</guid><description>&lt;p>I suppose it is a bit silly to announce this just before I go on holiday but
 what the heck. &lt;a href="http://www.sourceforge.net/projects/r3-born/">R3-born&lt;/a> is
 intended to be a simple and modular content management system for modest websites.
 My hope is that it will be ideal for individuals running their own sites or for
@@ -941,7 +941,7 @@ started the project in April 2006 and I hope to release a beta version of
 R3-born later in 2006.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://www.sourceforge.net/projects/r3-born/">http://www.sourceforge.net/projects/r3-born/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Minerva is r3-born</summary></item><item><title>Comments off, Overdue update and R3-born</title><link>https://wimpysworld.com/posts/comments-off-overdue-update-and-r3-born/</link><pubDate>Tue, 04 Jul 2006 13:14:55 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/comments-off-overdue-update-and-r3-born/</guid><description>&lt;p>First of all, I have disabled comments on my blog. &lt;a href="http://jaws-project.com/">Jaws&lt;/a>
+&lt;/ul></description><summary>Minerva is r3-born</summary></item><item><title>Comments off, Overdue update and R3-born</title><link>https://blog.rthur.me/posts/comments-off-overdue-update-and-r3-born/</link><pubDate>Tue, 04 Jul 2006 13:14:55 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/comments-off-overdue-update-and-r3-born/</guid><description>&lt;p>First of all, I have disabled comments on my blog. &lt;a href="http://jaws-project.com/">Jaws&lt;/a>
 has spam protection and captachs but both implementations suck. This site doesn&amp;rsquo;t
 generate much feedback so disabling comments altogether is not really a problem.
 I haven&amp;rsquo;t updated the site recently and here is why. The 0.6.x release of Jaws
@@ -954,7 +954,7 @@ can find the project over at Sourceforge, don&amp;rsquo;t expect anything to wor
 only way to snag the source.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://www.sourceforge.net/projects/r3-born/">R3-born&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Jaws spam counter measures suck</summary></item><item><title>Project Minerva is coming home</title><link>https://wimpysworld.com/posts/project-minerva-is-coming-home/</link><pubDate>Wed, 26 Apr 2006 17:42:11 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/project-minerva-is-coming-home/</guid><description>&lt;p>Despite a generous offer from a Minerva enthusiast a year or so ago to freely
+&lt;/ul></description><summary>Jaws spam counter measures suck</summary></item><item><title>Project Minerva is coming home</title><link>https://blog.rthur.me/posts/project-minerva-is-coming-home/</link><pubDate>Wed, 26 Apr 2006 17:42:11 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/project-minerva-is-coming-home/</guid><description>&lt;p>Despite a generous offer from a Minerva enthusiast a year or so ago to freely
 host the Project Minerva sites, all the Project Minerva hosting is coming back
 to where it started and rightly belongs. Yes, right here with me. It just
 goes to show you really don&amp;rsquo;t get anything for free. The developers have had
@@ -963,7 +963,7 @@ we are bringing it back here where we can look after our interests directly.&lt;
 &lt;p>Minerva users might be wondering if the fact I am fully hosting Project
 Minerva again means I am going to be developing for the project again. Well,
 we will just have to see but I did inform Chris of a little project I kicked
-off last week which may (or may not) lead to something.&lt;/p></description><summary>It&amp;rsquo;s coming home. Minerva is coming home.</summary></item><item><title>Portable app</title><link>https://wimpysworld.com/posts/portable-app/</link><pubDate>Thu, 09 Mar 2006 05:40:07 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/portable-app/</guid><description>&lt;p>I started a new job last week, I am contracting for the first time. I needed
+off last week which may (or may not) lead to something.&lt;/p></description><summary>It&amp;rsquo;s coming home. Minerva is coming home.</summary></item><item><title>Portable app</title><link>https://blog.rthur.me/posts/portable-app/</link><pubDate>Thu, 09 Mar 2006 05:40:07 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/portable-app/</guid><description>&lt;p>I started a new job last week, I am contracting for the first time. I needed
 some applications installed on my desktop at work, but to do so would not be
 permitted as part of my clients standard build policies.&lt;/p>
 &lt;p>So I started making a USB disk with the tools I needed and in doing do I found
@@ -973,7 +973,7 @@ websites which ease the process no end.&lt;/p>
 portable device and use on any Windows computer. When your USB thumb drive,
 portable hard drive, iPod or other portable device is plugged in, you have
 access to your software and personal data just as you would on your own PC. And
-when you unplug, none of your personal data is left behind.&lt;/p></description><summary>Working around corporate Windows policies with Portable Apps</summary></item><item><title>Ubuntu</title><link>https://wimpysworld.com/projects/ubuntu/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/ubuntu/</guid><description>&lt;p>Ubuntu comes with everything you need to run your organisation, school, home or
+when you unplug, none of your personal data is left behind.&lt;/p></description><summary>Working around corporate Windows policies with Portable Apps</summary></item><item><title>Ubuntu</title><link>https://blog.rthur.me/projects/ubuntu/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/ubuntu/</guid><description>&lt;p>Ubuntu comes with everything you need to run your organisation, school, home or
 enterprise. All the essential applications, like an office suite, browsers,
 email and media apps come pre-installed.&lt;/p>
 &lt;p>Community contributor since 2006, worked for Canonical from 2016 to 2021
@@ -983,7 +983,7 @@ in the Ubuntu community.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://ubuntu-mate.org">Ubuntu Project&lt;/a> &amp;amp; &lt;a href="https://canonical.com">Canonical&lt;/a>&lt;/li>
 &lt;li>Date: January 2006 - date&lt;/li>
 &lt;li>Role: Community contributor&lt;/li>
-&lt;/ul></description><summary>From community contributor to director of engineering and back again</summary></item><item><title>Leaving Minerva</title><link>https://wimpysworld.com/posts/leaving-minerva/</link><pubDate>Thu, 01 Sep 2005 09:47:16 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/leaving-minerva/</guid><description>&lt;p>Yesterday was a sad day. I finally notified the core &lt;a href="http://sourceforge.net/projects/minerva/">Minerva&lt;/a>
+&lt;/ul></description><summary>From community contributor to director of engineering and back again</summary></item><item><title>Leaving Minerva</title><link>https://blog.rthur.me/posts/leaving-minerva/</link><pubDate>Thu, 01 Sep 2005 09:47:16 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/leaving-minerva/</guid><description>&lt;p>Yesterday was a sad day. I finally notified the core &lt;a href="http://sourceforge.net/projects/minerva/">Minerva&lt;/a>
 developers that I am leaving the project. Given that I started the project a few
 years back it was not a decision I made lightly.&lt;/p>
 &lt;p>I have a couple of reasons for leaving the project, the main one being that I
@@ -996,7 +996,7 @@ with Dave and Chris leading the effort. I wish all the Minerva developers and
 users every success with the upcoming release of R4, it is a marvelous
 achievement and I am sure will prove to be very successful. I will be
 keeping an eye on R4 development, and if time permits, I may contribute some
-blocks and modules in the future. Until then, good luck and make me proud!&lt;/p></description><summary>Standing down from the Minerva project</summary></item><item><title>Introducing Stanley, a new theme for Jaws</title><link>https://wimpysworld.com/posts/introducing-stanley-a-new-theme-for-jaws/</link><pubDate>Fri, 12 Aug 2005 09:29:53 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/introducing-stanley-a-new-theme-for-jaws/</guid><description>&lt;p>I&amp;rsquo;ve finished hacking together a new theme for &lt;a href="http://jaws-project.com/">Jaws&lt;/a>
+blocks and modules in the future. Until then, good luck and make me proud!&lt;/p></description><summary>Standing down from the Minerva project</summary></item><item><title>Introducing Stanley, a new theme for Jaws</title><link>https://blog.rthur.me/posts/introducing-stanley-a-new-theme-for-jaws/</link><pubDate>Fri, 12 Aug 2005 09:29:53 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/introducing-stanley-a-new-theme-for-jaws/</guid><description>&lt;p>I&amp;rsquo;ve finished hacking together a new theme for &lt;a href="http://jaws-project.com/">Jaws&lt;/a>
 0.5.x, which I have named Stanley, and is now the default theme on this site.
 I&amp;rsquo;ve still got to fix a couple of bugs and make sure that it is compatible with
 browsers other than Firefox. I wanted a theme which was crisp and clean, but

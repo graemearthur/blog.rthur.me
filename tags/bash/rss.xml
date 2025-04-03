@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bash on Wimpy's World</title><link>https://wimpysworld.com/tags/bash/</link><description>Recent content in Bash on Wimpy's World</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>martin@wimpress.com (Martin Wimpress)</managingEditor><webMaster>martin@wimpress.com (Martin Wimpress)</webMaster><lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wimpysworld.com/tags/bash/rss.xml" rel="self" type="application/rss+xml"/><item><title>machinespawn</title><link>https://wimpysworld.com/projects/machinespawn/</link><pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/machinespawn/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a> is a wrapper for
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bash on Arthur’s Almanac</title><link>https://blog.rthur.me/tags/bash/</link><description>Recent content in Bash on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/tags/bash/rss.xml" rel="self" type="application/rss+xml"/><item><title>machinespawn</title><link>https://blog.rthur.me/projects/machinespawn/</link><pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/machinespawn/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a> is a wrapper for
 &lt;code>machinectl&lt;/code> and &lt;code>systemd-nspawn&lt;/code> to creating and managing containers; primarily
 focused at local development environment and CI/CD with a heavy emphasis on
 caching.&lt;/p>
@@ -6,14 +6,14 @@ caching.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/machinespawn">machinespawn&lt;/a>&lt;/li>
 &lt;li>Date: October 2022 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Quickly stand up systemd-nspawn containers for development or CI/CD</summary></item><item><title>deb-get</title><link>https://wimpysworld.com/projects/deb-get/</link><pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/deb-get/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a> makes it easy to install and
+&lt;/ul></description><summary>Quickly stand up systemd-nspawn containers for development or CI/CD</summary></item><item><title>deb-get</title><link>https://blog.rthur.me/projects/deb-get/</link><pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/deb-get/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a> makes it easy to install and
 update .debs published in 3rd party apt repositories or made available via
 direct download on websites or GitHub release pages.&lt;/p>
 &lt;ul>
 &lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/deb-get">deb-get&lt;/a>&lt;/li>
 &lt;li>Date: April 2022 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>apt-get functionality for .debs published in GitHub release or 3rd party repositories</summary></item><item><title>Retro Home</title><link>https://wimpysworld.com/projects/retro-home/</link><pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/retro-home/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a> is custom Raspberry Pi
+&lt;/ul></description><summary>apt-get functionality for .debs published in GitHub release or 3rd party repositories</summary></item><item><title>Retro Home</title><link>https://blog.rthur.me/projects/retro-home/</link><pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/retro-home/</guid><description>&lt;p>&lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a> is custom Raspberry Pi
 operating system purpose built for retro gaming. Built with
 &lt;a href="https://ubuntu.com/">Ubuntu&lt;/a> and using the minimalist emulator frontend
 &lt;a href="https://ludo.libretro.com/">Ludo&lt;/a> it supports most classic consoles from Atari,
@@ -25,7 +25,7 @@ are supported (with more in the works) using bespoke GPIO drivers.&lt;/p>
 &lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/retro-home">Retro Home&lt;/a>&lt;/li>
 &lt;li>Date: July 2020 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>A retro-gaming operating system for Raspberry Pi built with Ubuntu and Ludo</summary></item><item><title>Rolling Rhino</title><link>https://wimpysworld.com/projects/rolling-rhino/</link><pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/rolling-rhino/</guid><description>&lt;p>Simple shell script to convert Ubuntu into a &lt;em>&amp;ldquo;rolling release&amp;rdquo;&lt;/em> that tracks the
+&lt;/ul></description><summary>A retro-gaming operating system for Raspberry Pi built with Ubuntu and Ludo</summary></item><item><title>Rolling Rhino</title><link>https://blog.rthur.me/projects/rolling-rhino/</link><pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/rolling-rhino/</guid><description>&lt;p>Simple shell script to convert Ubuntu into a &lt;em>&amp;ldquo;rolling release&amp;rdquo;&lt;/em> that tracks the
 &lt;code>devel&lt;/code> series; &lt;strong>for the toughest of Ubuntu users&lt;/strong>.&lt;/p>
 &lt;p>This project has served its purpose. It inspired another group of developers to
 create a &lt;a href="https://rollingrhino.org/">fully fledged Ubuntu Rolling Rhino distro&lt;/a>.&lt;/p>
@@ -33,14 +33,14 @@ create a &lt;a href="https://rollingrhino.org/">fully fledged Ubuntu Rolling Rhi
 &lt;li>Organisation: &lt;a href="https://github.com/wimpysworld/rolling-rhino">Rolling Rhino&lt;/a>&lt;/li>
 &lt;li>Date: March 2020 - November 2022&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Convert Ubuntu into a rolling release</summary></item><item><title>Quickemu</title><link>https://wimpysworld.com/projects/quickemu/</link><pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/projects/quickemu/</guid><description>&lt;p>Quickly create and run highly optimised desktop virtual machines for Linux,
+&lt;/ul></description><summary>Convert Ubuntu into a rolling release</summary></item><item><title>Quickemu</title><link>https://blog.rthur.me/projects/quickemu/</link><pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/quickemu/</guid><description>&lt;p>Quickly create and run highly optimised desktop virtual machines for Linux,
 macOS and Windows; with just two commands. You decide what operating system you
 want to run and &lt;a href="https://github.com/quickemu-project/quickemu">Quickemu&lt;/a> will figure out the best way to do it for you&lt;/p>
 &lt;ul>
 &lt;li>Organisation: &lt;a href="https://github.com/quickemu-project">Quickemu Project&lt;/a>&lt;/li>
 &lt;li>Date: March 2020 - date&lt;/li>
 &lt;li>Role: Project Lead&lt;/li>
-&lt;/ul></description><summary>Quickly create and run optimised Windows, macOS and Linux virtual machines</summary></item><item><title>Arch Linux Angel</title><link>https://wimpysworld.com/posts/arch-linux-angel/</link><pubDate>Tue, 15 May 2012 11:12:13 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/arch-linux-angel/</guid><description>&lt;p>I&amp;rsquo;ve been working a shell script for Arch Linux that automatically configures
+&lt;/ul></description><summary>Quickly create and run optimised Windows, macOS and Linux virtual machines</summary></item><item><title>Arch Linux Angel</title><link>https://blog.rthur.me/posts/arch-linux-angel/</link><pubDate>Tue, 15 May 2012 11:12:13 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/arch-linux-angel/</guid><description>&lt;p>I&amp;rsquo;ve been working a shell script for Arch Linux that automatically configures
 my preferred GNOME 3 setup on my netbook, laptops and workstations. The main
 features are:&lt;/p>
 &lt;ul>
@@ -63,7 +63,7 @@ below to see an example run of Arch Angel.&lt;/p>
 id='shelr_record_4fb2223c96608047be00010e' scrolling='no'
 src='http://shelr.tv/records/4fb2223c96608047be00010e/embed' style='border: 0'
 width='634' />
---></description><summary>Automated scripted installs of Arch Linux</summary></item><item><title>Install Sun Java 6 JRE and JDK from .deb packages</title><link>https://wimpysworld.com/posts/install-sun-java-6-jre-and-jdk-from-deb-packages/</link><pubDate>Mon, 16 Jan 2012 13:20:05 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/install-sun-java-6-jre-and-jdk-from-deb-packages/</guid><description>&lt;p>&lt;a href="https://canonical.com">Canonical&lt;/a> disabled my Java PPA at the end of last week.
+--></description><summary>Automated scripted installs of Arch Linux</summary></item><item><title>Install Sun Java 6 JRE and JDK from .deb packages</title><link>https://blog.rthur.me/posts/install-sun-java-6-jre-and-jdk-from-deb-packages/</link><pubDate>Mon, 16 Jan 2012 13:20:05 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/install-sun-java-6-jre-and-jdk-from-deb-packages/</guid><description>&lt;p>&lt;a href="https://canonical.com">Canonical&lt;/a> disabled my Java PPA at the end of last week.
 So I&amp;rsquo;ve developed another solution for installing Java on Ubuntu which doesn&amp;rsquo;t
 infringe any copyrights, licenses, terms of use or CoC&amp;rsquo;s. However, by running
 this script to download Java you acknowledge that you have read and accepted the
@@ -88,14 +88,14 @@ allowtransparency="true" frameborder="0" scrolling="0" width="260px" height="30p
 &lt;p>Please read the &lt;a href="https://github.com/flexiondotorg/oab-java6/blob/master/README.rst">README&lt;/a>
 file for a more detailed explanation of how the script works and how to use it.
 If anyone has any problems, then please submit a ticket on my
-&lt;a href="https://github.com/flexiondotorg/oab-java6/issues">Issue Tracker&lt;/a>.&lt;/p></description><summary>An alternative approach to install Sun Java 6 on Ubuntu</summary></item><item><title>Bash script to retrieve Ubuntu codenames and versions</title><link>https://wimpysworld.com/posts/bash-script-to-retrieve-ubuntu-codenames-and-versions/</link><pubDate>Wed, 16 Mar 2011 13:44:54 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/bash-script-to-retrieve-ubuntu-codenames-and-versions/</guid><description>&lt;p>I&amp;rsquo;m working a script to automatically backport &lt;a href="http://www.debian.org">Debian&lt;/a>
+&lt;a href="https://github.com/flexiondotorg/oab-java6/issues">Issue Tracker&lt;/a>.&lt;/p></description><summary>An alternative approach to install Sun Java 6 on Ubuntu</summary></item><item><title>Bash script to retrieve Ubuntu codenames and versions</title><link>https://blog.rthur.me/posts/bash-script-to-retrieve-ubuntu-codenames-and-versions/</link><pubDate>Wed, 16 Mar 2011 13:44:54 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/bash-script-to-retrieve-ubuntu-codenames-and-versions/</guid><description>&lt;p>I&amp;rsquo;m working a script to automatically backport &lt;a href="http://www.debian.org">Debian&lt;/a>
 packages to Ubuntu. I needed a way to get a list of currently supported/active
 Ubuntu releases by codename or version. Here is how I do it.&lt;/p>
 &lt;h2 id="get-a-list-of-ubuntu-codenames">Get a list of Ubuntu codenames&lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>wget -q http://cdimage.ubuntu.com/releases/ -O - | sed -e :a -e &lt;span style="color:#87ceeb">&amp;#39;s/&amp;lt;[^&amp;gt;]*&amp;gt;//g;/&amp;lt;/N;//ba&amp;#39;&lt;/span> | grep &lt;span style="color:#87ceeb">&amp;#39;^[[:space:]][a-z]&amp;#39;&lt;/span> | sed &lt;span style="color:#87ceeb">&amp;#39;s/\///g&amp;#39;&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="get-a-list-of-ubuntu-versions">Get a list of Ubuntu versions&lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>wget -q http://cdimage.ubuntu.com/releases/ -O - | sed -e :a -e &lt;span style="color:#87ceeb">&amp;#39;s/&amp;lt;[^&amp;gt;]*&amp;gt;//g;/&amp;lt;/N;//ba&amp;#39;&lt;/span> | grep &lt;span style="color:#87ceeb">&amp;#39;^[[:space:]][1-9]&amp;#39;&lt;/span> | sed &lt;span style="color:#87ceeb">&amp;#39;s/\///g&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Get a list of Ubuntu codename and version with wget</summary></item><item><title>DVD to MPEG2-TS Ripper for Linux</title><link>https://wimpysworld.com/posts/dvd-to-mpeg2-ts-ripper-for-linux/</link><pubDate>Fri, 04 Dec 2009 07:53:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/dvd-to-mpeg2-ts-ripper-for-linux/</guid><description>&lt;p>A while back I released a script that rips a DVD to MPEG-2 PS allowing the
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description><summary>Get a list of Ubuntu codename and version with wget</summary></item><item><title>DVD to MPEG2-TS Ripper for Linux</title><link>https://blog.rthur.me/posts/dvd-to-mpeg2-ts-ripper-for-linux/</link><pubDate>Fri, 04 Dec 2009 07:53:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/dvd-to-mpeg2-ts-ripper-for-linux/</guid><description>&lt;p>A while back I released a script that rips a DVD to MPEG-2 PS allowing the
 user to select one audio stream and one subtitle stream. Optionally the video
 can be requantised, using M2VRequantiser and an ISO image created. If creating
 an ISO image the chapters are also preserved from the original DVD. You can
@@ -125,7 +125,7 @@ playback via DLNA on the PS3. Some things to be aware of:&lt;/p>
 release page below.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/DVD-to-MPG">DVD-to-MPG&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Ripping DVDs to MPEG-2 Transport Streams for DLNA streaming</summary></item><item><title>MKV to MPEG-4 conversion script</title><link>https://wimpysworld.com/posts/mkv-to-mpeg-4-conversion-script/</link><pubDate>Thu, 27 Aug 2009 20:48:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mkv-to-mpeg-4-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a script that
+&lt;/ul></description><summary>Ripping DVDs to MPEG-2 Transport Streams for DLNA streaming</summary></item><item><title>MKV to MPEG-4 conversion script</title><link>https://blog.rthur.me/posts/mkv-to-mpeg-4-conversion-script/</link><pubDate>Thu, 27 Aug 2009 20:48:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mkv-to-mpeg-4-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a script that
 creates a PlayStation 3 or Xbox 360 compatible MPEG-4 from Matroska providing
 the video is H.264 and audio is AC3 or DTS.&lt;/p>
 &lt;p>Xbox 360 compatibility requires that audio is forcibly downmixed to stereo
@@ -146,7 +146,7 @@ should work on any other Linux/Unix flavour and possibly Mac OS X providing you
 have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-MP4">MKV-to-MP4&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Creating PlayStation 3 and Xbox 360 compatible MPEG-4 videos</summary></item><item><title>MP3Gainer - Apply ReplayGain to your entire music library</title><link>https://wimpysworld.com/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</link><pubDate>Fri, 14 Aug 2009 15:25:45 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</guid><description>&lt;p>Work has been crazy. We&amp;rsquo;re moving house. Hence, not much time for geeky stuff
+&lt;/ul></description><summary>Creating PlayStation 3 and Xbox 360 compatible MPEG-4 videos</summary></item><item><title>MP3Gainer - Apply ReplayGain to your entire music library</title><link>https://blog.rthur.me/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</link><pubDate>Fri, 14 Aug 2009 15:25:45 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</guid><description>&lt;p>Work has been crazy. We&amp;rsquo;re moving house. Hence, not much time for geeky stuff
 recently. I&amp;rsquo;ve been putting this off for ages, I need to &amp;ldquo;normalise&amp;rdquo; the
 volume of my MP3 music music library. Not all CDs sound equally loud. Whilst
 different musical moods require that some tracks should sound louder than
@@ -179,7 +179,7 @@ me! This script works on Ubuntu, should work on any other Linux/Unix
 flavour and possibly Mac OS X providing you have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MP3Gainer">MP3Gainer&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Volume normalise an entire MP3 library the right way</summary></item><item><title>PlayStation 3 compatible MPEG-4 container repacker</title><link>https://wimpysworld.com/posts/playstation-3-compatible-mpeg-4-container-repacker/</link><pubDate>Thu, 23 Apr 2009 17:09:11 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/playstation-3-compatible-mpeg-4-container-repacker/</guid><description>&lt;p>Some of my mobile phones have been able to record video clips in MPEG-4
+&lt;/ul></description><summary>Volume normalise an entire MP3 library the right way</summary></item><item><title>PlayStation 3 compatible MPEG-4 container repacker</title><link>https://blog.rthur.me/posts/playstation-3-compatible-mpeg-4-container-repacker/</link><pubDate>Thu, 23 Apr 2009 17:09:11 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/playstation-3-compatible-mpeg-4-container-repacker/</guid><description>&lt;p>Some of my mobile phones have been able to record video clips in MPEG-4
 format. Sadly some of these clips don&amp;rsquo;t play on the PlayStation 3 and those
 that do stutter terribly. I use &lt;a href="http://po-ru.com/projects/iplayer-downloader/">iplayer-dl&lt;/a>
 to download content from BBC iPlayer. Sadly the files are in a Quicktime
@@ -193,7 +193,7 @@ other Linux/Unix flavour and possibly Mac OS X providing you have the required
 tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MP4-Packer">MP4-Repacker&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Automatically repack MPEG-4 video files for PlayStation 3 compatibility</summary></item><item><title>MKV to M2TS conversion script</title><link>https://wimpysworld.com/posts/mkv-to-m2ts-conversion-script/</link><pubDate>Thu, 23 Apr 2009 17:00:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mkv-to-m2ts-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a
+&lt;/ul></description><summary>Automatically repack MPEG-4 video files for PlayStation 3 compatibility</summary></item><item><title>MKV to M2TS conversion script</title><link>https://blog.rthur.me/posts/mkv-to-m2ts-conversion-script/</link><pubDate>Thu, 23 Apr 2009 17:00:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mkv-to-m2ts-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a
 script that creates a PlayStation 3 compatible M2TS from a MKV,
 assuming video is H.264 and audio is AC3 or DTS with as little
 re-encoding as possible. Any subtitles in the MKV are preserved
@@ -207,7 +207,7 @@ DTS audio is transcoded to AC3.&lt;/p>
 possibly Mac OS X providing you have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-M2TS">MKV-to-M2TS&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Convert Matroska file to MPEG2-TS for PlayStation 3 compatibility</summary></item><item><title>DVD to MPEG2-PS Ripper for Linux</title><link>https://wimpysworld.com/posts/dvd-to-mpeg2-ps-ripper-for-linux/</link><pubDate>Thu, 23 Apr 2009 16:50:31 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/dvd-to-mpeg2-ps-ripper-for-linux/</guid><description>&lt;p>Every so often I find myself in looking through the ex-rental DVD &lt;em>&amp;ldquo;bargain
+&lt;/ul></description><summary>Convert Matroska file to MPEG2-TS for PlayStation 3 compatibility</summary></item><item><title>DVD to MPEG2-PS Ripper for Linux</title><link>https://blog.rthur.me/posts/dvd-to-mpeg2-ps-ripper-for-linux/</link><pubDate>Thu, 23 Apr 2009 16:50:31 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/dvd-to-mpeg2-ps-ripper-for-linux/</guid><description>&lt;p>Every so often I find myself in looking through the ex-rental DVD &lt;em>&amp;ldquo;bargain
 bin&amp;rdquo;&lt;/em>. Quite often I find something I consider a bargain. However, the
 experience of watching an ex-rental DVD is typically ruined by the various
 trailers and marketing guff at the start which you can&amp;rsquo;t skip. My wife hates
@@ -223,7 +223,7 @@ image created. If creating an ISO image the chapters are also preserved from
 the original DVD. I&amp;rsquo;ve lobbed my code into GitHub.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/DVD-to-MPG">DVD-to-MPG&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Ripping DVDs to MPEG2-PS for streaming via UPnP</summary></item><item><title>Converting Matroska to M2TS for PS3 and Mediatomb</title><link>https://wimpysworld.com/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</link><pubDate>Wed, 15 Apr 2009 16:19:24 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</guid><description>&lt;p>It has been a while since I last posted, mainly due to not having Internet
+&lt;/ul></description><summary>Ripping DVDs to MPEG2-PS for streaming via UPnP</summary></item><item><title>Converting Matroska to M2TS for PS3 and Mediatomb</title><link>https://blog.rthur.me/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</link><pubDate>Wed, 15 Apr 2009 16:19:24 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</guid><description>&lt;p>It has been a while since I last posted, mainly due to not having Internet
 access at home for a month. Anyway, I&amp;rsquo;m online again and I have been tinkering
 with various projects the most recent of which is Matroska conversion (again).&lt;/p>
 &lt;h2 id="matroska-to-mp4">Matroska to MP4&lt;/h2>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home Cinema on Wimpy's World</title><link>https://wimpysworld.com/categories/home-cinema/</link><description>Recent content in Home Cinema on Wimpy's World</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>martin@wimpress.com (Martin Wimpress)</managingEditor><webMaster>martin@wimpress.com (Martin Wimpress)</webMaster><lastBuildDate>Sun, 29 Jun 2014 12:00:00 +0000</lastBuildDate><atom:link href="https://wimpysworld.com/categories/home-cinema/rss.xml" rel="self" type="application/rss+xml"/><item><title>Humax Foxsat HDR Custom Firmware</title><link>https://wimpysworld.com/posts/humax-foxsat-hdr-custom-firmware/</link><pubDate>Sun, 29 Jun 2014 12:00:00 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/humax-foxsat-hdr-custom-firmware/</guid><description>&lt;p>I&amp;rsquo;ve had these notes kicking around for absolutely ages. I haven&amp;rsquo;t checked to
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home Cinema on Arthur’s Almanac</title><link>https://blog.rthur.me/categories/home-cinema/</link><description>Recent content in Home Cinema on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Sun, 29 Jun 2014 12:00:00 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/categories/home-cinema/rss.xml" rel="self" type="application/rss+xml"/><item><title>Humax Foxsat HDR Custom Firmware</title><link>https://blog.rthur.me/posts/humax-foxsat-hdr-custom-firmware/</link><pubDate>Sun, 29 Jun 2014 12:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/humax-foxsat-hdr-custom-firmware/</guid><description>&lt;p>I&amp;rsquo;ve had these notes kicking around for absolutely ages. I haven&amp;rsquo;t checked to
 see if this stuff is still accurate because during the last 12 months or so our
 viewing habits have changed and we almost exclusively watch streamed content now.&lt;/p>
 &lt;p>That said, my father-in-law gave us a &lt;a href="http://www.amazon.co.uk/Humax-FOXSAT-HDR-Freesat-Digital-Recorder/dp/B001L5YU36">Humax Foxsat HDR&lt;/a>
@@ -58,7 +58,7 @@ be presented in the normal EPG using the Channel Editor above.&lt;/p>
 automatically applied. When an over the air update is applied the Humax still
 works, but the web interface and all the add-ons stop working. The can be solved
 by waiting for the custom firmware to be updated (which happen remarkably quickly)
-and then re-flashing the custom firmware. All the add-ons should start working again.&lt;/p></description><summary>Hard disk upgrades and custom firmware on the Humx Foxsat HDR</summary></item><item><title>Plex Media Server on Open Media Vault</title><link>https://wimpysworld.com/posts/plex-media-server-on-open-media-vault/</link><pubDate>Tue, 27 Aug 2013 21:11:43 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/plex-media-server-on-open-media-vault/</guid><description>&lt;p>I&amp;rsquo;ve recently started using &lt;a href="http://www.plexapp.com">Plex Media Server&lt;/a> to
+and then re-flashing the custom firmware. All the add-ons should start working again.&lt;/p></description><summary>Hard disk upgrades and custom firmware on the Humx Foxsat HDR</summary></item><item><title>Plex Media Server on Open Media Vault</title><link>https://blog.rthur.me/posts/plex-media-server-on-open-media-vault/</link><pubDate>Tue, 27 Aug 2013 21:11:43 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/plex-media-server-on-open-media-vault/</guid><description>&lt;p>I&amp;rsquo;ve recently started using &lt;a href="http://www.plexapp.com">Plex Media Server&lt;/a> to
 handle most media streaming duties around the house. I run in on
 &lt;a href="http://www.openmediavault.org">Open Media Vault&lt;/a> 0.5.x. At the time of writing
 Open Media Vault is based on &lt;a href="http://www.debian.org">Debian&lt;/a> (Squeeze) 6.0.&lt;/p>
@@ -89,7 +89,7 @@ the PleXBMC plug-in on Raspberry Pi.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://forums.plexapp.com/index.php/topic/51427-plex-media-server-for-debian/">http://forums.plexapp.com/index.php/topic/51427-plex-media-server-for-debian/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://forums.plexapp.com/index.php/topic/48865-debian-package/">http://forums.plexapp.com/index.php/topic/48865-debian-package/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Installing Plex Media Server on Open Media Vault (Squeeze) 6.0</summary></item><item><title>Setting up MiniDLNA on Open Media Vault</title><link>https://wimpysworld.com/posts/setting-up-minidlna-on-open-media-vault/</link><pubDate>Mon, 26 Aug 2013 21:49:09 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/setting-up-minidlna-on-open-media-vault/</guid><description>&lt;p>I have &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a> running on a
+&lt;/ul></description><summary>Installing Plex Media Server on Open Media Vault (Squeeze) 6.0</summary></item><item><title>Setting up MiniDLNA on Open Media Vault</title><link>https://blog.rthur.me/posts/setting-up-minidlna-on-open-media-vault/</link><pubDate>Mon, 26 Aug 2013 21:49:09 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/setting-up-minidlna-on-open-media-vault/</guid><description>&lt;p>I have &lt;a href="http://www.openmediavault.org/">Open Media Vault&lt;/a> running on a
 &lt;a href="http://www8.hp.com/uk/en/products/proliant-servers/product-detail.html?oid=5336624">HP ProLiant MicroServer G7 N54L&lt;/a>.&lt;/p>
 &lt;p>OpenMediaVault (OMV) is a network attached storage (NAS) solution based on
 &lt;a href="http://www.debian.org">Debian&lt;/a> Linux. At the time of writing OMV 0.5.x is
@@ -126,7 +126,7 @@ guide you.&lt;/p>
 &lt;li>&lt;a href="http://blog.steve.org.uk/minidlna_is_now_packaged.html">http://blog.steve.org.uk/minidlna_is_now_packaged.html&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://packages.steve.org.uk/minidlna/">http://packages.steve.org.uk/minidlna/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://sourceforge.net/projects/minidlna/">http://sourceforge.net/projects/minidlna/&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Music streaming with MiniDLNA on Open Media Vault</summary></item><item><title>DVD to MPEG2-TS Ripper for Linux</title><link>https://wimpysworld.com/posts/dvd-to-mpeg2-ts-ripper-for-linux/</link><pubDate>Fri, 04 Dec 2009 07:53:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/dvd-to-mpeg2-ts-ripper-for-linux/</guid><description>&lt;p>A while back I released a script that rips a DVD to MPEG-2 PS allowing the
+&lt;/ul></description><summary>Music streaming with MiniDLNA on Open Media Vault</summary></item><item><title>DVD to MPEG2-TS Ripper for Linux</title><link>https://blog.rthur.me/posts/dvd-to-mpeg2-ts-ripper-for-linux/</link><pubDate>Fri, 04 Dec 2009 07:53:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/dvd-to-mpeg2-ts-ripper-for-linux/</guid><description>&lt;p>A while back I released a script that rips a DVD to MPEG-2 PS allowing the
 user to select one audio stream and one subtitle stream. Optionally the video
 can be requantised, using M2VRequantiser and an ISO image created. If creating
 an ISO image the chapters are also preserved from the original DVD. You can
@@ -156,7 +156,7 @@ playback via DLNA on the PS3. Some things to be aware of:&lt;/p>
 release page below.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/DVD-to-MPG">DVD-to-MPG&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Ripping DVDs to MPEG-2 Transport Streams for DLNA streaming</summary></item><item><title>PS3, Mediatomb, Multi Zone Music streaming</title><link>https://wimpysworld.com/posts/ps3-mediatomb-multi-zone-music-streaming/</link><pubDate>Sat, 26 Sep 2009 11:02:52 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/ps3-mediatomb-multi-zone-music-streaming/</guid><description>&lt;p>PlayStation 3 firmware 3.00 added a new feature I was very excited about,
+&lt;/ul></description><summary>Ripping DVDs to MPEG-2 Transport Streams for DLNA streaming</summary></item><item><title>PS3, Mediatomb, Multi Zone Music streaming</title><link>https://blog.rthur.me/posts/ps3-mediatomb-multi-zone-music-streaming/</link><pubDate>Sat, 26 Sep 2009 11:02:52 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ps3-mediatomb-multi-zone-music-streaming/</guid><description>&lt;p>PlayStation 3 firmware 3.00 added a new feature I was very excited about,
 multi-av output. Today I finally got round to re-wiring the home cinema system
 to make use of this new feature. I now have the PS3 streaming music from
 &lt;a href="http://mediatomb.cc/">MediaTomb&lt;/a> with my A/V receiver sending audio to Zone
@@ -166,7 +166,7 @@ interconnects.&lt;/p>
 system which are often in the kitchen but also moved outside for parties. If
 Sony could just add Skype to the PS3 and allow the PSP Remote Play to output
 audio to both the PS3 and PSP (rather than just one of them) I would be very
-happy indeed.&lt;/p></description><summary>Multi Zone music streaming with the PlayStation 3</summary></item><item><title>IMDB Film Summary as a MPEG-2 video, Part 2</title><link>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video-part-2/</link><pubDate>Sun, 20 Sep 2009 08:48:36 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video-part-2/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
+happy indeed.&lt;/p></description><summary>Multi Zone music streaming with the PlayStation 3</summary></item><item><title>IMDB Film Summary as a MPEG-2 video, Part 2</title><link>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video-part-2/</link><pubDate>Sun, 20 Sep 2009 08:48:36 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video-part-2/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
 superior &lt;a href="http://www.bunyipawonga.org/sheetmaker/index.php">Sheet Maker for Linux&lt;/a>&lt;/strong>.&lt;/p>
 &lt;p>Back in April I released a script to create a MPEG video summarising a movie
 using data from IMDB, you can find the original post in the URL below to learn
@@ -212,7 +212,7 @@ to add all that good stuff to IMDB-to-MPEG, so if you like the sound of what
 Eric has been up to hop over to his site to find out more.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://www.ypass.net/blog/2009/07/netflix-has-a-developer-api/">Netflix Has a Developer API&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Improvements to film summaries embedded in videos</summary></item><item><title>MKV to MPEG-4 conversion script</title><link>https://wimpysworld.com/posts/mkv-to-mpeg-4-conversion-script/</link><pubDate>Thu, 27 Aug 2009 20:48:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mkv-to-mpeg-4-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a script that
+&lt;/ul></description><summary>Improvements to film summaries embedded in videos</summary></item><item><title>MKV to MPEG-4 conversion script</title><link>https://blog.rthur.me/posts/mkv-to-mpeg-4-conversion-script/</link><pubDate>Thu, 27 Aug 2009 20:48:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mkv-to-mpeg-4-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a script that
 creates a PlayStation 3 or Xbox 360 compatible MPEG-4 from Matroska providing
 the video is H.264 and audio is AC3 or DTS.&lt;/p>
 &lt;p>Xbox 360 compatibility requires that audio is forcibly downmixed to stereo
@@ -233,7 +233,7 @@ should work on any other Linux/Unix flavour and possibly Mac OS X providing you
 have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-MP4">MKV-to-MP4&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Creating PlayStation 3 and Xbox 360 compatible MPEG-4 videos</summary></item><item><title>MP3Gainer - Apply ReplayGain to your entire music library</title><link>https://wimpysworld.com/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</link><pubDate>Fri, 14 Aug 2009 15:25:45 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</guid><description>&lt;p>Work has been crazy. We&amp;rsquo;re moving house. Hence, not much time for geeky stuff
+&lt;/ul></description><summary>Creating PlayStation 3 and Xbox 360 compatible MPEG-4 videos</summary></item><item><title>MP3Gainer - Apply ReplayGain to your entire music library</title><link>https://blog.rthur.me/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</link><pubDate>Fri, 14 Aug 2009 15:25:45 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mp3gainer-apply-replaygain-to-your-entire-music-library/</guid><description>&lt;p>Work has been crazy. We&amp;rsquo;re moving house. Hence, not much time for geeky stuff
 recently. I&amp;rsquo;ve been putting this off for ages, I need to &amp;ldquo;normalise&amp;rdquo; the
 volume of my MP3 music music library. Not all CDs sound equally loud. Whilst
 different musical moods require that some tracks should sound louder than
@@ -266,7 +266,7 @@ me! This script works on Ubuntu, should work on any other Linux/Unix
 flavour and possibly Mac OS X providing you have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MP3Gainer">MP3Gainer&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Volume normalise an entire MP3 library the right way</summary></item><item><title>PlayStation 3 compatible MPEG-4 container repacker</title><link>https://wimpysworld.com/posts/playstation-3-compatible-mpeg-4-container-repacker/</link><pubDate>Thu, 23 Apr 2009 17:09:11 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/playstation-3-compatible-mpeg-4-container-repacker/</guid><description>&lt;p>Some of my mobile phones have been able to record video clips in MPEG-4
+&lt;/ul></description><summary>Volume normalise an entire MP3 library the right way</summary></item><item><title>PlayStation 3 compatible MPEG-4 container repacker</title><link>https://blog.rthur.me/posts/playstation-3-compatible-mpeg-4-container-repacker/</link><pubDate>Thu, 23 Apr 2009 17:09:11 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/playstation-3-compatible-mpeg-4-container-repacker/</guid><description>&lt;p>Some of my mobile phones have been able to record video clips in MPEG-4
 format. Sadly some of these clips don&amp;rsquo;t play on the PlayStation 3 and those
 that do stutter terribly. I use &lt;a href="http://po-ru.com/projects/iplayer-downloader/">iplayer-dl&lt;/a>
 to download content from BBC iPlayer. Sadly the files are in a Quicktime
@@ -280,7 +280,7 @@ other Linux/Unix flavour and possibly Mac OS X providing you have the required
 tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MP4-Packer">MP4-Repacker&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Automatically repack MPEG-4 video files for PlayStation 3 compatibility</summary></item><item><title>MKV to M2TS conversion script</title><link>https://wimpysworld.com/posts/mkv-to-m2ts-conversion-script/</link><pubDate>Thu, 23 Apr 2009 17:00:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mkv-to-m2ts-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a
+&lt;/ul></description><summary>Automatically repack MPEG-4 video files for PlayStation 3 compatibility</summary></item><item><title>MKV to M2TS conversion script</title><link>https://blog.rthur.me/posts/mkv-to-m2ts-conversion-script/</link><pubDate>Thu, 23 Apr 2009 17:00:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mkv-to-m2ts-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a
 script that creates a PlayStation 3 compatible M2TS from a MKV,
 assuming video is H.264 and audio is AC3 or DTS with as little
 re-encoding as possible. Any subtitles in the MKV are preserved
@@ -294,7 +294,7 @@ DTS audio is transcoded to AC3.&lt;/p>
 possibly Mac OS X providing you have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-M2TS">MKV-to-M2TS&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Convert Matroska file to MPEG2-TS for PlayStation 3 compatibility</summary></item><item><title>DVD to MPEG2-PS Ripper for Linux</title><link>https://wimpysworld.com/posts/dvd-to-mpeg2-ps-ripper-for-linux/</link><pubDate>Thu, 23 Apr 2009 16:50:31 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/dvd-to-mpeg2-ps-ripper-for-linux/</guid><description>&lt;p>Every so often I find myself in looking through the ex-rental DVD &lt;em>&amp;ldquo;bargain
+&lt;/ul></description><summary>Convert Matroska file to MPEG2-TS for PlayStation 3 compatibility</summary></item><item><title>DVD to MPEG2-PS Ripper for Linux</title><link>https://blog.rthur.me/posts/dvd-to-mpeg2-ps-ripper-for-linux/</link><pubDate>Thu, 23 Apr 2009 16:50:31 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/dvd-to-mpeg2-ps-ripper-for-linux/</guid><description>&lt;p>Every so often I find myself in looking through the ex-rental DVD &lt;em>&amp;ldquo;bargain
 bin&amp;rdquo;&lt;/em>. Quite often I find something I consider a bargain. However, the
 experience of watching an ex-rental DVD is typically ruined by the various
 trailers and marketing guff at the start which you can&amp;rsquo;t skip. My wife hates
@@ -310,7 +310,7 @@ image created. If creating an ISO image the chapters are also preserved from
 the original DVD. I&amp;rsquo;ve lobbed my code into GitHub.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/DVD-to-MPG">DVD-to-MPG&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Ripping DVDs to MPEG2-PS for streaming via UPnP</summary></item><item><title>M2VRequantiser for 32-bit and 64-bit Linux</title><link>https://wimpysworld.com/posts/m2vrequantiser-for-32-bit-and-64-bit-linux/</link><pubDate>Thu, 23 Apr 2009 16:47:20 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/m2vrequantiser-for-32-bit-and-64-bit-linux/</guid><description>&lt;p>I recently discovered that &lt;code>tcrequant&lt;/code> (part of the
+&lt;/ul></description><summary>Ripping DVDs to MPEG2-PS for streaming via UPnP</summary></item><item><title>M2VRequantiser for 32-bit and 64-bit Linux</title><link>https://blog.rthur.me/posts/m2vrequantiser-for-32-bit-and-64-bit-linux/</link><pubDate>Thu, 23 Apr 2009 16:47:20 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/m2vrequantiser-for-32-bit-and-64-bit-linux/</guid><description>&lt;p>I recently discovered that &lt;code>tcrequant&lt;/code> (part of the
 &lt;a href="http://http://www.transcoding.org/">transcode&lt;/a> suite of tools) has been
 deprecated. Worst still I found that when I ran &lt;code>tcrequant&lt;/code> on my 64-bit Linux
 workstation is was corrupting the video. See the links below for details.&lt;/p>
@@ -332,7 +332,7 @@ size is 1024000 bytes, by a factor of 1.25.&lt;/p>
 for me but I&amp;rsquo;d be interested to get your feedback.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://code.launchpad.net/~flexiondotorg/m2vrequantiser/trunk">M2VRequantiser&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Finding a MPEG-2 video requantising solution for Linux</summary></item><item><title>IMDB Film Summary as a MPEG-2 video</title><link>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video/</link><pubDate>Wed, 22 Apr 2009 18:00:07 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
+&lt;/ul></description><summary>Finding a MPEG-2 video requantising solution for Linux</summary></item><item><title>IMDB Film Summary as a MPEG-2 video</title><link>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video/</link><pubDate>Wed, 22 Apr 2009 18:00:07 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
 superior &lt;a href="http://www.bunyipawonga.org/sheetmaker/index.php">Sheet Maker for Linux&lt;/a>&lt;/strong>.&lt;/p>
 &lt;p>If you&amp;rsquo;ve read my blog before you&amp;rsquo;ll know I run Mediatomb DLNA server with my
 PlayStation 3 as the client, You&amp;rsquo;ll also know I am working towards importing my
@@ -386,7 +386,7 @@ the appropriate directory in &amp;lsquo;All&amp;rsquo;. For example.&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> `-- 8
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> `-- The_Usual_Suspects -&amp;gt; ../../All/The_Usual_Suspects
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>This code was lashed up in a few hours, it ain&amp;rsquo;t pretty but it works for me on
-my Ubuntu systems, maybe it&amp;rsquo;ll work for you too.&lt;/p></description><summary>Create film preview information for your UPnP server</summary></item><item><title>Converting Matroska to M2TS for PS3 and Mediatomb</title><link>https://wimpysworld.com/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</link><pubDate>Wed, 15 Apr 2009 16:19:24 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</guid><description>&lt;p>It has been a while since I last posted, mainly due to not having Internet
+my Ubuntu systems, maybe it&amp;rsquo;ll work for you too.&lt;/p></description><summary>Create film preview information for your UPnP server</summary></item><item><title>Converting Matroska to M2TS for PS3 and Mediatomb</title><link>https://blog.rthur.me/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</link><pubDate>Wed, 15 Apr 2009 16:19:24 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</guid><description>&lt;p>It has been a while since I last posted, mainly due to not having Internet
 access at home for a month. Anyway, I&amp;rsquo;m online again and I have been tinkering
 with various projects the most recent of which is Matroska conversion (again).&lt;/p>
 &lt;h2 id="matroska-to-mp4">Matroska to MP4&lt;/h2>
@@ -414,7 +414,7 @@ outside chance it will work on Mac OS X if you can get the required tools
 installed. Again, you can find my script on GitHub.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-M2TS">MPV-to-M2TS&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Fast conversion of Matroska video to MPEG2-TS</summary></item><item><title>Mediatomb 0.12 - Streaming audio and video around the house</title><link>https://wimpysworld.com/posts/mediatomb-0.12-streaming-audio-and-video-around-the-house/</link><pubDate>Sat, 07 Feb 2009 16:23:39 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mediatomb-0.12-streaming-audio-and-video-around-the-house/</guid><description>&lt;p>&lt;a href="http://mediatomb.cc/">Mediatomb&lt;/a> is an open source (GPL) UPnP MediaServer
+&lt;/ul></description><summary>Fast conversion of Matroska video to MPEG2-TS</summary></item><item><title>Mediatomb 0.12 - Streaming audio and video around the house</title><link>https://blog.rthur.me/posts/mediatomb-0.12-streaming-audio-and-video-around-the-house/</link><pubDate>Sat, 07 Feb 2009 16:23:39 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mediatomb-0.12-streaming-audio-and-video-around-the-house/</guid><description>&lt;p>&lt;a href="http://mediatomb.cc/">Mediatomb&lt;/a> is an open source (GPL) UPnP MediaServer
 with a nice web user interface, it allows you to stream your digital media
 through your home network and listen to/watch it on a variety of UPnP
 compatible devices, such as the PlayStation in my case.&lt;/p>
@@ -447,7 +447,7 @@ it sounds very cool. I&amp;rsquo;ve also created a script which queries IMDB to
 categorise our film library by genre and create summary information about
 each film in the library. I&amp;rsquo;ll be posting more about that soon. I haven&amp;rsquo;t
 finalised how we will integrate Photo management with Mediatomb yet, but that
-is that final piece in the puzzle.&lt;/p></description><summary>In home streaming via UPnP with Mediatomb</summary></item><item><title>Converting DVB-T to DVD Compliant MPEG-2</title><link>https://wimpysworld.com/posts/converting-dvb-t-to-dvd-compliant-mpeg-2/</link><pubDate>Thu, 22 Jan 2009 23:46:26 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/converting-dvb-t-to-dvd-compliant-mpeg-2/</guid><description>&lt;p>I am just about to clean up and convert another batch of programmes I have
+is that final piece in the puzzle.&lt;/p></description><summary>In home streaming via UPnP with Mediatomb</summary></item><item><title>Converting DVB-T to DVD Compliant MPEG-2</title><link>https://blog.rthur.me/posts/converting-dvb-t-to-dvd-compliant-mpeg-2/</link><pubDate>Thu, 22 Jan 2009 23:46:26 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/converting-dvb-t-to-dvd-compliant-mpeg-2/</guid><description>&lt;p>I am just about to clean up and convert another batch of programmes I have
 recorded from Freeview (DVB-T in the UK) so that I can add them to my
 DLNA Server. I thought I&amp;rsquo;d share the method I use on Ubuntu.&lt;/p>
 &lt;p>By clean up, I mean edit out any adverts and trim crap from the start and the
@@ -523,11 +523,11 @@ MPEG-PS file&lt;/em> in the &lt;code>Misc&lt;/code> menu.&lt;/p>
 &lt;li>&lt;a href="http://gopchop.org/index.php">http://gopchop.org/index.php&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://gopchop.sourceforge.net/">http://gopchop.sourceforge.net/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://www.rastersoft.com/programas/devede.html">http://www.rastersoft.com/programas/devede.html&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Export PlayTV recorded video from PlayStation 3</summary></item><item><title>DVD Box Sets - Extended Film Watching Session is Coming</title><link>https://wimpysworld.com/posts/dvd-box-sets-extended-film-watching-session-is-coming/</link><pubDate>Wed, 15 Feb 2006 12:25:47 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/dvd-box-sets-extended-film-watching-session-is-coming/</guid><description>&lt;p>Today I finally got around to ordering some stuff from Amazon.co.uk using the
+&lt;/ul></description><summary>Export PlayTV recorded video from PlayStation 3</summary></item><item><title>DVD Box Sets - Extended Film Watching Session is Coming</title><link>https://blog.rthur.me/posts/dvd-box-sets-extended-film-watching-session-is-coming/</link><pubDate>Wed, 15 Feb 2006 12:25:47 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/dvd-box-sets-extended-film-watching-session-is-coming/</guid><description>&lt;p>Today I finally got around to ordering some stuff from Amazon.co.uk using the
 vouchers I was given as present at Christmas. I have ordered The Matrix
 Trilogy and The Lord of the Rings Trilogy (Extended Edition Box Set) which I
 hope arrive before the weekend as my wife is away for a few days which should be
-enough time to get through both box sets 😄&lt;/p></description><summary>Planning some DVD binge viewing</summary></item><item><title>Panasonic Plasma Black Level Fluctuation Fix</title><link>https://wimpysworld.com/posts/panasonic-plasma-black-level-fluctuation-fix/</link><pubDate>Fri, 10 Feb 2006 02:48:54 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/panasonic-plasma-black-level-fluctuation-fix/</guid><description>&lt;p>I&amp;rsquo;ve noticed that the contrast levels on my Panasonic TH42-PHD8 plasma will
+enough time to get through both box sets 😄&lt;/p></description><summary>Planning some DVD binge viewing</summary></item><item><title>Panasonic Plasma Black Level Fluctuation Fix</title><link>https://blog.rthur.me/posts/panasonic-plasma-black-level-fluctuation-fix/</link><pubDate>Fri, 10 Feb 2006 02:48:54 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/panasonic-plasma-black-level-fluctuation-fix/</guid><description>&lt;p>I&amp;rsquo;ve noticed that the contrast levels on my Panasonic TH42-PHD8 plasma will
 suddenly increase during dark scenes and then drop back down to normal a
 fraction of a second later. This can be most distracting but as it only
 happens once or twice a week it hasn&amp;rsquo;t really bothered me. But, I found a
@@ -536,14 +536,14 @@ and fix this behaviour. I&amp;rsquo;m pleased to say it works perfectly. Here&am
 solution:&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://www.avforums.com/forums/showthread.php?t=286137">Panasonic Black Shift Problem/Solution&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Using service menus to fix the Panasonic TH42-PHD8</summary></item><item><title>PaceTwin USB Interface Modification</title><link>https://wimpysworld.com/posts/pacetwin-usb-interface-modification/</link><pubDate>Sat, 17 Dec 2005 11:17:14 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/pacetwin-usb-interface-modification/</guid><description>&lt;p>I had previously read on Yahoo Groups that a project was under way to retro
+&lt;/ul></description><summary>Using service menus to fix the Panasonic TH42-PHD8</summary></item><item><title>PaceTwin USB Interface Modification</title><link>https://blog.rthur.me/posts/pacetwin-usb-interface-modification/</link><pubDate>Sat, 17 Dec 2005 11:17:14 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/pacetwin-usb-interface-modification/</guid><description>&lt;p>I had previously read on Yahoo Groups that a project was under way to retro
 fit a USB interface to the PaceTwin PVR allowing for easy archiving of recorded
 programs to a computer. Well, the guy who is planning the DIY upgrade has
 setup a website which is documenting progress and also other useful PaceTwin
 information. See the URL below for more information&amp;hellip;&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://www.pace-twin.org.uk">http://www.pace-twin.org.uk&lt;/a>&lt;/li>
-&lt;/ul></description><summary>USB interface modification for the PaceTwin PVR</summary></item><item><title>Lumagen Video Processor Bug Fixed</title><link>https://wimpysworld.com/posts/lumagen-video-processor-bug-fixed/</link><pubDate>Mon, 12 Dec 2005 12:10:33 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/lumagen-video-processor-bug-fixed/</guid><description>&lt;p>I have been exchanging e-mails with the &lt;a href="http://www.convergent-av.co.uk">UK distributor&lt;/a>
+&lt;/ul></description><summary>USB interface modification for the PaceTwin PVR</summary></item><item><title>Lumagen Video Processor Bug Fixed</title><link>https://blog.rthur.me/posts/lumagen-video-processor-bug-fixed/</link><pubDate>Mon, 12 Dec 2005 12:10:33 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/lumagen-video-processor-bug-fixed/</guid><description>&lt;p>I have been exchanging e-mails with the &lt;a href="http://www.convergent-av.co.uk">UK distributor&lt;/a>
 for &lt;a href="http://www.lumagen.com">Lumagen&lt;/a> and the Lumagen engineering department.
 Today is a happy day because I have just tested a pre-release firmware which
 fully fixes the issues I&amp;rsquo;ve reported.&lt;/p>
@@ -551,14 +551,14 @@ fully fixes the issues I&amp;rsquo;ve reported.&lt;/p>
 Truly excellent customer service! See my post in the Lumagen forums.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://www.convergent-av.co.uk/forum/index.php?t=msg&amp;amp;th=393&amp;amp;start=0&amp;amp;rid=0">UK DVB-T PAL De-interlacing Issues&lt;/a>&lt;/li>
-&lt;/ul></description><summary>FPGA video processor bugs have been squashed</summary></item><item><title>Lumagen Video Processor Bug Hunting</title><link>https://wimpysworld.com/posts/lumagen-video-processor-bug-hunting/</link><pubDate>Tue, 22 Nov 2005 12:02:37 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/lumagen-video-processor-bug-hunting/</guid><description>&lt;p>I have spent the last few weeks tweaking and improving my home cinema setup,
+&lt;/ul></description><summary>FPGA video processor bugs have been squashed</summary></item><item><title>Lumagen Video Processor Bug Hunting</title><link>https://blog.rthur.me/posts/lumagen-video-processor-bug-hunting/</link><pubDate>Tue, 22 Nov 2005 12:02:37 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/lumagen-video-processor-bug-hunting/</guid><description>&lt;p>I have spent the last few weeks tweaking and improving my home cinema setup,
 most of my time has been spent learning how to fully exploit my
 &lt;a href="http://www.lumagen.com">Lumagen&lt;/a> video processor. I am extremely impressed
 with the huge improvements in image quality the &lt;a href="http://www.lumagen.com/testindex.php?module=dvi_details">Lumagen VisionDVI&lt;/a>
 provides as opposed to sending video sources direct to the plasma screen, but something
 isn&amp;rsquo;t right with the de-interlacing of DVB-T (or Freeview as we call it in the
 UK). I have isolated the exact issue and posted a problem report in the
-&lt;a href="http://www.convergent-av.co.uk/forum/index.php">Lumagen forums&lt;/a>.&lt;/p></description><summary>Hunting for bugs in an FPGA video processor</summary></item><item><title>Home Cinema is complete!</title><link>https://wimpysworld.com/posts/home-cinema-is-complete/</link><pubDate>Sat, 05 Nov 2005 11:52:46 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/home-cinema-is-complete/</guid><description>&lt;p>Tonight was a landmark occasion. After nearly two years of planning I finally
+&lt;a href="http://www.convergent-av.co.uk/forum/index.php">Lumagen forums&lt;/a>.&lt;/p></description><summary>Hunting for bugs in an FPGA video processor</summary></item><item><title>Home Cinema is complete!</title><link>https://blog.rthur.me/posts/home-cinema-is-complete/</link><pubDate>Sat, 05 Nov 2005 11:52:46 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/home-cinema-is-complete/</guid><description>&lt;p>Tonight was a landmark occasion. After nearly two years of planning I finally
 completed our home cinema. The last job was mounting the plasma screen. Apart
 from hiding away some power cables it is complete and I can&amp;rsquo;t wait to get into
 some serious film viewing. Mounting the plasma screen was not a job I was
@@ -566,7 +566,7 @@ looking forward as DIY is not my strong suit. But, I managed it and posted my
 experiences in the topic below at AVForums.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="http://www.avforums.com/forums/showthread.php?t=259416">Mounting on dry-lined walls&lt;/a>&lt;/li>
-&lt;/ul></description><summary>After 2 years of planning a home cinema appears</summary></item><item><title>First Prototype of my Linux PVR</title><link>https://wimpysworld.com/posts/first-prototype-of-my-linux-pvr/</link><pubDate>Tue, 11 Oct 2005 11:05:06 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/first-prototype-of-my-linux-pvr/</guid><description>&lt;p>I have built an initial prototype of a Linux based PVR using some (very) old
+&lt;/ul></description><summary>After 2 years of planning a home cinema appears</summary></item><item><title>First Prototype of my Linux PVR</title><link>https://blog.rthur.me/posts/first-prototype-of-my-linux-pvr/</link><pubDate>Tue, 11 Oct 2005 11:05:06 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/first-prototype-of-my-linux-pvr/</guid><description>&lt;p>I have built an initial prototype of a Linux based PVR using some (very) old
 hardware I had available. I simply plugged in a new &lt;a href="http://www.hauppauge.co.uk/pages/products/data_novatpci.html">Hauppauge Nova-T
 PCI&lt;/a> card and
 hoped for the best. I got everything working but had to fudge things so that
@@ -574,6 +574,6 @@ over the air electronic program guide (EPG) can be imported into the MythTV
 program guide database.&lt;/p>
 &lt;p>This initial prototype uses &lt;a href="http://mysettopbox.tv/">KnoppMyth&lt;/a> Release 5A16 so
 that I could get up to speed as quickly as possible but I plan on using Debian
-or Ubuntu in the future.&lt;/p></description><summary>Building a prototype Linux PVR with KnoppMyth</summary></item><item><title>When Linux meets Home Cinema</title><link>https://wimpysworld.com/posts/when-linux-meets-home-cinema/</link><pubDate>Wed, 05 Oct 2005 11:02:43 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/when-linux-meets-home-cinema/</guid><description>&lt;p>I have started working on a new project at home, it is one I know I am going
+or Ubuntu in the future.&lt;/p></description><summary>Building a prototype Linux PVR with KnoppMyth</summary></item><item><title>When Linux meets Home Cinema</title><link>https://blog.rthur.me/posts/when-linux-meets-home-cinema/</link><pubDate>Wed, 05 Oct 2005 11:02:43 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/when-linux-meets-home-cinema/</guid><description>&lt;p>I have started working on a new project at home, it is one I know I am going
 to enjoy because it satisfies two of my hobbies. I am going to build a
 prototype PVR based on &lt;a href="http://www.mythtv.org/">MythTV&lt;/a>.&lt;/p></description><summary>Combining my interests in Home Cinema &amp;amp; Linux</summary></item></channel></rss>

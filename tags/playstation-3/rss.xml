@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PlayStation 3 on Wimpy's World</title><link>https://wimpysworld.com/tags/playstation-3/</link><description>Recent content in PlayStation 3 on Wimpy's World</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>martin@wimpress.com (Martin Wimpress)</managingEditor><webMaster>martin@wimpress.com (Martin Wimpress)</webMaster><lastBuildDate>Fri, 18 Dec 2009 15:34:12 +0000</lastBuildDate><atom:link href="https://wimpysworld.com/tags/playstation-3/rss.xml" rel="self" type="application/rss+xml"/><item><title>Mediatomb vs. MiniDLNA</title><link>https://wimpysworld.com/posts/mediatomb-vs-minidlna/</link><pubDate>Fri, 18 Dec 2009 15:34:12 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mediatomb-vs-minidlna/</guid><description>&lt;p>I&amp;rsquo;ve been using &lt;a href="http://mediatomb.cc/">Mediatomb&lt;/a> for nearly two years now but
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PlayStation 3 on Arthur’s Almanac</title><link>https://blog.rthur.me/tags/playstation-3/</link><description>Recent content in PlayStation 3 on Arthur’s Almanac</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><managingEditor>graeme@rthur.me (Graeme Arthur)</managingEditor><webMaster>graeme@rthur.me (Graeme Arthur)</webMaster><lastBuildDate>Fri, 18 Dec 2009 15:34:12 +0000</lastBuildDate><atom:link href="https://blog.rthur.me/tags/playstation-3/rss.xml" rel="self" type="application/rss+xml"/><item><title>Mediatomb vs. MiniDLNA</title><link>https://blog.rthur.me/posts/mediatomb-vs-minidlna/</link><pubDate>Fri, 18 Dec 2009 15:34:12 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mediatomb-vs-minidlna/</guid><description>&lt;p>I&amp;rsquo;ve been using &lt;a href="http://mediatomb.cc/">Mediatomb&lt;/a> for nearly two years now but
 decided to give &lt;a href="http://sourceforge.net/projects/minidlna/">MiniDLNA&lt;/a> a whirl
 since it is a fully fledged DLNA server whereas Mediatomb is UPnP only. I&amp;rsquo;m
 currently running both Mediatomb SVN and MiniDLNA CVS. So, how does MiniDLNA
@@ -31,7 +31,7 @@ will switch everything to MiniDLNA.&lt;/p>
 &lt;p>Since writing this post MiniDLNA added support for playlists. It still doesn&amp;rsquo;t
 support Last.fm scrobbling though. Despite that I switched to MiniDLNA and it
 has been streaming audio and video around the house for that last couple of
-years.&lt;/p></description><summary>Comparing Mediatomb and MiniDLNA streaming servers</summary></item><item><title>DVD to MPEG2-TS Ripper for Linux</title><link>https://wimpysworld.com/posts/dvd-to-mpeg2-ts-ripper-for-linux/</link><pubDate>Fri, 04 Dec 2009 07:53:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/dvd-to-mpeg2-ts-ripper-for-linux/</guid><description>&lt;p>A while back I released a script that rips a DVD to MPEG-2 PS allowing the
+years.&lt;/p></description><summary>Comparing Mediatomb and MiniDLNA streaming servers</summary></item><item><title>DVD to MPEG2-TS Ripper for Linux</title><link>https://blog.rthur.me/posts/dvd-to-mpeg2-ts-ripper-for-linux/</link><pubDate>Fri, 04 Dec 2009 07:53:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/dvd-to-mpeg2-ts-ripper-for-linux/</guid><description>&lt;p>A while back I released a script that rips a DVD to MPEG-2 PS allowing the
 user to select one audio stream and one subtitle stream. Optionally the video
 can be requantised, using M2VRequantiser and an ISO image created. If creating
 an ISO image the chapters are also preserved from the original DVD. You can
@@ -61,7 +61,7 @@ playback via DLNA on the PS3. Some things to be aware of:&lt;/p>
 release page below.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/DVD-to-MPG">DVD-to-MPG&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Ripping DVDs to MPEG-2 Transport Streams for DLNA streaming</summary></item><item><title>PS3, Mediatomb, Multi Zone Music streaming</title><link>https://wimpysworld.com/posts/ps3-mediatomb-multi-zone-music-streaming/</link><pubDate>Sat, 26 Sep 2009 11:02:52 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/ps3-mediatomb-multi-zone-music-streaming/</guid><description>&lt;p>PlayStation 3 firmware 3.00 added a new feature I was very excited about,
+&lt;/ul></description><summary>Ripping DVDs to MPEG-2 Transport Streams for DLNA streaming</summary></item><item><title>PS3, Mediatomb, Multi Zone Music streaming</title><link>https://blog.rthur.me/posts/ps3-mediatomb-multi-zone-music-streaming/</link><pubDate>Sat, 26 Sep 2009 11:02:52 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/ps3-mediatomb-multi-zone-music-streaming/</guid><description>&lt;p>PlayStation 3 firmware 3.00 added a new feature I was very excited about,
 multi-av output. Today I finally got round to re-wiring the home cinema system
 to make use of this new feature. I now have the PS3 streaming music from
 &lt;a href="http://mediatomb.cc/">MediaTomb&lt;/a> with my A/V receiver sending audio to Zone
@@ -71,7 +71,7 @@ interconnects.&lt;/p>
 system which are often in the kitchen but also moved outside for parties. If
 Sony could just add Skype to the PS3 and allow the PSP Remote Play to output
 audio to both the PS3 and PSP (rather than just one of them) I would be very
-happy indeed.&lt;/p></description><summary>Multi Zone music streaming with the PlayStation 3</summary></item><item><title>MKV to MPEG-4 conversion script</title><link>https://wimpysworld.com/posts/mkv-to-mpeg-4-conversion-script/</link><pubDate>Thu, 27 Aug 2009 20:48:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mkv-to-mpeg-4-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a script that
+happy indeed.&lt;/p></description><summary>Multi Zone music streaming with the PlayStation 3</summary></item><item><title>MKV to MPEG-4 conversion script</title><link>https://blog.rthur.me/posts/mkv-to-mpeg-4-conversion-script/</link><pubDate>Thu, 27 Aug 2009 20:48:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mkv-to-mpeg-4-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a script that
 creates a PlayStation 3 or Xbox 360 compatible MPEG-4 from Matroska providing
 the video is H.264 and audio is AC3 or DTS.&lt;/p>
 &lt;p>Xbox 360 compatibility requires that audio is forcibly downmixed to stereo
@@ -92,7 +92,7 @@ should work on any other Linux/Unix flavour and possibly Mac OS X providing you
 have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-MP4">MKV-to-MP4&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Creating PlayStation 3 and Xbox 360 compatible MPEG-4 videos</summary></item><item><title>PlayStation 3 compatible MPEG-4 container repacker</title><link>https://wimpysworld.com/posts/playstation-3-compatible-mpeg-4-container-repacker/</link><pubDate>Thu, 23 Apr 2009 17:09:11 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/playstation-3-compatible-mpeg-4-container-repacker/</guid><description>&lt;p>Some of my mobile phones have been able to record video clips in MPEG-4
+&lt;/ul></description><summary>Creating PlayStation 3 and Xbox 360 compatible MPEG-4 videos</summary></item><item><title>PlayStation 3 compatible MPEG-4 container repacker</title><link>https://blog.rthur.me/posts/playstation-3-compatible-mpeg-4-container-repacker/</link><pubDate>Thu, 23 Apr 2009 17:09:11 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/playstation-3-compatible-mpeg-4-container-repacker/</guid><description>&lt;p>Some of my mobile phones have been able to record video clips in MPEG-4
 format. Sadly some of these clips don&amp;rsquo;t play on the PlayStation 3 and those
 that do stutter terribly. I use &lt;a href="http://po-ru.com/projects/iplayer-downloader/">iplayer-dl&lt;/a>
 to download content from BBC iPlayer. Sadly the files are in a Quicktime
@@ -106,7 +106,7 @@ other Linux/Unix flavour and possibly Mac OS X providing you have the required
 tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MP4-Packer">MP4-Repacker&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Automatically repack MPEG-4 video files for PlayStation 3 compatibility</summary></item><item><title>MKV to M2TS conversion script</title><link>https://wimpysworld.com/posts/mkv-to-m2ts-conversion-script/</link><pubDate>Thu, 23 Apr 2009 17:00:58 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/mkv-to-m2ts-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a
+&lt;/ul></description><summary>Automatically repack MPEG-4 video files for PlayStation 3 compatibility</summary></item><item><title>MKV to M2TS conversion script</title><link>https://blog.rthur.me/posts/mkv-to-m2ts-conversion-script/</link><pubDate>Thu, 23 Apr 2009 17:00:58 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/mkv-to-m2ts-conversion-script/</guid><description>&lt;p>The PlayStation 3 can&amp;rsquo;t play MKV files. Therefore I&amp;rsquo;ve written a
 script that creates a PlayStation 3 compatible M2TS from a MKV,
 assuming video is H.264 and audio is AC3 or DTS with as little
 re-encoding as possible. Any subtitles in the MKV are preserved
@@ -120,7 +120,7 @@ DTS audio is transcoded to AC3.&lt;/p>
 possibly Mac OS X providing you have the required tools installed.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-M2TS">MKV-to-M2TS&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Convert Matroska file to MPEG2-TS for PlayStation 3 compatibility</summary></item><item><title>DVD to MPEG2-PS Ripper for Linux</title><link>https://wimpysworld.com/posts/dvd-to-mpeg2-ps-ripper-for-linux/</link><pubDate>Thu, 23 Apr 2009 16:50:31 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/dvd-to-mpeg2-ps-ripper-for-linux/</guid><description>&lt;p>Every so often I find myself in looking through the ex-rental DVD &lt;em>&amp;ldquo;bargain
+&lt;/ul></description><summary>Convert Matroska file to MPEG2-TS for PlayStation 3 compatibility</summary></item><item><title>DVD to MPEG2-PS Ripper for Linux</title><link>https://blog.rthur.me/posts/dvd-to-mpeg2-ps-ripper-for-linux/</link><pubDate>Thu, 23 Apr 2009 16:50:31 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/dvd-to-mpeg2-ps-ripper-for-linux/</guid><description>&lt;p>Every so often I find myself in looking through the ex-rental DVD &lt;em>&amp;ldquo;bargain
 bin&amp;rdquo;&lt;/em>. Quite often I find something I consider a bargain. However, the
 experience of watching an ex-rental DVD is typically ruined by the various
 trailers and marketing guff at the start which you can&amp;rsquo;t skip. My wife hates
@@ -136,7 +136,7 @@ image created. If creating an ISO image the chapters are also preserved from
 the original DVD. I&amp;rsquo;ve lobbed my code into GitHub.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/DVD-to-MPG">DVD-to-MPG&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Ripping DVDs to MPEG2-PS for streaming via UPnP</summary></item><item><title>IMDB Film Summary as a MPEG-2 video</title><link>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video/</link><pubDate>Wed, 22 Apr 2009 18:00:07 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/imdb-film-summary-as-a-mpeg-2-video/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
+&lt;/ul></description><summary>Ripping DVDs to MPEG2-PS for streaming via UPnP</summary></item><item><title>IMDB Film Summary as a MPEG-2 video</title><link>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video/</link><pubDate>Wed, 22 Apr 2009 18:00:07 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/imdb-film-summary-as-a-mpeg-2-video/</guid><description>&lt;p>&lt;strong>UPDATE! I no longer use or maintain the script below. I suggest the vastly
 superior &lt;a href="http://www.bunyipawonga.org/sheetmaker/index.php">Sheet Maker for Linux&lt;/a>&lt;/strong>.&lt;/p>
 &lt;p>If you&amp;rsquo;ve read my blog before you&amp;rsquo;ll know I run Mediatomb DLNA server with my
 PlayStation 3 as the client, You&amp;rsquo;ll also know I am working towards importing my
@@ -190,7 +190,7 @@ the appropriate directory in &amp;lsquo;All&amp;rsquo;. For example.&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> `-- 8
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> `-- The_Usual_Suspects -&amp;gt; ../../All/The_Usual_Suspects
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>This code was lashed up in a few hours, it ain&amp;rsquo;t pretty but it works for me on
-my Ubuntu systems, maybe it&amp;rsquo;ll work for you too.&lt;/p></description><summary>Create film preview information for your UPnP server</summary></item><item><title>Converting Matroska to M2TS for PS3 and Mediatomb</title><link>https://wimpysworld.com/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</link><pubDate>Wed, 15 Apr 2009 16:19:24 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</guid><description>&lt;p>It has been a while since I last posted, mainly due to not having Internet
+my Ubuntu systems, maybe it&amp;rsquo;ll work for you too.&lt;/p></description><summary>Create film preview information for your UPnP server</summary></item><item><title>Converting Matroska to M2TS for PS3 and Mediatomb</title><link>https://blog.rthur.me/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</link><pubDate>Wed, 15 Apr 2009 16:19:24 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/converting-matroska-to-m2ts-for-ps3-and-mediatomb/</guid><description>&lt;p>It has been a while since I last posted, mainly due to not having Internet
 access at home for a month. Anyway, I&amp;rsquo;m online again and I have been tinkering
 with various projects the most recent of which is Matroska conversion (again).&lt;/p>
 &lt;h2 id="matroska-to-mp4">Matroska to MP4&lt;/h2>
@@ -218,7 +218,7 @@ outside chance it will work on Mac OS X if you can get the required tools
 installed. Again, you can find my script on GitHub.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/flexiondotorg/MKV-to-M2TS">MPV-to-M2TS&lt;/a>&lt;/li>
-&lt;/ul></description><summary>Fast conversion of Matroska video to MPEG2-TS</summary></item><item><title>Converting DVB-T to DVD Compliant MPEG-2</title><link>https://wimpysworld.com/posts/converting-dvb-t-to-dvd-compliant-mpeg-2/</link><pubDate>Thu, 22 Jan 2009 23:46:26 +0000</pubDate><author>martin@wimpress.com (Martin Wimpress)</author><guid>https://wimpysworld.com/posts/converting-dvb-t-to-dvd-compliant-mpeg-2/</guid><description>&lt;p>I am just about to clean up and convert another batch of programmes I have
+&lt;/ul></description><summary>Fast conversion of Matroska video to MPEG2-TS</summary></item><item><title>Converting DVB-T to DVD Compliant MPEG-2</title><link>https://blog.rthur.me/posts/converting-dvb-t-to-dvd-compliant-mpeg-2/</link><pubDate>Thu, 22 Jan 2009 23:46:26 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/posts/converting-dvb-t-to-dvd-compliant-mpeg-2/</guid><description>&lt;p>I am just about to clean up and convert another batch of programmes I have
 recorded from Freeview (DVB-T in the UK) so that I can add them to my
 DLNA Server. I thought I&amp;rsquo;d share the method I use on Ubuntu.&lt;/p>
 &lt;p>By clean up, I mean edit out any adverts and trim crap from the start and the
