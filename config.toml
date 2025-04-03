@@ -1,5 +1,5 @@
-baseURL = 'https://wimpysworld.com/'
-title = "Wimpy's World"
+baseURL = 'https://blog.rthur.me'
+title = "Arthur’s Almanac"
 
 languageCode = 'en-gb'
 DefaultContentLanguage = "en"
@@ -12,14 +12,14 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [Author]
-  name = "Martin Wimpress"
-  email = "martin@wimpress.com"
+  name = "Graeme Arthur"
+  email = "graeme@rthur.me"
 
 [social]
-  twitter = 'm_wimpress'
+  twitter = 'graemearthur'
 
 [params]
-  author = 'Martin Wimpress'
+  author = 'Graeme Arthur'
   description = 'Blog, Podcasts, Live Streams and Videos about Linux and Open Source with a focus on Ubuntu, Debian and NixOS.'
   tags = 'Linux, Open Source, Ubuntu, Debian, NixOS, nix, Desktop Linux, systemd, Containers, Virtualisation, OBS Studio, Live Stream, Twitch, YouTube, Podcast, MATE Desktop'
   tagLine = "INNOVATION - OPEN SOURCE - LEADERSHIP"
@@ -36,7 +36,7 @@ enableRobotsTXT = true
   [params.features.comment]
     enable = true
     [params.features.comment.giscus]
-      repo = "flexiondotorg/flexiondotorg.github.io"
+      repo = "graemearthur/blog.rthur.me"
       repoID = "R_kgDOIoJw9g"
       category = "Blog Comments"
       categoryID = "DIC_kwDOIoJw9s4CTG_3"
@@ -52,57 +52,42 @@ enableRobotsTXT = true
   token = "72ea1ec7-2670-4a14-a16a-155ce22f82e3"
 
 [[params.social]]
-  icon      = "fa-discord"
-  icon_pack = "fab"
-  label     = "Discord"
-  url       = "https://wimpysworld.io/discord"
-[[params.social]]
   icon      = "fa-mastodon"
   icon_pack = "fab"
   label     = "Mastodon"
-  url       = "https://fosstodon.org/@wimpy"
+  url       = "https://mastodon.social/@graemearthur"
 [[params.social]]
   icon      = "fa-twitter"
   icon_pack = "fab"
   label     = "Twitter"
-  url       = "https://twitter.com/m_wimpress"
+  url       = "https://twitter.com/graemearthur"
 [[params.social]]
   icon      = "fa-linkedin"
   icon_pack = "fab"
   label     = "LinkedIn"
-  url       = "https://linkedin.com/in/martinwimpress"
+  url       = "https://linkedin.com/in/graeme-arthur"
 
 [[params.code]]
   icon      = "fa-github"
   icon_pack = "fab"
   label     = "GitHub"
-  url       = "https://github.com/flexiondotorg"
-[[params.code]]
-  icon      = "fa-ubuntu"
-  icon_pack = "fab"
-  label     = "Launchpad"
-  url       = "https://launchpad.net/~flexiondotorg"
+  url       = "https://github.com/graemearthur"
 
 [[params.content]]
   icon      = "fa-instagram"
   icon_pack = "fab"
   label     = "Instagram"
-  url       = "https://instagram.com/WimpysWorld"
+  url       = "https://instagram.com/graemearthur"
 [[params.content]]
   icon      = "fa-twitch"
   icon_pack = "fab"
   label     = "Twitch"
-  url       = "https://twitch.tv/WimpysWorld"
+  url       = "https://twitch.tv/uncle8bit"
 [[params.content]]
   icon      = "fa-youtube"
   icon_pack = "fab"
   label     = "YouTube"
   url       = "https://youtube.com/WimpysWorld"
-[[params.content]]
-  icon      = "fa-podcast"
-  icon_pack = "fas"
-  label     = "Podcast"
-  url       = "https://linuxmatters.sh"
 
 [related]
   includeNewer = true
