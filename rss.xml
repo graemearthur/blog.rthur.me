@@ -49,20 +49,20 @@
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>systemctl restart apache2
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="find-large-files">Find large files:&lt;/h4>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>find / -type f -size +500M
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre tabindex="0">&lt;code>
-## Productivity 📈 (How I use it)
-### Daily Review
-At the end of the day, I glance over my worklog, see what I accomplished, and note anything I need to carry over to tomorrow.
-### Weekly Recap
-Every Friday, I skim through my logs to spot trends. If I’m getting stuck on the same issues, I figure out ways to improve my workflow.
-## What&amp;#39;s next? 🔮
-A few things I want to try next:
-- Automating worklog creation with VS Code snippets.
-- adding useful bits from my worklog to **onenote** for better searchability.
-- Expanding my command logs with more troubleshooting steps and automation scripts.
-## Conclusion 🏁
-The **Journal** extension in **VS Code** makes keeping a worklog effortless. It’s a game-changer for tracking progress, storing useful commands, and improving productivity. If you’re a **sysadmin, developer, or project manager**, I highly recommend giving it a shot. Let me know if you try it out! 🚀
-&lt;/code>&lt;/pre></description><summary>Making logging my work easier with VSCODE</summary></item><item><title>Linux Matters</title><link>https://blog.rthur.me/projects/linux-matters/</link><pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/linux-matters/</guid><description>&lt;p>Join 3 experienced Open Source professionals (&lt;em>&lt;a href="https://linuxmatters.sh/host/apope">Alan Pope&lt;/a>, &lt;a href="https://linuxmatters.sh/host/mjohnson">Mark Johnson&lt;/a>, &lt;a href="https://linuxmatters.sh/host/mwimpress">Martin Wimpress&lt;/a>&lt;/em>) as they discuss the impact Linux has in their daily lives. Upbeat family-friendly banter, conversation and discussion for Linux enthusiasts and casual observers of all ages. A new episode every two weeks covering terminal productivity, desktop experience, development, gaming, hosting, hardware, community, cloud-native and all the Linux Matters that matter.&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="productivity--how-i-use-it">Productivity 📈 (How I use it)&lt;/h2>
+&lt;h3 id="daily-review">Daily Review&lt;/h3>
+&lt;p>At the end of the day, I glance over my worklog, see what I accomplished, and note anything I need to carry over to tomorrow.&lt;/p>
+&lt;h3 id="weekly-recap">Weekly Recap&lt;/h3>
+&lt;p>Every Friday, I skim through my logs to spot trends. If I’m getting stuck on the same issues, I figure out ways to improve my workflow.&lt;/p>
+&lt;h2 id="whats-next-">What&amp;rsquo;s next? 🔮&lt;/h2>
+&lt;p>A few things I want to try next:&lt;/p>
+&lt;ul>
+&lt;li>Automating worklog creation with VS Code snippets.&lt;/li>
+&lt;li>adding useful bits from my worklog to &lt;strong>onenote&lt;/strong> for better searchability.&lt;/li>
+&lt;li>Expanding my command logs with more troubleshooting steps and automation scripts.&lt;/li>
+&lt;/ul>
+&lt;h2 id="conclusion-">Conclusion 🏁&lt;/h2>
+&lt;p>The &lt;strong>Journal&lt;/strong> extension in &lt;strong>VS Code&lt;/strong> makes keeping a worklog effortless. It’s a game-changer for tracking progress, storing useful commands, and improving productivity. If you’re a &lt;strong>sysadmin, developer, or project manager&lt;/strong>, I highly recommend giving it a shot. Let me know if you try it out! 🚀&lt;/p></description><summary>Making logging my work easier with VSCODE</summary></item><item><title>Linux Matters</title><link>https://blog.rthur.me/projects/linux-matters/</link><pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate><author>graeme@rthur.me (Graeme Arthur)</author><guid>https://blog.rthur.me/projects/linux-matters/</guid><description>&lt;p>Join 3 experienced Open Source professionals (&lt;em>&lt;a href="https://linuxmatters.sh/host/apope">Alan Pope&lt;/a>, &lt;a href="https://linuxmatters.sh/host/mjohnson">Mark Johnson&lt;/a>, &lt;a href="https://linuxmatters.sh/host/mwimpress">Martin Wimpress&lt;/a>&lt;/em>) as they discuss the impact Linux has in their daily lives. Upbeat family-friendly banter, conversation and discussion for Linux enthusiasts and casual observers of all ages. A new episode every two weeks covering terminal productivity, desktop experience, development, gaming, hosting, hardware, community, cloud-native and all the Linux Matters that matter.&lt;/p>
 &lt;ul>
 &lt;li>Organisation: &lt;a href="https://linuxmatters.sh">Linux Matters&lt;/a>&lt;/li>
 &lt;li>Date: April 2023 - date&lt;/li>
