@@ -1,5 +1,5 @@
 ---
-title: "Steam Box vs Steam Deck"
+title: "Journal as a worklog"
 slug: steambox-vs-steamdeck
 date: 2023-05-01T18:38:19+01:00
 lastmod: 2023-05-02T20:15:42+01:00
@@ -13,6 +13,7 @@ images:
   - "hero.webp"
 ---
 
+First off
  When I received my Steam Deck Purchase Information email I wasn't playing games all that often; mostly online racing games with friends once a week. I didn't think I'd get much use out of a handheld console. I also had an inventory of PC parts available that could be used to build a dedicated Steam Box. So on July 18th 2022, I declined spending £569 on a Steam Deck and set about building a Steam Box instead. Here's how I got on and what I learned.
 
 ## As featured on Linux Matters! 🎙️
