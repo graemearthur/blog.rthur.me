@@ -1,6 +1,6 @@
 ---
-title: "Ubuntu MATE"
-slug: ubuntu-mate
+title: "Elim Website"
+slug: elim-website
 date: 2014-06-01 00:00:00
 categories: ["Drupal", "Development", "Elim"]
 tags: ["Elim", "Church", "Website"]
