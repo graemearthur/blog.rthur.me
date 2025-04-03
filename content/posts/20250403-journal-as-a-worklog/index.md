@@ -87,7 +87,6 @@ systemctl restart apache2
 ```bash
 find / -type f -size +500M
 ```
-```
 
 ## Productivity 📈 (How I use it)
 
@@ -107,6 +106,3 @@ A few things I want to try next:
 ## Conclusion 🏁
 
 The **Journal** extension in **VS Code** makes keeping a worklog effortless. It’s a game-changer for tracking progress, storing useful commands, and improving productivity. If you’re a **sysadmin, developer, or project manager**, I highly recommend giving it a shot. Let me know if you try it out! 🚀
-
-
-
