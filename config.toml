@@ -83,11 +83,6 @@ enableRobotsTXT = true
   icon_pack = "fab"
   label     = "Twitch"
   url       = "https://twitch.tv/uncle8bit"
-[[params.content]]
-  icon      = "fa-youtube"
-  icon_pack = "fab"
-  label     = "YouTube"
-  url       = "https://youtube.com/WimpysWorld"
 
 [related]
   includeNewer = true
