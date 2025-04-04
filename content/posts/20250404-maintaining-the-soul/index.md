@@ -35,6 +35,12 @@ In tech, logs tell the story of what’s happening: when services start, when th
 
 **Spiritual logs** work the same way. We need a record—a way to trace our journey, reflect, and grow.
 
+<p class="text-center">
+  <img src="./soul.png" class="img-fluid" alt="Stadia Controller"/>
+  <br />
+</p>
+
+
 For me, logging looks like:
 - Daily journaling in **Obsidian**, even just a few lines (often on my phone with one hand while holding a baby bottle with the other).
 - Noting what I prayed for, what Scripture stood out, what God might be saying.
